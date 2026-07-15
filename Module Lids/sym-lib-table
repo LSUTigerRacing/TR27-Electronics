@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Module Lids")(type "KiCad")(uri "${KIPRJMOD}/Module Lids.kicad_sym")(options "")(descr ""))
+)
