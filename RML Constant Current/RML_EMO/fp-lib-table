@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Mouser") (type "KiCad") (uri "${KIPRJMOD}/Mouser.pretty") (options "") (descr ""))
+	(lib (name "!.Custome") (type "KiCad") (uri "${KIPRJMOD}/!.Custome.pretty") (options "") (descr ""))
+)
