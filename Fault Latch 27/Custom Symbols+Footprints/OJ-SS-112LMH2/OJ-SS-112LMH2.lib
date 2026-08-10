@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model OJ-SS-112LMH2
+#/3387643/1863234/2.50/4/2/Relay or Contactor
+DEF OJ-SS-112LMH2 K 0 30 Y Y 1 F N
+F0 "K" 1150 300 50 H V L CNN
+F1 "OJ-SS-112LMH2" 1150 200 50 H V L CNN
+F2 "OJSS112LMH2" 1150 100 50 H I L CNN
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=OJ_OJE_series_relay_data_sheet_E&DocType=Data%20Sheet&DocLang=English&PartCntxt=1721260-5&DocFormat=pdf" 1150 0 50 H I L CNN
+F4 "Body Features: Insulation Special Features Tracking Index of Relay Base PTI250 | Product Weight 9 G | Product Weight .318 OZ | Contact Features: Contact Current Rating (Max) 8 AMP | Contact Arrangement 1 Form A (NO) | Contact Current Class 16 AMP | Contact Number of Poles 1 | Contact Material AgSnOInO | Dimensions: Product Width .401 INCH | Product Length 18.2 MM | Insulation Clearance Between Contact & Coil .125 INCH | Product Length .716 INCH | Product Height 14.7 MM | Length Class (Mechanical) 16  20 " 1150 -100 50 H I L CNN "Description"
+F5 "15.4" 1150 -200 50 H I L CNN "Height"
+F6 "655-OJ-SS-112LMH2" 1150 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-OEG/OJ-SS-112LMH2?qs=rXmh1mW8ce0s4UUbiGzobQ%3D%3D" 1150 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "TE Connectivity" 1150 -500 50 H I L CNN "Manufacturer_Name"
+F9 "OJ-SS-112LMH2" 1150 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X COIL_1 1 0 0 200 R 50 50 0 0 P
+X COIL_2 2 1300 0 200 L 50 50 0 0 P
+X COM 3 0 -100 200 R 50 50 0 0 P
+X NO 4 1300 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1100 100 1100 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
