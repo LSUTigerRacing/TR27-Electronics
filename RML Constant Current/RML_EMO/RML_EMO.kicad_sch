@@ -4558,12 +4558,6 @@
 		(uuid "00ea6afe-b9b5-4cf9-bdb4-2d09c4303fb8")
 	)
 	(junction
-		(at 127 87.63)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0bfefd0c-30e4-408a-aedb-a151985a131f")
-	)
-	(junction
 		(at 134.62 87.63)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4714,6 +4708,12 @@
 		(uuid "c483b8bf-cf98-4200-bc54-f23eeb81e03d")
 	)
 	(junction
+		(at 52.07 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c6c4c2ee-9e7d-4ddb-9bf9-c8c05937cdd8")
+	)
+	(junction
 		(at 233.68 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4742,12 +4742,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e32ff327-48d5-4fc2-8a7f-e5549ca61d8a")
-	)
-	(junction
-		(at 52.07 96.52)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ef131360-415b-4d23-a629-dd106aa7ced1")
 	)
 	(junction
 		(at 78.74 64.77)
@@ -4857,7 +4851,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 78.74) (xy 127 87.63)
+			(xy 127 78.74) (xy 127 95.25)
 		)
 		(stroke
 			(width 0)
@@ -4964,16 +4958,6 @@
 			(type default)
 		)
 		(uuid "2c43ac60-0112-4f52-8fda-6e2ddbdabdbd")
-	)
-	(wire
-		(pts
-			(xy 52.07 96.52) (xy 55.88 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2c8932a9-bcd9-4d5b-9ffd-9004bfa18137")
 	)
 	(wire
 		(pts
@@ -5507,6 +5491,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 96.52) (xy 68.58 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86fc53fc-83a6-4c65-b28c-cc11616b48e7")
+	)
+	(wire
+		(pts
 			(xy 85.09 102.87) (xy 86.36 102.87)
 		)
 		(stroke
@@ -5777,16 +5771,6 @@
 	)
 	(wire
 		(pts
-			(xy 127 87.63) (xy 127 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bb5ec2aa-8a0b-4082-b5fd-9d2a42750481")
-	)
-	(wire
-		(pts
 			(xy 245.11 86.36) (xy 245.11 95.25)
 		)
 		(stroke
@@ -5877,6 +5861,16 @@
 	)
 	(wire
 		(pts
+			(xy 55.88 96.52) (xy 52.07 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4b15f0e-25ac-4647-86b7-7cc4003e2b60")
+	)
+	(wire
+		(pts
 			(xy 144.78 87.63) (xy 147.32 87.63)
 		)
 		(stroke
@@ -5914,16 +5908,6 @@
 			(type default)
 		)
 		(uuid "dc7f8784-c354-42f5-bd10-25dd932bad7c")
-	)
-	(wire
-		(pts
-			(xy 63.5 96.52) (xy 68.58 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e40ad00d-d098-4ad0-b537-85323048afe4")
 	)
 	(wire
 		(pts
@@ -6115,7 +6099,7 @@
 		)
 		(uuid "740061d3-e342-4c03-a9c9-a8b33e6744c8")
 	)
-	(label "5.17V"
+	(label "5.10V"
 		(at 85.09 102.87 180)
 		(effects
 			(font
@@ -6401,6 +6385,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 66.04 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC#" "C91186"
 			(at 66.04 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -7421,7 +7416,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "6k"
+		(property "Value" "6.04k"
 			(at 138.43 90.678 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7456,6 +7451,17 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 140.97 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" "667-ERJ-P06F6041V"
+			(at 140.97 87.63 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7503,7 +7509,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "2.5k"
+		(property "Value" "2k"
 			(at 97.79 60.9599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7537,6 +7543,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 95.25 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" "71-CRCW08052K00JNEA"
 			(at 95.25 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -7619,6 +7636,17 @@
 			)
 		)
 		(property "Description" "N-MOSFET transistor, gate/source/drain"
+			(at 124.46 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" ""
 			(at 124.46 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -7923,7 +7951,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_TUMD2"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 59.69 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -7934,7 +7962,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_DIODEs"
+		(property "Datasheet" "https://www.mouser.com/en/ProductDetail/ROHM-Semiconductor/RFU01SM4ST2R?qs=YCa%2FAAYMW02cEvafsLnY4g%3D%3D"
 			(at 59.69 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -7979,6 +8007,17 @@
 			)
 		)
 		(property "Sim.Params" "rs=50m cjo=10p"
+			(at 59.69 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" "755-RFU01SM4ST2R"
 			(at 59.69 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -8185,7 +8224,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "37K"
+		(property "Value" "36k"
 			(at 71.12 115.5699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8219,6 +8258,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 68.58 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" "667-ERJ-P06F3602V"
 			(at 68.58 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -8266,7 +8316,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "97.5k"
+		(property "Value" "86.6k"
 			(at 88.392 72.39 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8300,6 +8350,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 95.25 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" "667-ERJ-P06F8662V"
 			(at 95.25 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -8348,7 +8409,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "85.6k"
+		(property "Value" "86.6k"
 			(at 81.28 60.9599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8382,6 +8443,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 78.74 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" "667-ERJ-P06F8662V"
 			(at 78.74 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -9544,6 +9616,17 @@
 				)
 			)
 		)
+		(property "Mouser#" "667-ERJ-P06J105V"
+			(at 134.62 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "23f17c9b-6093-4648-823b-9c1ccb146590")
 		)
@@ -10418,6 +10501,17 @@
 				)
 			)
 		)
+		(property "JLC#" "C1592"
+			(at 200.66 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "529deaca-ffbe-45e3-8e4b-1941341f0412")
 		)
@@ -10742,6 +10836,17 @@
 				)
 			)
 		)
+		(property "JLC#" "C91186"
+			(at 157.48 62.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6a48667d-d28c-43b7-90ac-8a965ec890d2")
 		)
@@ -10780,7 +10885,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "400K"
+		(property "Value" "374k"
 			(at 71.12 105.4099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10791,7 +10896,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 69.596 104.394 90)
 			(hide yes)
 			(show_name no)
@@ -10802,7 +10907,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/en/ProductDetail/Vishay/CRCW0805400KJNTA?qs=sGAEpiMZZMtlubZbdhIBIBPEb0uzaga38zi2jIQMXkQ%3D"
 			(at 68.58 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -10814,6 +10919,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 68.58 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" "71-CRCW0805400KJNTA"
 			(at 68.58 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -11736,6 +11852,17 @@
 				)
 			)
 		)
+		(property "Mouser#" "603-RC0805FR-10100KL"
+			(at 48.26 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6462ba22-8d96-4ced-85c8-dbf66933d203")
 		)
@@ -11927,83 +12054,6 @@
 			(project "RML_EMO"
 				(path "/dde5c833-5196-4ddc-842a-885b47d44bef"
 					(reference "R16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 127 87.63 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c99834eb-c3bf-4c4d-bcbc-e296100e057e")
-		(property "Reference" "TP4"
-			(at 123.698 82.55 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 123.698 85.09 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
-			(at 127 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 127 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 127 87.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b5b404df-f02e-4a52-8271-c798f7011ab3")
-		)
-		(instances
-			(project "RML_EMO"
-				(path "/dde5c833-5196-4ddc-842a-885b47d44bef"
-					(reference "TP4")
 					(unit 1)
 				)
 			)
@@ -12326,6 +12376,17 @@
 			)
 		)
 		(property "Description" "N-MOSFET transistor, gate/source/drain"
+			(at 132.08 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "  IPP60R180P7XKSA1-ND"
 			(at 132.08 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -13330,6 +13391,17 @@
 				)
 			)
 		)
+		(property "Mouser#" "652-CR0805FX-3571ELF"
+			(at 59.69 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f1142b98-7f53-44ec-9931-7c404a29d9f5")
 		)
@@ -13367,7 +13439,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "14.4k"
+		(property "Value" "14.3k"
 			(at 70.612 72.898 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13401,6 +13473,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 78.74 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" "667-ERJ-P06F1432V"
 			(at 78.74 71.12 0)
 			(hide yes)
 			(show_name no)
