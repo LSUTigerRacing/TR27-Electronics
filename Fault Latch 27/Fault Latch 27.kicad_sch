@@ -9904,7 +9904,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "225k"
 			(at 385.445 97.7899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10475,8 +10475,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
-			(at 31.242 148.082 0)
+		(property "Value" "100n"
+			(at 35.052 148.082 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10497,7 +10497,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL05B104KP5NNNC_C133086.pdf"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/508/1/UPY_AC_NP0X7RX7S_6_3V_TO_2KV.pdf"
 			(at 34.29 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -10722,6 +10722,61 @@
 		)
 		(property "Manufacturer_Part_Number" ""
 			(at 34.29 146.05 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.19"
+			(at 34.29 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.15"
+			(at 34.29 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-3034-2-ND"
+			(at 34.29 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "AC0603KRX7R9BB104 "
+			(at 34.29 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-AC0603KR9BB104 "
+			(at 34.29 146.05 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11394,106 +11449,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Isolator:Optocoupler_DC_PhotoNPN_AKEC")
-		(at 48.26 143.51 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "14024efe-954d-49ef-998e-a3fb8f683f1e")
-		(property "Reference" "U12"
-			(at 48.26 134.62 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Optocoupler"
-			(at 48.26 137.16 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "1.Custom_Footprints:SSOP-4_VOS617A_VIS"
-			(at 43.18 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/83497/vos617a.pdf"
-			(at 48.26 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Description" "Generic DC optocoupler with NPN phototransistor output, pins order: anode/cathode/emitter/collector"
-			(at 48.26 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF#" "VOS617A-3T"
-			(at 48.26 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "8b600ff2-e3b6-45c5-849e-fb9d75d332ee")
-		)
-		(pin "2"
-			(uuid "c3bc3fc7-57ed-4a9d-ac1f-cd4d26d64351")
-		)
-		(pin "4"
-			(uuid "996c5d02-9004-4126-ae1c-9431565273c8")
-		)
-		(pin "3"
-			(uuid "f8e90b0b-79f9-4a79-ae58-ca4eae1c99e7")
-		)
-		(instances
-			(project "Fault Latch 27"
-				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "U12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 157.48 160.02 0)
 		(unit 1)
@@ -11927,7 +11882,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/mmftn6001.pdf"
 			(at 119.38 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -12152,6 +12107,61 @@
 		)
 		(property "Manufacturer_Part_Number" ""
 			(at 119.38 46.99 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.16"
+			(at 119.38 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.15"
+			(at 119.38 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "4878-MMFTN6001TR-ND"
+			(at 119.38 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "MMFTN6001 "
+			(at 119.38 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 637-MMFTN6001 "
+			(at 119.38 46.99 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12998,7 +13008,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/508/1/UPY_AC_NP0X7RX7S_6_3V_TO_2KV.pdf"
 			(at 341.63 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -13031,6 +13041,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.19"
+			(at 341.63 92.71 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.15"
+			(at 341.63 92.71 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-3034-2-ND"
+			(at 341.63 92.71 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "AC0603KRX7R9BB104 "
+			(at 341.63 92.71 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-AC0603KR9BB104 "
+			(at 341.63 92.71 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1742b707-2ff6-4d9c-8349-7c1370d81a90")
 		)
@@ -13041,106 +13106,6 @@
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
 					(reference "C8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Isolator:Optocoupler_DC_PhotoNPN_AKEC")
-		(at 48.26 91.44 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2af466d2-4a14-4091-9e1c-d960668403fa")
-		(property "Reference" "U6"
-			(at 48.26 82.55 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Optocoupler"
-			(at 48.26 85.09 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "1.Custom_Footprints:SSOP-4_VOS617A_VIS"
-			(at 43.18 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/83497/vos617a.pdf"
-			(at 48.26 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Description" "Generic DC optocoupler with NPN phototransistor output, pins order: anode/cathode/emitter/collector"
-			(at 48.26 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF#" "VOS617A-3T"
-			(at 48.26 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "6d08a6dd-c311-47bb-879d-05cd2318503a")
-		)
-		(pin "2"
-			(uuid "9a842b91-e722-484a-a01b-49c6ff9196c7")
-		)
-		(pin "4"
-			(uuid "9fdd00d2-7aa7-462f-a1a0-93cb10f6b326")
-		)
-		(pin "3"
-			(uuid "51c508f2-157d-41ec-a600-5082525ce032")
-		)
-		(instances
-			(project "Fault Latch 27"
-				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -14148,7 +14113,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/mmftn6001.pdf"
 			(at 234.95 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -14373,6 +14338,61 @@
 		)
 		(property "Manufacturer_Part_Number" ""
 			(at 234.95 55.88 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.16"
+			(at 234.95 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.15"
+			(at 234.95 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "4878-MMFTN6001TR-ND"
+			(at 234.95 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "MMFTN6001 "
+			(at 234.95 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 637-MMFTN6001 "
+			(at 234.95 55.88 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16415,8 +16435,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
-			(at 31.242 96.012 0)
+		(property "Value" "100n"
+			(at 35.052 95.758 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16437,7 +16457,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL05B104KP5NNNC_C133086.pdf"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/508/1/UPY_AC_NP0X7RX7S_6_3V_TO_2KV.pdf"
 			(at 34.29 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -16670,6 +16690,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.19"
+			(at 34.29 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.15"
+			(at 34.29 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-3034-2-ND"
+			(at 34.29 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "AC0603KRX7R9BB104 "
+			(at 34.29 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-AC0603KR9BB104 "
+			(at 34.29 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e62383a1-dd0a-4355-9150-25768ea3d50f")
 		)
@@ -16730,7 +16805,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8932/1N4007W%20SOD-123.pdf"
 			(at 114.3 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -16765,6 +16840,61 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 114.3 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.11"
+			(at 114.3 31.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "5399-1N4007WSTR-ND"
+			(at 114.3 31.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "N/A"
+			(at 114.3 31.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "1N4007WS"
+			(at 114.3 31.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" "N/A"
+			(at 114.3 31.75 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16822,7 +16952,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 331.1652 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -16833,7 +16963,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/508/1/UPY_AC_NP0X7RX7S_6_3V_TO_2KV.pdf"
 			(at 330.2 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -16856,6 +16986,61 @@
 			)
 		)
 		(property "JLC#" "C1592"
+			(at 330.2 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.59"
+			(at 330.2 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.49"
+			(at 330.2 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "13-AC0805KKX7R9BB105TR-ND"
+			(at 330.2 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "AC0805KKX7R9BB105 "
+			(at 330.2 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-AC0805KKX7R9B105 "
 			(at 330.2 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -17382,7 +17567,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 273.05 96.52 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17403,7 +17588,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL05B104KP5NNNC_C133086.pdf"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/508/1/UPY_AC_NP0X7RX7S_6_3V_TO_2KV.pdf"
 			(at 273.05 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -17636,6 +17821,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.19"
+			(at 273.05 101.6 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.15"
+			(at 273.05 101.6 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-3034-2-ND"
+			(at 273.05 101.6 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "AC0603KRX7R9BB104 "
+			(at 273.05 101.6 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-AC0603KR9BB104 "
+			(at 273.05 101.6 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6dda2f89-a058-49e5-99b9-5bbd1bb01920")
 		)
@@ -17770,7 +18010,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/508/1/UPY_AC_NP0X7RX7S_6_3V_TO_2KV.pdf"
 			(at 176.53 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -18025,6 +18265,61 @@
 		)
 		(property "Manufacturer_Part_Number" ""
 			(at 176.53 129.54 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.19"
+			(at 176.53 129.54 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.15"
+			(at 176.53 129.54 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-3034-2-ND"
+			(at 176.53 129.54 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "AC0603KRX7R9BB104 "
+			(at 176.53 129.54 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-AC0603KR9BB104 "
+			(at 176.53 129.54 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18478,7 +18773,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/508/1/UPY_AC_NP0X7RX7S_6_3V_TO_2KV.pdf"
 			(at 176.53 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -18733,6 +19028,61 @@
 		)
 		(property "Manufacturer_Part_Number" ""
 			(at 176.53 77.47 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.19"
+			(at 176.53 77.47 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.15"
+			(at 176.53 77.47 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-3034-2-ND"
+			(at 176.53 77.47 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "AC0603KRX7R9BB104 "
+			(at 176.53 77.47 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-AC0603KR9BB104 "
+			(at 176.53 77.47 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18798,7 +19148,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/508/1/UPY_AC_NP0X7RX7S_6_3V_TO_2KV.pdf"
 			(at 176.53 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -19053,6 +19403,61 @@
 		)
 		(property "Manufacturer_Part_Number" ""
 			(at 176.53 25.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.19"
+			(at 176.53 25.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.15"
+			(at 176.53 25.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-3034-2-ND"
+			(at 176.53 25.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "AC0603KRX7R9BB104 "
+			(at 176.53 25.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-AC0603KR9BB104 "
+			(at 176.53 25.4 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19121,7 +19526,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8932/1N4007W%20SOD-123.pdf"
 			(at 114.3 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -19156,6 +19561,61 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 114.3 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.11"
+			(at 114.3 83.82 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "5399-1N4007WSTR-ND"
+			(at 114.3 83.82 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "N/A"
+			(at 114.3 83.82 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "1N4007WS"
+			(at 114.3 83.82 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" "N/A"
+			(at 114.3 83.82 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19269,6 +19729,50 @@
 			)
 		)
 		(property "MFR#" " CPDUR12V-HF "
+			(at 29.21 49.53 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.73"
+			(at 29.21 49.53 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.69"
+			(at 29.21 49.53 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "641-2082-2-ND"
+			(at 29.21 49.53 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" " CPDUR12V-HF "
 			(at 29.21 49.53 90)
 			(hide yes)
 			(show_name no)
@@ -19571,7 +20075,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.com/datasheet/2/180/IN_S21AT2G_V1_0-2001000.pdf"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/5912/1/LS_R976_EN.pdf"
 			(at 106.68 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -19593,7 +20097,7 @@
 				)
 			)
 		)
-		(property "JLC#" "C19171391"
+		(property "JLC#" ""
 			(at 106.68 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -19826,6 +20330,61 @@
 		)
 		(property "Manufacturer_Part_Number" ""
 			(at 106.68 35.56 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.17"
+			(at 106.68 35.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.29"
+			(at 106.68 35.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "475-LSR976-NR-1TR-ND"
+			(at 106.68 35.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "Q62702P5178 "
+			(at 106.68 35.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 720-Q62702P5178 "
+			(at 106.68 35.56 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20131,7 +20690,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=OJ_OJE_series_relay_data_sheet_E&DocType=Data%20Sheet&DocLang=English&DocFormat=pdf&PartCntxt=1461400-1"
+		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=OJ_OJE_series_relay_data_sheet_E&DocType=Data%20Sheet&DocLang=English&PartCntxt=1721260-5&DocFormat=pdf"
 			(at 144.78 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -20144,6 +20703,61 @@
 			)
 		)
 		(property "Description" "12VDC 8A Relay"
+			(at 127 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$2.50"
+			(at 127 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$2.50"
+			(at 127 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "PB1981-ND"
+			(at 127 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "OJ-SS-112LMH2"
+			(at 127 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 655-OJ-SS-112LMH2 "
 			(at 127 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -20219,7 +20833,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/mmftn6001.pdf"
 			(at 391.16 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -20444,6 +21058,61 @@
 		)
 		(property "Manufacturer_Part_Number" ""
 			(at 391.16 58.42 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.16"
+			(at 391.16 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.15"
+			(at 391.16 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "4878-MMFTN6001TR-ND"
+			(at 391.16 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "MMFTN6001 "
+			(at 391.16 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 637-MMFTN6001 "
+			(at 391.16 58.42 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20916,7 +21585,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/mmftn6001.pdf"
 			(at 266.7 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -21149,6 +21818,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.16"
+			(at 266.7 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.15"
+			(at 266.7 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "4878-MMFTN6001TR-ND"
+			(at 266.7 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "MMFTN6001 "
+			(at 266.7 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 637-MMFTN6001 "
+			(at 266.7 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "22e64897-4654-461a-93d7-a6768a576a65")
 		)
@@ -21209,7 +21933,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/508/1/UPY_AC_NP0X7RX7S_6_3V_TO_2KV.pdf"
 			(at 93.98 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -21472,6 +22196,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.19"
+			(at 93.98 129.54 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.15"
+			(at 93.98 129.54 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-3034-2-ND"
+			(at 93.98 129.54 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "AC0603KRX7R9BB104 "
+			(at 93.98 129.54 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-AC0603KR9BB104 "
+			(at 93.98 129.54 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "000f31b6-657d-4ddd-b0d5-72bcb29cf6d3")
 		)
@@ -21609,7 +22388,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/mmftn6001.pdf"
 			(at 279.4 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -21834,6 +22613,61 @@
 		)
 		(property "Manufacturer_Part_Number" ""
 			(at 279.4 55.88 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.16"
+			(at 279.4 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.15"
+			(at 279.4 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "4878-MMFTN6001TR-ND"
+			(at 279.4 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "MMFTN6001 "
+			(at 279.4 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 637-MMFTN6001 "
+			(at 279.4 55.88 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23705,7 +24539,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/mmftn6001.pdf"
 			(at 298.45 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -23938,6 +24772,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.16"
+			(at 298.45 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.15"
+			(at 298.45 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "4878-MMFTN6001TR-ND"
+			(at 298.45 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "MMFTN6001 "
+			(at 298.45 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 637-MMFTN6001 "
+			(at 298.45 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "98fe7de8-2c13-4d12-bbfb-bb3447c74ea2")
 		)
@@ -23951,6 +24840,150 @@
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
 					(reference "Q10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Isolator:Optocoupler_DC_PhotoNPN_AKEC")
+		(at 48.26 143.51 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a0b1dfa4-9599-4ca8-b215-beac2bd8457a")
+		(property "Reference" "U12"
+			(at 48.26 134.62 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Optocoupler"
+			(at 48.26 137.16 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "1.Custom_Footprints:SSOP-4_VOS617A_VIS"
+			(at 43.18 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/83497/vos617a.pdf"
+			(at 48.26 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" "Generic DC optocoupler with NPN phototransistor output, pins order: anode/cathode/emitter/collector"
+			(at 48.26 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "VOS617A-3T"
+			(at 48.26 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 78-VOS617A-3T "
+			(at 48.26 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "VOS617A-3TTR-ND"
+			(at 48.26 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.56"
+			(at 48.26 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.57"
+			(at 48.26 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9e2ab235-1fef-4ab6-ab40-9b32dd8ee1c9")
+		)
+		(pin "2"
+			(uuid "24b7646c-02da-4195-b0d9-c6ac2990495b")
+		)
+		(pin "4"
+			(uuid "4c301181-af30-49bd-86d7-53b771270aa3")
+		)
+		(pin "3"
+			(uuid "dc34cd05-4999-4953-b8f3-5e8f09b627e6")
+		)
+		(instances
+			(project "Fault Latch 27"
+				(path "/3b453f91-701a-4397-ab66-607acfe20470"
+					(reference "U12")
 					(unit 1)
 				)
 			)
@@ -24001,7 +25034,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/mmftn6001.pdf"
 			(at 323.85 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -24226,6 +25259,61 @@
 		)
 		(property "Manufacturer_Part_Number" ""
 			(at 323.85 55.88 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.16"
+			(at 323.85 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.15"
+			(at 323.85 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "4878-MMFTN6001TR-ND"
+			(at 323.85 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "MMFTN6001 "
+			(at 323.85 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 637-MMFTN6001 "
+			(at 323.85 55.88 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24296,7 +25384,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/mmftn6001.pdf"
 			(at 119.38 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -24529,6 +25617,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.16"
+			(at 119.38 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.15"
+			(at 119.38 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "4878-MMFTN6001TR-ND"
+			(at 119.38 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "MMFTN6001 "
+			(at 119.38 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 637-MMFTN6001 "
+			(at 119.38 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "67d65e3d-1f90-49db-9523-bfca55456df0")
 		)
@@ -24570,7 +25713,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.2u"
+		(property "Value" "1u"
 			(at 387.35 119.3799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24581,7 +25724,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 384.5052 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -24592,7 +25735,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/508/1/UPY_AC_NP0X7RX7S_6_3V_TO_2KV.pdf"
 			(at 383.54 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -24615,6 +25758,61 @@
 			)
 		)
 		(property "JLC#" "C1592"
+			(at 383.54 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.59"
+			(at 383.54 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.49"
+			(at 383.54 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "13-AC0805KKX7R9BB105TR-ND"
+			(at 383.54 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "AC0805KKX7R9BB105 "
+			(at 383.54 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-AC0805KKX7R9B105 "
 			(at 383.54 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -24915,7 +26113,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/508/1/UPY_AC_NP0X7RX7S_6_3V_TO_2KV.pdf"
 			(at 93.98 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -25170,6 +26368,61 @@
 		)
 		(property "Manufacturer_Part_Number" ""
 			(at 93.98 25.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.19"
+			(at 93.98 25.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.15"
+			(at 93.98 25.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-3034-2-ND"
+			(at 93.98 25.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "AC0603KRX7R9BB104 "
+			(at 93.98 25.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-AC0603KR9BB104 "
+			(at 93.98 25.4 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26507,7 +27760,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.com/datasheet/2/180/IN_S21AT2G_V1_0-2001000.pdf"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/5912/1/LS_R976_EN.pdf"
 			(at 106.68 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -26529,7 +27782,7 @@
 				)
 			)
 		)
-		(property "JLC#" "C19171391"
+		(property "JLC#" ""
 			(at 106.68 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -26770,6 +28023,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.17"
+			(at 106.68 139.7 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.29"
+			(at 106.68 139.7 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "475-LSR976-NR-1TR-ND"
+			(at 106.68 139.7 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "Q62702P5178 "
+			(at 106.68 139.7 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 720-Q62702P5178 "
+			(at 106.68 139.7 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5c0c9e08-b324-4f3a-97c8-5a8bf4b6996e")
 		)
@@ -26807,7 +28115,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 377.19 41.91 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26828,7 +28136,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL05B104KP5NNNC_C133086.pdf"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/508/1/UPY_AC_NP0X7RX7S_6_3V_TO_2KV.pdf"
 			(at 377.19 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -27061,6 +28369,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.19"
+			(at 377.19 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.15"
+			(at 377.19 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-3034-2-ND"
+			(at 377.19 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "AC0603KRX7R9BB104 "
+			(at 377.19 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-AC0603KR9BB104 "
+			(at 377.19 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f31066eb-60fc-49d2-afa1-e62e86f2d481")
 		)
@@ -27145,6 +28508,50 @@
 			)
 		)
 		(property "MF#" "VOS617A-3T"
+			(at 48.26 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 78-VOS617A-3T "
+			(at 48.26 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "VOS617A-3TTR-ND"
+			(at 48.26 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.56"
+			(at 48.26 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.57"
 			(at 48.26 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -27487,7 +28894,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/mmftn6001.pdf"
 			(at 222.25 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -27712,6 +29119,61 @@
 		)
 		(property "Manufacturer_Part_Number" ""
 			(at 222.25 62.23 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.16"
+			(at 222.25 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.15"
+			(at 222.25 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "4878-MMFTN6001TR-ND"
+			(at 222.25 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "MMFTN6001 "
+			(at 222.25 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 637-MMFTN6001 "
+			(at 222.25 62.23 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27876,7 +29338,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/mmftn6001.pdf"
 			(at 119.38 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -28109,6 +29571,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.16"
+			(at 119.38 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.15"
+			(at 119.38 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "4878-MMFTN6001TR-ND"
+			(at 119.38 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "MMFTN6001 "
+			(at 119.38 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 637-MMFTN6001 "
+			(at 119.38 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "00df2319-6825-4e95-8e59-efb52a1375d0")
 		)
@@ -28251,7 +29768,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=OJ_OJE_series_relay_data_sheet_E&DocType=Data%20Sheet&DocLang=English&DocFormat=pdf&PartCntxt=1461400-1"
+		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=OJ_OJE_series_relay_data_sheet_E&DocType=Data%20Sheet&DocLang=English&PartCntxt=1721260-5&DocFormat=pdf"
 			(at 144.78 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -28264,6 +29781,61 @@
 			)
 		)
 		(property "Description" "12VDC 8A Relay"
+			(at 127 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$2.50"
+			(at 127 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$2.50"
+			(at 127 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "PB1981-ND"
+			(at 127 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "OJ-SS-112LMH2"
+			(at 127 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 655-OJ-SS-112LMH2 "
 			(at 127 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -29608,8 +31180,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
-			(at 31.242 43.942 0)
+		(property "Value" "100n"
+			(at 34.544 43.942 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29630,7 +31202,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL05B104KP5NNNC_C133086.pdf"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/508/1/UPY_AC_NP0X7RX7S_6_3V_TO_2KV.pdf"
 			(at 34.29 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -29855,6 +31427,61 @@
 		)
 		(property "Manufacturer_Part_Number" ""
 			(at 34.29 41.91 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.19"
+			(at 34.29 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.15"
+			(at 34.29 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-3034-2-ND"
+			(at 34.29 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "AC0603KRX7R9BB104 "
+			(at 34.29 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-AC0603KR9BB104 "
+			(at 34.29 41.91 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -30558,7 +32185,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.com/datasheet/2/180/IN_S21AT2G_V1_0-2001000.pdf"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/5912/1/LS_R976_EN.pdf"
 			(at 106.68 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -30580,7 +32207,7 @@
 				)
 			)
 		)
-		(property "JLC#" "C19171391"
+		(property "JLC#" ""
 			(at 106.68 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -30813,6 +32440,61 @@
 		)
 		(property "Manufacturer_Part_Number" ""
 			(at 106.68 87.63 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.17"
+			(at 106.68 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.29"
+			(at 106.68 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "475-LSR976-NR-1TR-ND"
+			(at 106.68 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "Q62702P5178 "
+			(at 106.68 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 720-Q62702P5178 "
+			(at 106.68 87.63 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -31715,7 +33397,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8932/1N4007W%20SOD-123.pdf"
 			(at 114.3 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -31750,6 +33432,61 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 114.3 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.11"
+			(at 114.3 135.89 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "5399-1N4007WSTR-ND"
+			(at 114.3 135.89 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "N/A"
+			(at 114.3 135.89 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "1N4007WS"
+			(at 114.3 135.89 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" "N/A"
+			(at 114.3 135.89 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31821,7 +33558,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=OJ_OJE_series_relay_data_sheet_E&DocType=Data%20Sheet&DocLang=English&DocFormat=pdf&PartCntxt=1461400-1"
+		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=OJ_OJE_series_relay_data_sheet_E&DocType=Data%20Sheet&DocLang=English&PartCntxt=1721260-5&DocFormat=pdf"
 			(at 144.78 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -31834,6 +33571,61 @@
 			)
 		)
 		(property "Description" "12VDC 8A Relay"
+			(at 127 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$2.50"
+			(at 127 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$2.50"
+			(at 127 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "PB1981-ND"
+			(at 127 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "OJ-SS-112LMH2"
+			(at 127 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 655-OJ-SS-112LMH2 "
 			(at 127 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -31985,7 +33777,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/508/1/UPY_AC_NP0X7RX7S_6_3V_TO_2KV.pdf"
 			(at 93.98 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -32240,6 +34032,61 @@
 		)
 		(property "Manufacturer_Part_Number" ""
 			(at 93.98 77.47 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.19"
+			(at 93.98 77.47 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.15"
+			(at 93.98 77.47 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-3034-2-ND"
+			(at 93.98 77.47 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "AC0603KRX7R9BB104 "
+			(at 93.98 77.47 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-AC0603KR9BB104 "
+			(at 93.98 77.47 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -32612,6 +34459,50 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.73"
+			(at 29.21 153.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.69"
+			(at 29.21 153.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "641-2082-2-ND"
+			(at 29.21 153.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" " CPDUR12V-HF "
+			(at 29.21 153.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7093b2c3-efd5-427d-a979-454ea8ca5ed9")
 		)
@@ -32672,7 +34563,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/mmftn6001.pdf"
 			(at 311.15 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -32897,6 +34788,61 @@
 		)
 		(property "Manufacturer_Part_Number" ""
 			(at 311.15 62.23 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.16"
+			(at 311.15 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.15"
+			(at 311.15 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "4878-MMFTN6001TR-ND"
+			(at 311.15 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "MMFTN6001 "
+			(at 311.15 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 637-MMFTN6001 "
+			(at 311.15 62.23 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33210,7 +35156,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 241.3 97.79 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33231,7 +35177,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL05B104KP5NNNC_C133086.pdf"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/508/1/UPY_AC_NP0X7RX7S_6_3V_TO_2KV.pdf"
 			(at 241.3 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -33464,6 +35410,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.19"
+			(at 241.3 102.87 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.15"
+			(at 241.3 102.87 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-3034-2-ND"
+			(at 241.3 102.87 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "AC0603KRX7R9BB104 "
+			(at 241.3 102.87 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-AC0603KR9BB104 "
+			(at 241.3 102.87 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "75f1eaac-bb38-4f0d-b512-8209255d14b4")
 		)
@@ -33474,6 +35475,150 @@
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
 					(reference "C11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Isolator:Optocoupler_DC_PhotoNPN_AKEC")
+		(at 48.26 91.44 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e9e9c497-a03c-446f-97aa-383ab8c33e3a")
+		(property "Reference" "U6"
+			(at 48.26 82.55 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Optocoupler"
+			(at 48.26 85.09 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "1.Custom_Footprints:SSOP-4_VOS617A_VIS"
+			(at 43.18 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/83497/vos617a.pdf"
+			(at 48.26 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" "Generic DC optocoupler with NPN phototransistor output, pins order: anode/cathode/emitter/collector"
+			(at 48.26 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "VOS617A-3T"
+			(at 48.26 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 78-VOS617A-3T "
+			(at 48.26 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "VOS617A-3TTR-ND"
+			(at 48.26 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.56"
+			(at 48.26 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.57"
+			(at 48.26 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8324e713-c9dd-4f31-9946-26fd70dba757")
+		)
+		(pin "2"
+			(uuid "ab021fab-da03-4fd9-ada3-392cd0775f72")
+		)
+		(pin "4"
+			(uuid "165dc022-1e7a-4057-a5de-6ea39896abeb")
+		)
+		(pin "3"
+			(uuid "c698ca8a-745d-4ad4-a1d9-ab89e5fb1851")
+		)
+		(instances
+			(project "Fault Latch 27"
+				(path "/3b453f91-701a-4397-ab66-607acfe20470"
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -33521,7 +35666,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/508/1/UPY_AC_NP0X7RX7S_6_3V_TO_2KV.pdf"
 			(at 215.9 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -33776,6 +35921,61 @@
 		)
 		(property "Manufacturer_Part_Number" ""
 			(at 215.9 154.94 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.19"
+			(at 215.9 154.94 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.15"
+			(at 215.9 154.94 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-3034-2-ND"
+			(at 215.9 154.94 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "AC0603KRX7R9BB104 "
+			(at 215.9 154.94 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-AC0603KR9BB104 "
+			(at 215.9 154.94 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -34132,6 +36332,50 @@
 			)
 		)
 		(property "MFR#" " CPDUR12V-HF "
+			(at 29.21 101.6 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.73"
+			(at 29.21 101.6 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.69"
+			(at 29.21 101.6 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "641-2082-2-ND"
+			(at 29.21 101.6 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" " CPDUR12V-HF "
 			(at 29.21 101.6 90)
 			(hide yes)
 			(show_name no)

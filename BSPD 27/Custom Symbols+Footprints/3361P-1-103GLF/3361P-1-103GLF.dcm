@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 3361P-1-103GLF
+D 10 kOhms 0.5W, 1/2W Gull Wing Surface Mount Trimmer Potentiometer Cermet 1.0 Turn Top Adjustment
+K
+F https://www.bourns.com/docs/Product-Datasheets/3361.pdf
+$ENDCMP
+#
+#End Doc Library
