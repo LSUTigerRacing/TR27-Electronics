@@ -4582,6 +4582,12 @@
 		(uuid "23ccd6d0-1dcd-48d3-aafa-0073b580dfd1")
 	)
 	(junction
+		(at 26.67 22.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "300d7400-44e9-482d-a409-6a2fef0f1ce4")
+	)
+	(junction
 		(at 127 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4672,12 +4678,6 @@
 		(uuid "9975719a-4110-4849-badc-e37d010f45ef")
 	)
 	(junction
-		(at 30.48 22.86)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a04040fb-1c2c-474b-9440-8ab21fb836fc")
-	)
-	(junction
 		(at 168.91 26.67)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4696,10 +4696,22 @@
 		(uuid "b4d0c930-58a2-484a-83f6-1eabb4cf9c90")
 	)
 	(junction
+		(at 33.02 22.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b77eec14-e51c-4323-80a5-7d931369b923")
+	)
+	(junction
 		(at 95.25 64.77)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b92ea5ab-3ea9-4201-beaf-d8dddb5b2766")
+	)
+	(junction
+		(at 26.67 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bb62c3ff-9db4-43e7-aa0a-03112cfee0ea")
 	)
 	(junction
 		(at 147.32 36.83)
@@ -4921,6 +4933,16 @@
 	)
 	(wire
 		(pts
+			(xy 33.02 25.4) (xy 33.02 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23a00c44-c6bd-477f-967e-6c57304143e5")
+	)
+	(wire
+		(pts
 			(xy 134.62 76.2) (xy 134.62 67.31)
 		)
 		(stroke
@@ -4961,7 +4983,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 22.86) (xy 30.48 24.13)
+			(xy 26.67 22.86) (xy 26.67 24.13)
 		)
 		(stroke
 			(width 0)
@@ -4978,6 +5000,16 @@
 			(type default)
 		)
 		(uuid "2d58170f-099b-47da-b756-11dc6f05f8dc")
+	)
+	(wire
+		(pts
+			(xy 33.02 22.86) (xy 38.1 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e802caa-3c1b-443c-a173-d5cdc4b8c4c6")
 	)
 	(wire
 		(pts
@@ -5101,6 +5133,16 @@
 	)
 	(wire
 		(pts
+			(xy 26.67 33.02) (xy 26.67 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4413210d-161f-4612-b266-b76faf0fa827")
+	)
+	(wire
+		(pts
 			(xy 107.95 100.33) (xy 119.38 100.33)
 		)
 		(stroke
@@ -5111,7 +5153,7 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 22.86) (xy 30.48 22.86)
+			(xy 22.86 22.86) (xy 26.67 22.86)
 		)
 		(stroke
 			(width 0)
@@ -5611,16 +5653,6 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 22.86) (xy 38.1 22.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9c8c65e8-55da-4607-9452-6b6ff0549f0f")
-	)
-	(wire
-		(pts
 			(xy 83.82 90.17) (xy 83.82 97.79)
 		)
 		(stroke
@@ -5698,6 +5730,16 @@
 			(type default)
 		)
 		(uuid "a783ce9c-281c-43cd-8f5d-dba2e41a9273")
+	)
+	(wire
+		(pts
+			(xy 26.67 34.29) (xy 26.67 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9bf7322-c703-40ca-98d8-186d6bbc59a9")
 	)
 	(wire
 		(pts
@@ -5871,6 +5913,16 @@
 	)
 	(wire
 		(pts
+			(xy 26.67 33.02) (xy 33.02 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d67ceacc-e814-40c9-8b7e-cd1161884215")
+	)
+	(wire
+		(pts
 			(xy 144.78 87.63) (xy 147.32 87.63)
 		)
 		(stroke
@@ -5908,6 +5960,16 @@
 			(type default)
 		)
 		(uuid "dc7f8784-c354-42f5-bd10-25dd932bad7c")
+	)
+	(wire
+		(pts
+			(xy 26.67 22.86) (xy 33.02 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6a1bc8e-11af-4afa-b507-3cb199f6bca4")
 	)
 	(wire
 		(pts
@@ -9051,7 +9113,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 30.48 27.94 0)
+		(at 26.67 27.94 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9059,10 +9121,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7196e3cd-17f7-4779-8b89-0d3ee91be57f")
 		(property "Reference" "C2"
-			(at 34.29 26.6699 0)
+			(at 20.574 26.162 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9073,7 +9134,7 @@
 			)
 		)
 		(property "Value" "2.2u"
-			(at 34.29 29.2099 0)
+			(at 19.812 28.702 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9084,7 +9145,7 @@
 			)
 		)
 		(property "Footprint" "Mouser:CAP_6050_TDK"
-			(at 31.4452 31.75 0)
+			(at 27.6352 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9095,7 +9156,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 30.48 27.94 0)
+			(at 26.67 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9106,7 +9167,18 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 30.48 27.94 0)
+			(at 26.67 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" "810-CAA572X6T2W225M6"
+			(at 26.67 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10360,7 +10432,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDPWR")
-		(at 30.48 31.75 0)
+		(at 26.67 34.29 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10371,7 +10443,7 @@
 		(fields_autoplaced yes)
 		(uuid "9d6dd431-35ad-4d19-963c-75ee6db76934")
 		(property "Reference" "#PWR02"
-			(at 30.48 36.83 0)
+			(at 26.67 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10382,7 +10454,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 30.353 35.56 0)
+			(at 26.543 38.1 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10392,7 +10464,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 30.48 33.02 0)
+			(at 26.67 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10403,7 +10475,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 30.48 33.02 0)
+			(at 26.67 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10414,7 +10486,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
-			(at 30.48 31.75 0)
+			(at 26.67 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10950,6 +11022,99 @@
 			(project "RML_EMO"
 				(path "/dde5c833-5196-4ddc-842a-885b47d44bef"
 					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 33.02 29.21 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a7d86647-2f89-450e-b9e0-c4a52e36dfd4")
+		(property "Reference" "R17"
+			(at 35.56 27.9399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1.5M"
+			(at 35.56 30.4799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder"
+			(at 32.004 28.956 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 33.02 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, US symbol"
+			(at 33.02 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" "603-RC2010JK-071M5L"
+			(at 33.02 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0607a3ca-d38a-41ce-a632-4ae1ae355f0c")
+		)
+		(pin "2"
+			(uuid "09724900-0b51-42c4-a9c5-9c321ae3c119")
+		)
+		(instances
+			(project "RML_EMO"
+				(path "/dde5c833-5196-4ddc-842a-885b47d44bef"
+					(reference "R17")
 					(unit 1)
 				)
 			)
