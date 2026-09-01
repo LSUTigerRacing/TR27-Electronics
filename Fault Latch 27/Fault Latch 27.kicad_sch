@@ -4961,16 +4961,16 @@
 		(uuid "c069539a-8e8a-4333-8816-7475afeed352")
 	)
 	(junction
-		(at 59.69 41.91)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c4ca99d4-7684-4e35-86e6-12e9d3b54008")
-	)
-	(junction
 		(at 166.37 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c6347762-ae6b-42a0-9226-fc80fa5918e8")
+	)
+	(junction
+		(at 55.88 36.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d1084959-f44d-4527-94f4-04a6b598d600")
 	)
 	(junction
 		(at 102.87 41.91)
@@ -5043,6 +5043,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fd90734c-114b-46a0-b23a-c045ccbd6cf2")
+	)
+	(junction
+		(at 40.64 36.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fef4adc3-5650-46c6-94e2-bcc4f460e92e")
 	)
 	(junction
 		(at 102.87 93.98)
@@ -5360,6 +5366,16 @@
 	)
 	(wire
 		(pts
+			(xy 59.69 36.83) (xy 67.31 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "257cc1f3-7b54-4f3c-bd0f-a4fdc14a6440")
+	)
+	(wire
+		(pts
 			(xy 34.29 142.24) (xy 34.29 140.97)
 		)
 		(stroke
@@ -5437,16 +5453,6 @@
 			(type default)
 		)
 		(uuid "2e0e7e0a-0000-499f-b988-f6d2da0bffb6")
-	)
-	(wire
-		(pts
-			(xy 59.69 41.91) (xy 59.69 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2e290e72-0a0a-4f1d-a991-7455ebf7789f")
 	)
 	(wire
 		(pts
@@ -5650,6 +5656,16 @@
 	)
 	(wire
 		(pts
+			(xy 55.88 22.86) (xy 55.88 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ee7e429-294b-4139-adc8-19558e6eaea9")
+	)
+	(wire
+		(pts
 			(xy 34.29 45.72) (xy 40.64 45.72)
 		)
 		(stroke
@@ -5740,6 +5756,16 @@
 	)
 	(wire
 		(pts
+			(xy 40.64 22.86) (xy 40.64 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b6105ee-b2e0-4988-9d0e-bd4e6c6845aa")
+	)
+	(wire
+		(pts
 			(xy 215.9 151.13) (xy 215.9 144.78)
 		)
 		(stroke
@@ -5777,6 +5803,16 @@
 			(type default)
 		)
 		(uuid "4d281322-28ee-4cbc-920f-5d5129ff6cb4")
+	)
+	(wire
+		(pts
+			(xy 55.88 36.83) (xy 55.88 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4de2c741-e48b-406c-b7f3-c961b6207bed")
 	)
 	(wire
 		(pts
@@ -6130,16 +6166,6 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 36.83) (xy 67.31 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7683e639-81fa-43f2-b442-29c2edc1a91c")
-	)
-	(wire
-		(pts
 			(xy 336.55 97.79) (xy 341.63 97.79)
 		)
 		(stroke
@@ -6267,6 +6293,16 @@
 			(type default)
 		)
 		(uuid "83c5753f-c0a5-4899-9d97-c271cff1fc02")
+	)
+	(wire
+		(pts
+			(xy 40.64 33.02) (xy 40.64 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8418eb35-dae2-4e59-aab8-58e3de8049d6")
 	)
 	(wire
 		(pts
@@ -6440,16 +6476,6 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 41.91) (xy 59.69 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "96d6fe2a-a027-4756-82c4-4b12b928939d")
-	)
-	(wire
-		(pts
 			(xy 224.79 54.61) (xy 224.79 55.88)
 		)
 		(stroke
@@ -6497,6 +6523,16 @@
 			(type default)
 		)
 		(uuid "9c11bc46-d016-4fa7-b866-8451be3bec52")
+	)
+	(wire
+		(pts
+			(xy 55.88 33.02) (xy 55.88 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d1238f2-6c9d-4178-8b0e-d4efbee9054f")
 	)
 	(wire
 		(pts
@@ -6660,7 +6696,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 53.34) (xy 59.69 55.88)
+			(xy 55.88 41.91) (xy 55.88 44.45)
 		)
 		(stroke
 			(width 0)
@@ -7110,6 +7146,16 @@
 	)
 	(wire
 		(pts
+			(xy 59.69 39.37) (xy 59.69 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d28dcc56-d9d6-4947-b737-e1cfdca3e3a3")
+	)
+	(wire
+		(pts
 			(xy 102.87 146.05) (xy 102.87 154.94)
 		)
 		(stroke
@@ -7197,16 +7243,6 @@
 			(type default)
 		)
 		(uuid "da0fd050-d2dc-48c0-9823-4b4ba85267bf")
-	)
-	(wire
-		(pts
-			(xy 55.88 22.86) (xy 55.88 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dabe212b-326a-4f1e-b876-029df4f8d32f")
 	)
 	(wire
 		(pts
@@ -7337,6 +7373,16 @@
 			(type default)
 		)
 		(uuid "e4de128c-bbce-4215-a2c7-8c6cc931aed6")
+	)
+	(wire
+		(pts
+			(xy 55.88 39.37) (xy 59.69 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4fffc6b-58c7-476b-b9a9-58f22bcd5fa0")
 	)
 	(wire
 		(pts
@@ -8721,16 +8767,6 @@
 		)
 		(uuid "09dbbe3a-e94a-4f66-b8d0-8271db6292ac")
 	)
-	(label "BMS_LE"
-		(at 58.42 36.83 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0cb76bf6-b580-4e57-9314-311c9332386b")
-	)
 	(label "TSSI Red -"
 		(at 300.99 95.25 0)
 		(effects
@@ -9020,6 +9056,16 @@
 			(justify right bottom)
 		)
 		(uuid "aeb0174f-2b5b-490f-903d-aa9930dc2549")
+	)
+	(label "BMS_LE"
+		(at 59.69 36.83 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b010ac8d-989e-4496-9fa9-a089c13d8f10")
 	)
 	(label "Shutdown_IN"
 		(at 146.05 24.13 180)
@@ -9468,7 +9514,7 @@
 				)
 			)
 		)
-		(property "Value" "SN74AHC1G08DBVR"
+		(property "Value" "AND Gate"
 			(at 279.4 109.1498 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9532,6 +9578,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.19"
+			(at 266.7 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.19"
+			(at 266.7 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "296-18066-1-ND"
+			(at 266.7 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "SN74LVC1G11DCKR "
+			(at 266.7 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 595-SN74LVC1G11DCKR "
+			(at 266.7 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "582267c6-16a9-48a6-90d0-d5ecbefbbabb")
 		)
@@ -9568,7 +9669,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "035cd149-c8c8-4153-83a6-238d38eb92d5")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR045"
 			(at 24.13 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -9628,7 +9729,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR044")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -9645,7 +9746,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0394838e-9de5-457c-8143-c510047e7b9e")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR031"
 			(at 393.7 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -9705,7 +9806,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR030")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -9815,7 +9916,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "069e3368-4c46-49a3-b794-6abd8c932768")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR072"
 			(at 29.21 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -9875,7 +9976,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR071")
+					(reference "#PWR072")
 					(unit 1)
 				)
 			)
@@ -9893,7 +9994,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "06cea6b6-62f3-4c74-a32f-ac5ec8bdb6ee")
-		(property "Reference" "R11"
+		(property "Reference" "R12"
 			(at 385.445 95.2499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9904,7 +10005,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "225k"
+		(property "Value" "226k"
 			(at 385.445 97.7899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9926,7 +10027,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/parts/2nd/Resistors/Chip_Resistor_Surface_Mount_2980"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 383.54 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -9959,6 +10060,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.10"
+			(at 383.54 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.10"
+			(at 383.54 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-226KCRCT-ND"
+			(at 383.54 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "RC0805FR-07226KL"
+			(at 383.54 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-RC0805FR-07226KL "
+			(at 383.54 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "85fff11d-7cbc-4e85-a070-d02b0b82d4df")
 		)
@@ -9968,7 +10124,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "R11")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -9980,7 +10136,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -10064,7 +10220,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "07e99def-4d9a-45bd-bde6-11f85da48085")
-		(property "Reference" "R10"
+		(property "Reference" "R11"
 			(at 99.568 76.962 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10097,7 +10253,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590196154856988672"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 106.68 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -10361,6 +10517,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.10"
+			(at 106.68 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.10"
+			(at 106.68 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-2.00KCRCT-ND"
+			(at 106.68 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "RC0805FR-072KL"
+			(at 106.68 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-RC0805FR-072KL "
+			(at 106.68 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5643e437-9f23-43af-be20-b6d842d4e227")
 		)
@@ -10370,7 +10581,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "R10")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -10387,7 +10598,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "085f948b-a835-40a5-9c80-3ac298c60e59")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR034"
 			(at 121.92 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -10447,7 +10658,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR033")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -10812,7 +11023,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0b7437cf-9fae-4e8d-9064-9357e05de33f")
-		(property "Reference" "R7"
+		(property "Reference" "R8"
 			(at 217.678 52.578 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10845,7 +11056,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 224.79 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -11109,6 +11320,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.10"
+			(at 224.79 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.10"
+			(at 224.79 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-10.0KCRCT-ND"
+			(at 224.79 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "RC0805FR-0710KL"
+			(at 224.79 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-RC0805FR-0710KL "
+			(at 224.79 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "adc38b83-7f2e-4bdb-aef7-d9638f77bf65")
 		)
@@ -11118,7 +11384,385 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "R7")
+					(reference "R8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 40.64 29.21 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0d2f526b-4e99-479f-9790-faba5a79a6a1")
+		(property "Reference" "R2"
+			(at 34.036 27.94 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1k"
+			(at 34.036 30.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 39.624 28.956 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
+			(at 40.64 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, US symbol"
+			(at 40.64 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC#" "C137088"
+			(at 40.64 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 40.64 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 40.64 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 40.64 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MOUSER" " 603-RC1210JR-0710KL "
+			(at 40.64 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 40.64 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 40.64 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 40.64 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 40.64 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 40.64 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Availability" ""
+			(at 40.64 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Check_prices" ""
+			(at 40.64 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description_1" ""
+			(at 40.64 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" ""
+			(at 40.64 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MP" ""
+			(at 40.64 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" ""
+			(at 40.64 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OC_FARNELL" ""
+			(at 40.64 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OC_NEWARK" ""
+			(at 40.64 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 40.64 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 40.64 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price" ""
+			(at 40.64 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER" ""
+			(at 40.64 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SnapEDA_Link" ""
+			(at 40.64 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 40.64 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.10"
+			(at 40.64 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.10"
+			(at 40.64 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-1.00KCRCT-ND"
+			(at 40.64 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "RC0805FR-071KL"
+			(at 40.64 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-RC0805FR-071KL "
+			(at 40.64 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "66de189d-f223-4874-877c-118e6aea7ee4")
+		)
+		(pin "1"
+			(uuid "80235cdb-85de-4e4d-ae0e-a81e996989bb")
+		)
+		(instances
+			(project "Fault Latch 27"
+				(path "/3b453f91-701a-4397-ab66-607acfe20470"
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -11137,7 +11781,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0d528928-c026-4657-acc2-96211cb0ffb4")
-		(property "Reference" "#PWR068"
+		(property "Reference" "#PWR069"
 			(at 335.28 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -11197,7 +11841,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR068")
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
@@ -11215,7 +11859,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0dd55a69-7f7a-45aa-8229-161db42195e4")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR036"
 			(at 55.88 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -11275,7 +11919,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR035")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -11302,7 +11946,7 @@
 				)
 			)
 		)
-		(property "Value" "74AHC1G32"
+		(property "Value" "OR Gate"
 			(at 187.452 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11323,7 +11967,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/gpn/sn74lvc1g32"
 			(at 181.61 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -11335,6 +11979,61 @@
 			)
 		)
 		(property "Description" "Single OR Gate, Low-Voltage CMOS"
+			(at 181.61 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.11"
+			(at 181.61 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.11"
+			(at 181.61 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "296-9848-1-ND"
+			(at 181.61 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "SN74LVC1G32DCKR "
+			(at 181.61 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 595-SN74LVC1G32DCKR "
 			(at 181.61 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -11382,7 +12081,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "11dd9058-299c-48aa-8517-93f666490065")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR012"
 			(at 269.24 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -11442,7 +12141,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR010")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -11460,7 +12159,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "174fbf38-662b-492a-9de4-d3172672e217")
-		(property "Reference" "#PWR077"
+		(property "Reference" "#PWR078"
 			(at 157.48 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -11520,7 +12219,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR077")
+					(reference "#PWR078")
 					(unit 1)
 				)
 			)
@@ -11538,7 +12237,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "18b46f39-a8fa-4fbb-b1a4-6ee70d0ae377")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR055"
 			(at 234.95 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -11598,7 +12297,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR054")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -11617,7 +12316,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "19892bd5-415f-4b80-9275-4ed25dca5b69")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR011"
 			(at 224.79 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -11677,7 +12376,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR09")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -11772,7 +12471,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1dff8d72-1e3c-47ff-a528-520b7c7b6954")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR071"
 			(at 24.13 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -11832,7 +12531,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR070")
+					(reference "#PWR071")
 					(unit 1)
 				)
 			)
@@ -12137,7 +12836,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001TR-ND"
+		(property "Digikey#" "4878-MMFTN6001CT-ND"
 			(at 119.38 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -12195,7 +12894,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -12390,7 +13089,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm555.pdf"
+		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flmc555"
 			(at 388.62 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -12453,6 +13152,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$1.15"
+			(at 367.03 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$1.15"
+			(at 367.03 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "LMC555CMX/NOPBCT-ND"
+			(at 367.03 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" " LMC555CMX/NOPB "
+			(at 367.03 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 926-LMC555CMX/NOPB "
+			(at 367.03 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "d34ef6fa-601b-4194-84a0-b5cbbd6059ec")
 		)
@@ -12497,7 +13251,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "24341c22-58bd-487a-b22e-9dd1e1c2e61d")
-		(property "Reference" "R6"
+		(property "Reference" "R7"
 			(at 167.64 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12530,7 +13284,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 166.37 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -12794,6 +13548,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.10"
+			(at 166.37 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.10"
+			(at 166.37 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-10.0KCRCT-ND"
+			(at 166.37 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "RC0805FR-0710KL"
+			(at 166.37 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-RC0805FR-0710KL "
+			(at 166.37 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "cf36ebb9-b720-49f3-8ba8-c9b70d3452ca")
 		)
@@ -12803,7 +13612,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "R6")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -12821,7 +13630,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "249c8f5f-4570-45ba-86f8-18f0a90e58ab")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR049"
 			(at 64.77 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -12881,7 +13690,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR048")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -12900,7 +13709,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "28f48bae-c145-4551-b241-a8df5e7cc109")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR040"
 			(at 234.95 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -12960,7 +13769,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR039")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -13155,7 +13964,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590196154856988672"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 106.68 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -13419,6 +14228,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.10"
+			(at 106.68 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.10"
+			(at 106.68 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-2.00KCRCT-ND"
+			(at 106.68 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "RC0805FR-072KL"
+			(at 106.68 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-RC0805FR-072KL "
+			(at 106.68 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f1134f86-73de-475c-8fae-f43be0e549d3")
 		)
@@ -13446,7 +14310,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2ead7d29-7a1a-40bb-a188-21a7a97794f9")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR016"
 			(at 29.21 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -13506,7 +14370,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR014")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -13601,7 +14465,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3301ce71-7e74-40ff-9f17-6debf8e99526")
-		(property "Reference" "R9"
+		(property "Reference" "R10"
 			(at 306.578 52.578 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13634,7 +14498,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 313.69 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -13898,6 +14762,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.10"
+			(at 313.69 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.10"
+			(at 313.69 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-10.0KCRCT-ND"
+			(at 313.69 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "RC0805FR-0710KL"
+			(at 313.69 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-RC0805FR-0710KL "
+			(at 313.69 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a8264610-8a19-45ab-998d-36c1e60ee3a1")
 		)
@@ -13907,7 +14826,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "R9")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -13924,7 +14843,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "33916757-51a4-418a-8552-368f68b3d124")
-		(property "Reference" "#PWR065"
+		(property "Reference" "#PWR066"
 			(at 335.28 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -13984,7 +14903,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR065")
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
@@ -14001,7 +14920,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "33db723a-8413-4de9-9d9d-175c82c7f94c")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR014"
 			(at 383.54 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -14061,7 +14980,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR012")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -14368,7 +15287,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001TR-ND"
+		(property "Digikey#" "4878-MMFTN6001CT-ND"
 			(at 234.95 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -14431,7 +15350,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37307f9b-1458-4081-b820-dcd58e748ff6")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR07"
 			(at 93.98 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -14491,7 +15410,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR06")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -14509,7 +15428,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "38b24730-6ee5-440b-8001-527f60267e92")
-		(property "Reference" "R8"
+		(property "Reference" "R9"
 			(at 262.128 52.578 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14542,7 +15461,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 269.24 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -14806,6 +15725,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.10"
+			(at 269.24 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.10"
+			(at 269.24 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-10.0KCRCT-ND"
+			(at 269.24 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "RC0805FR-0710KL"
+			(at 269.24 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-RC0805FR-0710KL "
+			(at 269.24 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8a2b883b-71ff-47c7-af99-59a2bc610375")
 		)
@@ -14815,7 +15789,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "R8")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -14833,7 +15807,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "396725da-463f-4a38-bee4-f74c98915d9f")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR035"
 			(at 181.61 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -14893,7 +15867,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR034")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -14910,7 +15884,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "39e6b942-46c2-423f-9be7-ce6efd28f552")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR030"
 			(at 370.84 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -14970,7 +15944,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR029")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -14988,7 +15962,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3d8d3b06-f007-4a31-a1f0-a4f1475cb206")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR032"
 			(at 97.79 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -15048,7 +16022,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR031")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -15066,7 +16040,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3f3a28a7-914d-4f15-af00-db3dfbb276ae")
-		(property "Reference" "#PWR079"
+		(property "Reference" "#PWR080"
 			(at 181.61 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -15126,7 +16100,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR079")
+					(reference "#PWR080")
 					(unit 1)
 				)
 			)
@@ -15139,7 +16113,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -15223,7 +16197,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4669f9d7-0e1a-42ad-92bd-83dbb1691832")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR042"
 			(at 336.55 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -15283,7 +16257,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR041")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -15300,7 +16274,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "466e7199-1ac5-4421-bd81-959229531208")
-		(property "Reference" "R13"
+		(property "Reference" "R14"
 			(at 42.164 100.33 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15333,7 +16307,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 40.64 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -15589,6 +16563,61 @@
 		)
 		(property "Manufacturer_Part_Number" ""
 			(at 40.64 101.6 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.10"
+			(at 40.64 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.10"
+			(at 40.64 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-1.00KCRCT-ND"
+			(at 40.64 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "RC0805FR-071KL"
+			(at 40.64 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-RC0805FR-071KL "
+			(at 40.64 101.6 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15606,330 +16635,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "R13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 59.69 49.53 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "4cb11dbc-b9e8-4783-96c6-56ce7701cd48")
-		(property "Reference" "R4"
-			(at 53.086 48.26 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "10k"
-			(at 53.086 50.8 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 58.674 49.276 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 59.69 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 59.69 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLC#" "C137088"
-			(at 59.69 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 59.69 49.53 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 59.69 49.53 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 59.69 49.53 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MOUSER" " 603-RC1210JR-0710KL "
-			(at 59.69 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Notes" ""
-			(at 59.69 49.53 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Height" ""
-			(at 59.69 49.53 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer_Name" ""
-			(at 59.69 49.53 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at 59.69 49.53 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at 59.69 49.53 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Availability" ""
-			(at 59.69 49.53 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Check_prices" ""
-			(at 59.69 49.53 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description_1" ""
-			(at 59.69 49.53 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF" ""
-			(at 59.69 49.53 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MP" ""
-			(at 59.69 49.53 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" ""
-			(at 59.69 49.53 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "OC_FARNELL" ""
-			(at 59.69 49.53 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "OC_NEWARK" ""
-			(at 59.69 49.53 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PACKAGE" ""
-			(at 59.69 49.53 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Package" ""
-			(at 59.69 49.53 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Price" ""
-			(at 59.69 49.53 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "SUPPLIER" ""
-			(at 59.69 49.53 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "SnapEDA_Link" ""
-			(at 59.69 49.53 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer_Part_Number" ""
-			(at 59.69 49.53 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "364c5679-6f1d-44fe-97c2-aa6766d8b0e5")
-		)
-		(pin "1"
-			(uuid "90424cc4-fe50-4834-b473-365a36002104")
-		)
-		(instances
-			(project "Fault Latch 27"
-				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "R4")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -15946,7 +16652,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4de05d6f-773f-4337-8cec-54a17e779376")
-		(property "Reference" "R18"
+		(property "Reference" "R19"
 			(at 99.568 129.032 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15979,7 +16685,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590196154856988672"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 106.68 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -16243,6 +16949,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.10"
+			(at 106.68 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.10"
+			(at 106.68 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-2.00KCRCT-ND"
+			(at 106.68 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "RC0805FR-072KL"
+			(at 106.68 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-RC0805FR-072KL "
+			(at 106.68 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a09d6c22-5ee3-46a0-b0db-9d0a057b70de")
 		)
@@ -16252,7 +17013,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "R18")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -16269,7 +17030,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4f6fd016-aa38-4ce2-af96-3ab6482f8a13")
-		(property "Reference" "#PWR058"
+		(property "Reference" "#PWR059"
 			(at 106.68 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -16329,7 +17090,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR058")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -16347,7 +17108,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "549633ea-22f2-448e-9dac-6db688af7a39")
-		(property "Reference" "#PWR063"
+		(property "Reference" "#PWR064"
 			(at 93.98 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -16407,7 +17168,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR063")
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
@@ -16860,7 +17621,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "5399-1N4007WSTR-ND"
+		(property "Digikey#" "5399-1N4007WSCT-ND"
 			(at 114.3 31.75 90)
 			(hide yes)
 			(show_name no)
@@ -17018,7 +17779,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "13-AC0805KKX7R9BB105TR-ND"
+		(property "Digikey#" "13-AC0805KKX7R9BB105CT-ND"
 			(at 330.2 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -17078,7 +17839,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5bd220f3-a8dc-4782-accf-417db32c3539")
-		(property "Reference" "#PWR078"
+		(property "Reference" "#PWR079"
 			(at 166.37 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -17138,7 +17899,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR078")
+					(reference "#PWR079")
 					(unit 1)
 				)
 			)
@@ -17155,7 +17916,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5c543c2b-2435-4899-86d5-58014dff90cd")
-		(property "Reference" "R22"
+		(property "Reference" "R23"
 			(at 153.416 152.654 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17188,7 +17949,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 157.48 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -17452,6 +18213,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.10"
+			(at 157.48 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.10"
+			(at 157.48 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-10.0KCRCT-ND"
+			(at 157.48 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "RC0805FR-0710KL"
+			(at 157.48 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-RC0805FR-0710KL "
+			(at 157.48 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8dc440eb-a53d-4ca0-9152-29ba6e7aaf5d")
 		)
@@ -17461,7 +18277,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "R22")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -17479,7 +18295,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5c8401e2-1a49-480e-a292-6c47769ab856")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR022"
 			(at 166.37 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -17539,7 +18355,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR021")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -17902,7 +18718,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "60c3883d-1b10-49f3-9d0f-87ddef61ad27")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR029"
 			(at 326.39 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -17962,7 +18778,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR028")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -18354,7 +19170,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "62da2fb2-7b05-494d-823f-2a6b8856e71e")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR060"
 			(at 121.92 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -18414,7 +19230,85 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR059")
+					(reference "#PWR060")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 40.64 22.86 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6364cf80-a3ce-4326-b3ac-76ba585cff7c")
+		(property "Reference" "#PWR05"
+			(at 40.64 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+12V"
+			(at 40.64 17.78 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 40.64 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 40.64 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 40.64 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "67d5c0a3-09b2-4d03-acd8-79c568cdeba1")
+		)
+		(instances
+			(project "Fault Latch 27"
+				(path "/3b453f91-701a-4397-ab66-607acfe20470"
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -18432,7 +19326,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "65442344-275a-4eed-aecc-b4971a088f24")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR019"
 			(at 99.06 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -18492,7 +19386,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR018")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -18510,7 +19404,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6601632f-f43f-495c-b459-8768ee763f78")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR023"
 			(at 181.61 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -18570,7 +19464,386 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR022")
+					(reference "#PWR023")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 55.88 29.21 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "680ffe09-d73a-428f-b6d4-3ec79ea3f5b0")
+		(property "Reference" "R3"
+			(at 56.896 31.75 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "10k"
+			(at 57.658 29.718 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 54.864 29.464 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
+			(at 55.88 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, US symbol"
+			(at 55.88 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC#" "C137088"
+			(at 54.61 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 55.88 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 55.88 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 55.88 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MOUSER" " 603-RC1210JR-0710KL "
+			(at 46.99 24.892 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 55.88 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" ""
+			(at 55.88 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" ""
+			(at 55.88 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 55.88 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 55.88 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Availability" ""
+			(at 55.88 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Check_prices" ""
+			(at 55.88 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description_1" ""
+			(at 55.88 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" ""
+			(at 55.88 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MP" ""
+			(at 55.88 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" ""
+			(at 55.88 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OC_FARNELL" ""
+			(at 55.88 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OC_NEWARK" ""
+			(at 55.88 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 55.88 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 55.88 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price" ""
+			(at 55.88 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SUPPLIER" ""
+			(at 55.88 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SnapEDA_Link" ""
+			(at 55.88 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" ""
+			(at 55.88 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.10"
+			(at 55.88 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.10"
+			(at 55.88 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-10.0KCRCT-ND"
+			(at 55.88 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "RC0805FR-0710KL"
+			(at 55.88 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-RC0805FR-0710KL "
+			(at 55.88 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "f632f26a-5633-425e-9c28-52188f2766bd")
+		)
+		(pin "1"
+			(uuid "44b805fe-e5b8-41e4-b06b-6cbf21a66ae3")
+		)
+		(instances
+			(project "Fault Latch 27"
+				(path "/3b453f91-701a-4397-ab66-607acfe20470"
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -18587,7 +19860,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6aae06b8-c2e7-46d6-9e2c-c7ba9716c51f")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR026"
 			(at 269.24 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -18647,7 +19920,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR025")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -18665,7 +19938,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6b1ee5f6-b354-4a5e-9be5-9dfec1f9e557")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR046"
 			(at 29.21 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -18725,7 +19998,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR045")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -19581,7 +20854,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "5399-1N4007WSTR-ND"
+		(property "Digikey#" "5399-1N4007WSCT-ND"
 			(at 114.3 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -19811,7 +21084,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f9770bb-92f7-41d3-a629-8e702feb95f2")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR041"
 			(at 266.7 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -19871,7 +21144,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR040")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -19888,7 +21161,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7188e3b2-1ac5-42ce-a22f-edd73367bad0")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR028"
 			(at 313.69 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -19948,7 +21221,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR027")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -19965,7 +21238,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7273aa8f-7ee6-4942-8137-542ea63de777")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR025"
 			(at 237.49 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -20025,7 +21298,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR024")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -20360,7 +21633,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "475-LSR976-NR-1TR-ND"
+		(property "Digikey#" "475-LSR976-NR-1CT-ND"
 			(at 106.68 35.56 90)
 			(hide yes)
 			(show_name no)
@@ -20421,7 +21694,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "730c213c-ffa9-4feb-a935-5a84c5fa342d")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR013"
 			(at 313.69 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -20481,7 +21754,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR011")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -20499,7 +21772,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "75ca402c-5545-4b26-99a0-8a166c845449")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR063"
 			(at 55.88 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -20559,7 +21832,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR062")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -21088,7 +22361,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001TR-ND"
+		(property "Digikey#" "4878-MMFTN6001CT-ND"
 			(at 391.16 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -21151,7 +22424,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "848e0116-9dbb-40be-8f07-22485dbdf656")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR050"
 			(at 99.06 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -21211,7 +22484,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR049")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -21517,6 +22790,61 @@
 		)
 		(property "Manufacturer_Part_Number" ""
 			(at 220.98 154.94 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.75"
+			(at 220.98 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.73"
+			(at 220.98 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "SW423CT-ND"
+			(at 220.98 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "B3FS-1000P"
+			(at 220.98 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 653-B3FS-1000P "
+			(at 220.98 154.94 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21840,7 +23168,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001TR-ND"
+		(property "Digikey#" "4878-MMFTN6001CT-ND"
 			(at 266.7 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -22277,7 +23605,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "87b1c11b-87ba-4bf9-b61c-c9960311e7cf")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR033"
 			(at 106.68 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -22337,7 +23665,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR032")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -22643,7 +23971,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001TR-ND"
+		(property "Digikey#" "4878-MMFTN6001CT-ND"
 			(at 279.4 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -22798,7 +24126,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8be43a91-9a0d-496a-9b0e-1b04d884a7f2")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR08"
 			(at 176.53 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -22858,7 +24186,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR07")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -22876,7 +24204,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8de7144a-c434-4292-818d-a2abb9d83c09")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR018"
 			(at 64.77 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -22936,7 +24264,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR017")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -22953,7 +24281,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8e538022-eb6d-40e2-b44b-72251cb3117b")
-		(property "Reference" "R23"
+		(property "Reference" "R24"
 			(at 167.64 152.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22986,7 +24314,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 166.37 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -23250,6 +24578,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.10"
+			(at 166.37 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.10"
+			(at 166.37 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-10.0KCRCT-ND"
+			(at 166.37 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "RC0805FR-0710KL"
+			(at 166.37 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-RC0805FR-0710KL "
+			(at 166.37 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "217ee49c-cda5-4f04-ae06-dd66a54e3956")
 		)
@@ -23259,7 +24642,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "R23")
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -23277,7 +24660,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8eeb3347-f75b-4af4-8e6d-c3f306357bc8")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR047"
 			(at 40.64 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -23337,7 +24720,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR046")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -23387,7 +24770,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/gpn/sn74lvc1g373"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74lvc1g373.pdf?ts=1787203369614&ref_url=https%253A%252F%252Fwww.mouser.com%252F"
 			(at 69.342 121.158 0)
 			(hide yes)
 			(show_name no)
@@ -23400,6 +24783,61 @@
 			)
 		)
 		(property "Description" "74LVC1G373DBVRE4"
+			(at 40.64 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.28"
+			(at 40.64 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.28"
+			(at 40.64 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "296-18775-1-ND"
+			(at 40.64 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "SN74LVC1G373DCKR "
+			(at 40.64 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 595-SN74LVC1G373DCKR "
 			(at 40.64 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -23448,7 +24886,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "92002cab-aaa9-49b4-b247-c55221976084")
-		(property "Reference" "R12"
+		(property "Reference" "R13"
 			(at 17.526 100.33 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23481,7 +24919,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.koaspeer.com/pdfs/SG73P.pdf"
 			(at 24.13 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -23745,6 +25183,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.17"
+			(at 24.13 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.17"
+			(at 24.13 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "2019-SG73P2BTTD2201FCT-ND"
+			(at 24.13 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "SG73P2BTTD2201F"
+			(at 24.13 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 660-SG73P2BTTD2201F "
+			(at 24.13 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "473af94e-fcfc-411c-8bd6-d9059573002b")
 		)
@@ -23754,7 +25247,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "R12")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -24038,7 +25531,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "982a4bc5-5b72-40bb-b173-882d2e88cb1c")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR051"
 			(at 121.92 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -24098,7 +25591,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR050")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -24194,7 +25687,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9b93e4d4-4d45-4966-93cf-39db019d075b")
-		(property "Reference" "#PWR073"
+		(property "Reference" "#PWR074"
 			(at 59.69 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -24254,7 +25747,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR073")
+					(reference "#PWR074")
 					(unit 1)
 				)
 			)
@@ -24272,7 +25765,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9c95d403-846a-4583-991f-1774242ad4b2")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR062"
 			(at 367.03 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -24332,7 +25825,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR061")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -24350,7 +25843,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9c962633-a52e-4ca0-b475-c91d23d63bde")
-		(property "Reference" "#PWR053"
+		(property "Reference" "#PWR054"
 			(at 181.61 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -24410,7 +25903,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR053")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -24422,7 +25915,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -24794,7 +26287,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001TR-ND"
+		(property "Digikey#" "4878-MMFTN6001CT-ND"
 			(at 298.45 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -25289,7 +26782,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001TR-ND"
+		(property "Digikey#" "4878-MMFTN6001CT-ND"
 			(at 323.85 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -25639,7 +27132,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001TR-ND"
+		(property "Digikey#" "4878-MMFTN6001CT-ND"
 			(at 119.38 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -25790,7 +27283,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "13-AC0805KKX7R9BB105TR-ND"
+		(property "Digikey#" "13-AC0805KKX7R9BB105CT-ND"
 			(at 383.54 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -25850,7 +27343,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2ee3340-6eac-4ae3-b856-22e74b7d97f6")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR053"
 			(at 166.37 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -25910,7 +27403,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR052")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -25927,7 +27420,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a5f9cb32-ff31-43d1-a4fe-0a384583733c")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR027"
 			(at 281.94 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -25987,7 +27480,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR026")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -26005,7 +27498,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a6bf2db7-509d-4991-80d8-2d5004879e03")
-		(property "Reference" "#PWR064"
+		(property "Reference" "#PWR065"
 			(at 176.53 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -26065,7 +27558,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR064")
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -26457,7 +27950,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ac984b7f-d8d9-49fa-9d2c-ed10b103f9b2")
-		(property "Reference" "R3"
+		(property "Reference" "R5"
 			(at 42.164 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26490,7 +27983,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 40.64 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -26754,6 +28247,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.10"
+			(at 40.64 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.10"
+			(at 40.64 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-1.00KCRCT-ND"
+			(at 40.64 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "RC0805FR-071KL"
+			(at 40.64 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-RC0805FR-071KL "
+			(at 40.64 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7522b379-7d31-4590-8fea-5cc4baff24cb")
 		)
@@ -26763,7 +28311,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "R3")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -26775,7 +28323,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -26937,7 +28485,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b2d645de-5c01-48f1-8e69-08dfd74cf2a4")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR021"
 			(at 157.48 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -26997,7 +28545,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR020")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -27014,7 +28562,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b517625d-fd38-43f8-9e27-cde81a620c0d")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR044"
 			(at 252.73 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -27074,7 +28622,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR043")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -27092,7 +28640,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b59144d7-9007-4fff-85d7-fad4a1d4cbf6")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR038"
 			(at 176.53 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -27152,7 +28700,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR037")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -27170,7 +28718,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b5ac8188-c876-4c4e-ae1f-34000a2e85c4")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR015"
 			(at 24.13 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -27230,7 +28778,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR013")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -27248,7 +28796,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b5f0f9a3-587d-4962-8aa0-c2a592c59bb0")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR048"
 			(at 59.69 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -27308,7 +28856,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR047")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -27326,7 +28874,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b61c6f0e-50a5-4895-89eb-816020c24d2a")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR068"
 			(at 220.98 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -27386,7 +28934,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR067")
+					(reference "#PWR068")
 					(unit 1)
 				)
 			)
@@ -27404,7 +28952,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b66ad132-7590-4ca2-8cce-81cbfd80c0a5")
-		(property "Reference" "R17"
+		(property "Reference" "R18"
 			(at 285.75 116.84 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27437,7 +28985,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 285.75 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -27701,6 +29249,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.10"
+			(at 285.75 113.03 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.10"
+			(at 285.75 113.03 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-680CRCT-ND"
+			(at 285.75 113.03 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "RC0805FR-07680RL"
+			(at 285.75 113.03 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-RC0805FR-07680RL "
+			(at 285.75 113.03 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "dd117709-6cd2-4cf6-834c-f0c59be6420e")
 		)
@@ -27710,7 +29313,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "R17")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -28045,7 +29648,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "475-LSR976-NR-1TR-ND"
+		(property "Digikey#" "475-LSR976-NR-1CT-ND"
 			(at 106.68 139.7 90)
 			(hide yes)
 			(show_name no)
@@ -29149,7 +30752,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001TR-ND"
+		(property "Digikey#" "4878-MMFTN6001CT-ND"
 			(at 222.25 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -29244,7 +30847,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/gpn/sn74lvc1g373"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74lvc1g373.pdf?ts=1787203369614&ref_url=https%253A%252F%252Fwww.mouser.com%252F"
 			(at 69.342 69.088 0)
 			(hide yes)
 			(show_name no)
@@ -29257,6 +30860,61 @@
 			)
 		)
 		(property "Description" "74LVC1G373DBVRE4"
+			(at 40.64 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.28"
+			(at 40.64 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.28"
+			(at 40.64 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "296-18775-1-ND"
+			(at 40.64 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "SN74LVC1G373DCKR "
+			(at 40.64 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 595-SN74LVC1G373DCKR "
 			(at 40.64 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -29593,7 +31251,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001TR-ND"
+		(property "Digikey#" "4878-MMFTN6001CT-ND"
 			(at 119.38 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -29655,7 +31313,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bf332624-cd48-4c52-8bdc-a9037a4c2624")
-		(property "Reference" "#PWR056"
+		(property "Reference" "#PWR057"
 			(at 300.99 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -29715,7 +31373,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR056")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -29879,7 +31537,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c1285348-c1f6-486f-8fe4-8a74a9033b83")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR017"
 			(at 40.64 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -29939,7 +31597,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR015")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -29957,7 +31615,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c326f728-fa4f-4976-b7b7-d689d249260c")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR056"
 			(at 266.7 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -30017,7 +31675,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR055")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -30034,7 +31692,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c515b08b-6887-4f75-9258-88bc8c973a26")
-		(property "Reference" "R2"
+		(property "Reference" "R4"
 			(at 17.526 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30067,7 +31725,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 24.13 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -30331,6 +31989,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.10"
+			(at 24.13 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.10"
+			(at 24.13 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-10.0KCRCT-ND"
+			(at 24.13 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "RC0805FR-0710KL"
+			(at 24.13 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-RC0805FR-0710KL "
+			(at 24.13 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "35e29008-cc75-4d63-ac89-a873c79d13b0")
 		)
@@ -30340,7 +32053,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "R2")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -30358,7 +32071,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c8358c6e-61c9-4931-9b33-2797350651d9")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR073"
 			(at 40.64 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -30418,7 +32131,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR072")
+					(reference "#PWR073")
 					(unit 1)
 				)
 			)
@@ -30435,7 +32148,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c9fde9ea-22fe-4934-9df7-2754a9a512d3")
-		(property "Reference" "R14"
+		(property "Reference" "R15"
 			(at 53.086 100.33 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30468,7 +32181,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 59.69 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -30732,6 +32445,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.10"
+			(at 59.69 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.10"
+			(at 59.69 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-10.0KCRCT-ND"
+			(at 59.69 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "RC0805FR-0710KL"
+			(at 59.69 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-RC0805FR-0710KL "
+			(at 59.69 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5b71e034-4b4a-4c94-9abb-3b2ad925ce98")
 		)
@@ -30741,7 +32509,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "R14")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -30758,7 +32526,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ca259536-e7bd-4813-8580-b1f63eb163ed")
-		(property "Reference" "R5"
+		(property "Reference" "R6"
 			(at 153.416 48.514 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30791,7 +32559,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 157.48 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -31055,6 +32823,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.10"
+			(at 157.48 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.10"
+			(at 157.48 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-10.0KCRCT-ND"
+			(at 157.48 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "RC0805FR-0710KL"
+			(at 157.48 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-RC0805FR-0710KL "
+			(at 157.48 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "475dbdf1-5a90-42b4-a4a2-f14ae23a1ff4")
 		)
@@ -31064,7 +32887,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "R5")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -31091,7 +32914,7 @@
 				)
 			)
 		)
-		(property "Value" "74AHC1G32"
+		(property "Value" "OR Gate"
 			(at 187.452 34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31112,7 +32935,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/gpn/sn74lvc1g32"
 			(at 181.61 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -31124,6 +32947,61 @@
 			)
 		)
 		(property "Description" "Single OR Gate, Low-Voltage CMOS"
+			(at 181.61 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.11"
+			(at 181.61 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.11"
+			(at 181.61 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "296-9848-1-ND"
+			(at 181.61 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "SN74LVC1G32DCKR "
+			(at 181.61 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 595-SN74LVC1G32DCKR "
 			(at 181.61 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -31517,7 +33395,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cdbfa840-6d8b-4f51-b3a2-4dfbaf8c5d52")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR039"
 			(at 367.03 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -31577,7 +33455,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR038")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -31594,7 +33472,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cf665456-0527-4d83-9cc9-2f3b8868777d")
-		(property "Reference" "R20"
+		(property "Reference" "R21"
 			(at 42.164 152.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31627,7 +33505,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 40.64 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -31891,6 +33769,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.10"
+			(at 40.64 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.10"
+			(at 40.64 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-1.00KCRCT-ND"
+			(at 40.64 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "RC0805FR-071KL"
+			(at 40.64 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-RC0805FR-071KL "
+			(at 40.64 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "374c579e-bdf6-421e-a4d5-ff376a8f5d5a")
 		)
@@ -31900,7 +33833,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "R20")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -31919,7 +33852,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cfd38120-f362-4c92-b237-10cc989eeb77")
-		(property "Reference" "#PWR069"
+		(property "Reference" "#PWR070"
 			(at 359.41 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -31979,7 +33912,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR069")
+					(reference "#PWR070")
 					(unit 1)
 				)
 			)
@@ -31996,7 +33929,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d1ddbf13-2b0d-44a1-9339-6af97df2917a")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR043"
 			(at 284.48 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -32056,7 +33989,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR042")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -32069,7 +34002,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -32470,7 +34403,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "475-LSR976-NR-1TR-ND"
+		(property "Digikey#" "475-LSR976-NR-1CT-ND"
 			(at 106.68 87.63 90)
 			(hide yes)
 			(show_name no)
@@ -32530,7 +34463,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d3df5730-4aae-4e48-8c78-d3805b5565bc")
-		(property "Reference" "#PWR075"
+		(property "Reference" "#PWR076"
 			(at 99.06 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -32590,7 +34523,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR075")
+					(reference "#PWR076")
 					(unit 1)
 				)
 			)
@@ -32609,7 +34542,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d97d232d-6694-4511-85d5-91c4d0ebe4b4")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR010"
 			(at 370.84 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -32669,7 +34602,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR08")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -32696,7 +34629,7 @@
 				)
 			)
 		)
-		(property "Value" "74AHC1G32"
+		(property "Value" "OR Gate"
 			(at 187.452 138.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32717,7 +34650,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/gpn/sn74lvc1g32"
 			(at 181.61 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -32729,6 +34662,61 @@
 			)
 		)
 		(property "Description" "Single OR Gate, Low-Voltage CMOS"
+			(at 181.61 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.11"
+			(at 181.61 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.11"
+			(at 181.61 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "296-9848-1-ND"
+			(at 181.61 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "SN74LVC1G32DCKR "
+			(at 181.61 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 595-SN74LVC1G32DCKR "
 			(at 181.61 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -32774,7 +34762,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dc24ec80-73d2-4bdd-a176-1057bf1570ab")
-		(property "Reference" "R15"
+		(property "Reference" "R16"
 			(at 153.416 100.584 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32807,7 +34795,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 157.48 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -33071,6 +35059,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.10"
+			(at 157.48 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.10"
+			(at 157.48 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-10.0KCRCT-ND"
+			(at 157.48 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "RC0805FR-0710KL"
+			(at 157.48 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-RC0805FR-0710KL "
+			(at 157.48 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "fb332f40-6600-4a82-8149-5e8f34bb5b86")
 		)
@@ -33080,7 +35123,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "R15")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -33452,7 +35495,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "5399-1N4007WSTR-ND"
+		(property "Digikey#" "5399-1N4007WSCT-ND"
 			(at 114.3 135.89 90)
 			(hide yes)
 			(show_name no)
@@ -33669,7 +35712,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dfe8d593-bdc7-4c16-91b8-d818032225f1")
-		(property "Reference" "#PWR057"
+		(property "Reference" "#PWR058"
 			(at 97.79 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -33729,7 +35772,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR057")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -34200,7 +36243,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e1559082-820e-431a-b624-f7dc2f9e0e29")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR020"
 			(at 121.92 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -34260,7 +36303,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR019")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -34310,7 +36353,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/gpn/sn74lvc1g373"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74lvc1g373.pdf?ts=1787203369614&ref_url=https%253A%252F%252Fwww.mouser.com%252F"
 			(at 69.342 17.018 0)
 			(hide yes)
 			(show_name no)
@@ -34323,6 +36366,61 @@
 			)
 		)
 		(property "Description" "74LVC1G373DBVRE4"
+			(at 40.64 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.28"
+			(at 40.64 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.28"
+			(at 40.64 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "296-18775-1-ND"
+			(at 40.64 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "SN74LVC1G373DCKR "
+			(at 40.64 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 595-SN74LVC1G373DCKR "
 			(at 40.64 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -34818,7 +36916,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001TR-ND"
+		(property "Digikey#" "4878-MMFTN6001CT-ND"
 			(at 311.15 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -34881,7 +36979,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e68628e7-1f2c-40d9-890f-e2c5ebacee09")
-		(property "Reference" "#PWR074"
+		(property "Reference" "#PWR075"
 			(at 64.77 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -34941,7 +37039,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR074")
+					(reference "#PWR075")
 					(unit 1)
 				)
 			)
@@ -34959,7 +37057,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e6f08da8-a4c3-49f5-8a80-d97b6054f5de")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR06"
 			(at 55.88 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -35019,7 +37117,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR05")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -35046,7 +37144,7 @@
 				)
 			)
 		)
-		(property "Value" "SN74AHC1G08DBVR"
+		(property "Value" "AND Gate"
 			(at 357.886 51.054 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35102,6 +37200,61 @@
 		)
 		(property "Manufacturer_Part_Number" ""
 			(at 370.84 58.42 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.19"
+			(at 370.84 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.19"
+			(at 370.84 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "296-18066-1-ND"
+			(at 370.84 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "SN74LVC1G11DCKR "
+			(at 370.84 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 595-SN74LVC1G11DCKR "
+			(at 370.84 58.42 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -36010,7 +38163,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ec27181b-e6df-4158-aa5c-bce29928e16a")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR024"
 			(at 224.79 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -36070,7 +38223,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR023")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -36088,7 +38241,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ececdc62-87cd-40fa-8b7a-19a0a69e03b6")
-		(property "Reference" "#PWR076"
+		(property "Reference" "#PWR077"
 			(at 121.92 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -36148,7 +38301,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR076")
+					(reference "#PWR077")
 					(unit 1)
 				)
 			)
@@ -36176,7 +38329,7 @@
 				)
 			)
 		)
-		(property "Value" "74AHC1G00"
+		(property "Value" "NAND Gate"
 			(at 247.65 109.1498 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36209,6 +38362,61 @@
 			)
 		)
 		(property "Description" "Single NAND Gate, Low-Voltage CMOS"
+			(at 234.95 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Digikey" "$0.11"
+			(at 234.95 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.11"
+			(at 234.95 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "296-9846-1-ND"
+			(at 234.95 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "SN74LVC1G00DCKR "
+			(at 234.95 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 595-SN74LVC1G00DCKR "
 			(at 234.95 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -36412,7 +38620,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "efda0eb1-63c3-4754-ad7f-5fe18ea2fadd")
-		(property "Reference" "#PWR066"
+		(property "Reference" "#PWR067"
 			(at 359.41 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -36472,7 +38680,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR066")
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -36489,7 +38697,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f03af6f6-9f75-4d81-8d77-717239176e04")
-		(property "Reference" "R19"
+		(property "Reference" "R20"
 			(at 17.526 152.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36522,7 +38730,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 24.13 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -36786,6 +38994,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.10"
+			(at 24.13 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.10"
+			(at 24.13 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-10.0KCRCT-ND"
+			(at 24.13 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "RC0805FR-0710KL"
+			(at 24.13 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-RC0805FR-0710KL "
+			(at 24.13 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "912e8763-b42c-4dcf-9629-4cf8cbcfa71d")
 		)
@@ -36795,7 +39058,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "R19")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -36813,7 +39076,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f119ef71-1930-42b2-acbe-5089f7ad630e")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR037"
 			(at 93.98 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -36873,7 +39136,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR036")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -36890,7 +39153,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f1fb928e-c8ed-4e03-889c-aee239a765d4")
-		(property "Reference" "R21"
+		(property "Reference" "R22"
 			(at 53.086 152.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36923,7 +39186,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 59.69 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -37187,6 +39450,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.10"
+			(at 59.69 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.10"
+			(at 59.69 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-10.0KCRCT-ND"
+			(at 59.69 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "RC0805FR-0710KL"
+			(at 59.69 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-RC0805FR-0710KL "
+			(at 59.69 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "30b28ff6-a3f0-40e2-9220-1415fd5ba730")
 		)
@@ -37196,7 +39514,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "R21")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -37213,7 +39531,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f3884471-9670-41cb-8294-c9e28890e0b9")
-		(property "Reference" "R16"
+		(property "Reference" "R17"
 			(at 167.64 100.33 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37246,7 +39564,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 166.37 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -37510,6 +39828,61 @@
 				)
 			)
 		)
+		(property "$/unit Digikey" "$0.10"
+			(at 166.37 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "$/unit Mouser" "$0.10"
+			(at 166.37 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "311-10.0KCRCT-ND"
+			(at 166.37 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF#" "RC0805FR-0710KL"
+			(at 166.37 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-RC0805FR-0710KL "
+			(at 166.37 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "81ef9f1c-9146-4f8d-a9fa-355ec8816e96")
 		)
@@ -37519,7 +39892,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "R16")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -37803,7 +40176,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f42eb189-9fe4-463d-94a3-93703acda946")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR061"
 			(at 181.61 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -37863,7 +40236,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR060")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -37881,7 +40254,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f4d1fe45-05d8-48e8-b0ff-2981ac9aec79")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR052"
 			(at 157.48 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -37941,7 +40314,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR051")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -37953,7 +40326,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -38028,7 +40401,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 59.69 55.88 0)
+		(at 55.88 44.45 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -38038,8 +40411,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "feee2425-8f3c-4f54-995b-2e03f090154f")
-		(property "Reference" "#PWR016"
-			(at 59.69 62.23 0)
+		(property "Reference" "#PWR09"
+			(at 55.88 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38050,7 +40423,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 59.69 60.96 0)
+			(at 55.88 49.53 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -38060,7 +40433,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 59.69 55.88 0)
+			(at 55.88 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38071,7 +40444,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 59.69 55.88 0)
+			(at 55.88 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38082,7 +40455,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 59.69 55.88 0)
+			(at 55.88 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38098,7 +40471,7 @@
 		(instances
 			(project "Fault Latch 27"
 				(path "/3b453f91-701a-4397-ab66-607acfe20470"
-					(reference "#PWR016")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)

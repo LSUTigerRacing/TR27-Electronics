@@ -591,19 +591,19 @@
           "group_by": true,
           "label": "DNP",
           "name": "${DNP}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
           "label": "Exclude from BOM",
           "name": "${EXCLUDE_FROM_BOM}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
           "label": "Exclude from Board",
           "name": "${EXCLUDE_FROM_BOARD}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
@@ -868,7 +868,7 @@
         "uuid": "3b453f91-701a-4397-ab66-607acfe20470"
       }
     ],
-    "used_designators": "D1-9,#PWR1-79,#PWR102-104,#PWR135,#PWR149,#PWR161-165,#PWR173-174,#PWR177,#PWR180,K1-3,C1-16,C112-113,C118,Q1-11,Q105-106,Q112-115,R1-28,R112,R121,R130,R133,R136,R150,U1-13,SW1,TP1-7,H1-4,J1-5",
+    "used_designators": "D1-9,#PWR1-80,#PWR102-104,#PWR135,#PWR149,#PWR161-165,#PWR173-174,#PWR177,#PWR180,K1-3,C1-16,C112-113,C118,Q1-11,Q105-106,Q112-115,R1-28,R112,R121,R130,R133,R136,R150,U1-13,SW1,TP1-7,H1-4,J1-5",
     "variants": []
   },
   "sheets": [
