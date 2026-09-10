@@ -51,7 +51,7 @@
 		(capping no)
 		(filling no)
 		(pcbplotparams
-			(layerselection 0x00000000_00000000_5555555f_5755f5ff)
+			(layerselection 0x00000000_00000000_55555555_55555555)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
@@ -84,7 +84,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "Ordering/")
+			(outputdirectory "production/")
 		)
 	)
 	(footprint "TestPoint:TestPoint_Pad_1.0x1.0mm"
@@ -62433,39 +62433,6 @@
 		)
 	)
 	(zone
-		(net "/Shutdown_IN")
-		(layer "B.Cu")
-		(hatch none 0.1)
-		(priority 30001)
-		(attr
-			(teardrop
-				(type padvia)
-			)
-		)
-		(connect_pads yes
-			(clearance 0)
-		)
-		(min_thickness 0.0254)
-		(fill yes
-			(island_removal_mode 1)
-		)
-		(polygon
-			(pts
-				(xy 121.154023 72.02633) (xy 121.86113 71.319223) (xy 121.593004 70.311555) (xy 120.538134 70.703334)
-				(xy 120.407988 70.944959)
-			)
-		)
-		(filled_polygon
-			(layer "B.Cu")
-			(pts
-				(xy 121.589882 70.316369) (xy 121.595975 70.322931) (xy 121.596314 70.323996) (xy 121.859396 71.312708)
-				(xy 121.858211 71.321585) (xy 121.856362 71.32399) (xy 121.163952 72.0164) (xy 121.155679 72.019827)
-				(xy 121.147406 72.0164) (xy 121.146049 72.014771) (xy 120.412052 70.95085) (xy 120.410174 70.942094)
-				(xy 120.411379 70.938662) (xy 120.536042 70.707216) (xy 120.542266 70.701799) (xy 121.580935 70.316037)
-			)
-		)
-	)
-	(zone
 		(net "/Shutdown_OUT")
 		(layer "B.Cu")
 		(hatch none 0.1)
@@ -62495,6 +62462,39 @@
 				(xy 121.474307 111.880092) (xy 121.466588 111.884631) (xy 121.45792 111.882383) (xy 121.457602 111.882134)
 				(xy 120.935413 111.45901) (xy 120.933689 111.457286) (xy 120.510565 110.935097) (xy 120.508019 110.926512)
 				(xy 120.512289 110.918641) (xy 120.512558 110.91843) (xy 121.542228 110.141372) (xy 121.550893 110.139125)
+			)
+		)
+	)
+	(zone
+		(net "/Shutdown_IN")
+		(layer "B.Cu")
+		(hatch none 0.1)
+		(priority 30001)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(fill yes
+			(island_removal_mode 1)
+		)
+		(polygon
+			(pts
+				(xy 121.154023 72.02633) (xy 121.86113 71.319223) (xy 121.593004 70.311555) (xy 120.538134 70.703334)
+				(xy 120.407988 70.944959)
+			)
+		)
+		(filled_polygon
+			(layer "B.Cu")
+			(pts
+				(xy 121.589882 70.316369) (xy 121.595975 70.322931) (xy 121.596314 70.323996) (xy 121.859396 71.312708)
+				(xy 121.858211 71.321585) (xy 121.856362 71.32399) (xy 121.163952 72.0164) (xy 121.155679 72.019827)
+				(xy 121.147406 72.0164) (xy 121.146049 72.014771) (xy 120.412052 70.95085) (xy 120.410174 70.942094)
+				(xy 120.411379 70.938662) (xy 120.536042 70.707216) (xy 120.542266 70.701799) (xy 121.580935 70.316037)
 			)
 		)
 	)

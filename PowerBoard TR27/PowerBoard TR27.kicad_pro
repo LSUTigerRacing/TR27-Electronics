@@ -543,7 +543,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "PowerBoard TR27.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

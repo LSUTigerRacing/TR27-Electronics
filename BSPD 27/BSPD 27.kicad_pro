@@ -537,9 +537,9 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "production/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "BSPD 27.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
