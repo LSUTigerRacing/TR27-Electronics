@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.02,
-          "height": 1.37,
-          "width": 1.37
+          "drill": 0.0,
+          "height": 0.35,
+          "width": 1.025
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -60,7 +60,7 @@
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 0.2,
+          "min_clearance": 0.3,
           "min_island_area": 10.0,
           "min_thickness": 0.25,
           "pad_connection": 1,
@@ -462,7 +462,6 @@
       "footprint_filter": "ignore",
       "footprint_link_issues": "warning",
       "four_way_junction": "ignore",
-      "global_label_dangling": "warning",
       "ground_pin_not_ground": "warning",
       "hier_label_mismatch": "error",
       "isolated_pin_label": "warning",
@@ -502,7 +501,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Fault Latch 27.kicad_pro",
+    "filename": "BSPD 27.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -520,7 +519,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2,
+        "track_width": 0.15,
         "tuning_profile": "",
         "via_diameter": 0.6,
         "via_drill": 0.3,
@@ -536,14 +535,11 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "",
       "idf": "",
       "netlist": "",
       "plot": "production/",
-      "pos_files": "",
       "specctra_dsn": "",
-      "step": "Fault Latch 27.step",
-      "svg": "",
+      "step": "BSPD 27.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -619,20 +615,26 @@
         },
         {
           "group_by": false,
-          "label": "Check_prices",
-          "name": "Check_prices",
-          "show": false
+          "label": "$/unit Mouser",
+          "name": "$/unit Mouser",
+          "show": true
         },
         {
           "group_by": false,
-          "label": "Description_1",
-          "name": "Description_1",
-          "show": false
+          "label": "Mouser#",
+          "name": "Mouser#",
+          "show": true
         },
         {
           "group_by": false,
-          "label": "Height",
-          "name": "Height",
+          "label": "Digikey#",
+          "name": "Digikey#",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "JCL#",
+          "name": "JCL#",
           "show": false
         },
         {
@@ -643,8 +645,8 @@
         },
         {
           "group_by": false,
-          "label": "Manufacturer_Name",
-          "name": "Manufacturer_Name",
+          "label": "JLCPCB Part #",
+          "name": "JLCPCB Part #",
           "show": false
         },
         {
@@ -655,26 +657,50 @@
         },
         {
           "group_by": false,
-          "label": "MF",
-          "name": "MF",
-          "show": false
-        },
-        {
-          "group_by": false,
           "label": "MF#",
           "name": "MF#",
           "show": true
         },
         {
           "group_by": false,
-          "label": "MFR#",
-          "name": "MFR#",
+          "label": "MFR",
+          "name": "MFR",
           "show": false
         },
         {
           "group_by": false,
-          "label": "MOUSER",
-          "name": "MOUSER",
+          "label": "$/unit Digikey",
+          "name": "$/unit Digikey",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MPN",
+          "name": "MPN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer_Name",
+          "name": "Manufacturer_Name",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Height",
+          "name": "Height",
           "show": false
         },
         {
@@ -691,20 +717,8 @@
         },
         {
           "group_by": false,
-          "label": "Mouser#",
-          "name": "Mouser#",
-          "show": true
-        },
-        {
-          "group_by": false,
-          "label": "MP",
-          "name": "MP",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "MPN",
-          "name": "MPN",
+          "label": "Availability",
+          "name": "Availability",
           "show": false
         },
         {
@@ -733,20 +747,26 @@
         },
         {
           "group_by": false,
+          "label": "Package",
+          "name": "Package",
+          "show": false
+        },
+        {
+          "group_by": false,
           "label": "Price",
           "name": "Price",
           "show": false
         },
         {
           "group_by": false,
-          "label": "Sim.Device",
-          "name": "Sim.Device",
+          "label": "SUPPLIER",
+          "name": "SUPPLIER",
           "show": false
         },
         {
           "group_by": false,
-          "label": "Sim.Pins",
-          "name": "Sim.Pins",
+          "label": "Sim.Device",
+          "name": "Sim.Device",
           "show": false
         },
         {
@@ -763,45 +783,27 @@
         },
         {
           "group_by": false,
-          "label": "SUPPLIER",
-          "name": "SUPPLIER",
+          "label": "MF",
+          "name": "MF",
           "show": false
         },
         {
           "group_by": false,
-          "label": "Availability",
-          "name": "Availability",
+          "label": "Check_prices",
+          "name": "Check_prices",
           "show": false
         },
         {
           "group_by": false,
-          "label": "Description",
-          "name": "Description",
+          "label": "MP",
+          "name": "MP",
           "show": false
         },
         {
           "group_by": false,
-          "label": "#",
-          "name": "${ITEM_NUMBER}",
+          "label": "Description_1",
+          "name": "Description_1",
           "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Digikey#",
-          "name": "Digikey#",
-          "show": true
-        },
-        {
-          "group_by": false,
-          "label": "$/unit Mouser",
-          "name": "$/unit Mouser",
-          "show": true
-        },
-        {
-          "group_by": false,
-          "label": "$/unit Digikey",
-          "name": "$/unit Digikey",
-          "show": true
         }
       ],
       "filter_string": "",
@@ -809,7 +811,7 @@
       "include_excluded_from_bom": true,
       "name": "",
       "sort_asc": true,
-      "sort_field": "${EXCLUDE_FROM_BOM}"
+      "sort_field": "Reference"
     },
     "bus_aliases": {},
     "connection_grid_size": 50.0,
@@ -819,7 +821,7 @@
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
       "field_names": [],
-      "hop_over_size_choice": 2,
+      "hop_over_size_choice": 0,
       "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": false,
@@ -840,41 +842,25 @@
     "meta": {
       "version": 1
     },
-    "net_format_name": "",
-    "ngspice": {
-      "fix_include_paths": true,
-      "meta": {
-        "version": 0
-      },
-      "model_mode": 4,
-      "workbook_filename": ""
-    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "reuse_designators": true,
-    "space_save_all_events": true,
-    "spice_current_sheet_as_root": false,
-    "spice_external_command": "spice \"%I\"",
-    "spice_model_current_sheet_as_root": true,
-    "spice_save_all_currents": false,
-    "spice_save_all_dissipations": false,
-    "spice_save_all_voltages": false,
     "subpart_first_id": 65,
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Fault Latch 27.kicad_sch",
-        "name": "Fault Latch 27",
-        "uuid": "3b453f91-701a-4397-ab66-607acfe20470"
+        "filename": "BSPD 27.kicad_sch",
+        "name": "Root",
+        "uuid": "f2c93529-62cf-4c7c-8713-951c416f1d24"
       }
     ],
-    "used_designators": "D1-9,#PWR1-82,#PWR102-104,#PWR135,#PWR149,#PWR161-165,#PWR173-174,#PWR177,#PWR180,K1-3,C1-16,C112-113,C118,Q1-11,Q105-106,Q112-115,R1-28,R112,R121,R130,R133,R136,R150,U1-13,SW1,TP1-7,H1-4,J1-5",
+    "used_designators": "D1,#PWR1-54,C1-15,Q1,R1-16,TP1-2,RV1-2,U1-12,J1-2,H1-2",
     "variants": []
   },
   "sheets": [
     [
-      "3b453f91-701a-4397-ab66-607acfe20470",
-      "Fault Latch 27"
+      "f2c93529-62cf-4c7c-8713-951c416f1d24",
+      "Root"
     ]
   ],
   "text_variables": {},

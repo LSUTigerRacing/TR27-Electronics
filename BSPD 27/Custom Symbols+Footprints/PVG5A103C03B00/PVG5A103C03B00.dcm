@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PVG5A103C03B00
+D 10 kOhms 0.25W, 1/4W J Lead Surface Mount Trimmer Potentiometer Cermet 11 Turn Top Adjustment
+K
+F https://www.digikey.com/en/products/detail/bourns-inc/pvg5a103c03b00/2603757?msockid=3bdc366bbe0663d83c1223c0bf3662a6
+$ENDCMP
+#
+#End Doc Library
