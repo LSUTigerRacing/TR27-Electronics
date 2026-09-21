@@ -6321,7 +6321,7 @@
 		(dnp no)
 		(uuid "01328eab-35c7-457d-b670-23e38cbda9df")
 		(property "Reference" "R15"
-			(at 94.996 96.012 0)
+			(at 97.917 94.869 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6332,7 +6332,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 97.282 95.504 0)
+			(at 97.409 92.583 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6366,6 +6366,39 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 96.52 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
+			(at 96.52 90.17 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" " 603-RC0805FR-0710KL  "
+			(at 96.52 90.17 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer#" "311-10.0KCRCT-ND"
+			(at 96.52 90.17 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6457,7 +6490,29 @@
 				)
 			)
 		)
-		(property "JLC#" "C91186"
+		(property "JLC#" ""
+			(at 66.04 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-AC0805KKX7R9B105 "
+			(at 66.04 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer#" "13-AC0805KKX7R9BB105CT-ND"
 			(at 66.04 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -6628,7 +6683,29 @@
 				)
 			)
 		)
-		(property "JLC#" "C1592"
+		(property "JLC#" ""
+			(at 22.86 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-AC0805KKX7R9B105 "
+			(at 22.86 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer#" "CC0603KRX7R9BB105"
 			(at 22.86 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -6720,7 +6797,7 @@
 				)
 			)
 		)
-		(property "JLC#" "C91186"
+		(property "JLC#" ""
 			(at 157.48 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -6961,6 +7038,28 @@
 				)
 			)
 		)
+		(property "Mouser#" " 603-AC0805KKX7R9B105 "
+			(at 157.48 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer#" "13-AC0805KKX7R9BB105CT-ND"
+			(at 157.48 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ba33fd50-973f-4920-b68a-380a3e0e723a")
 		)
@@ -7185,6 +7284,28 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 223.52 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-RC0805FR-07680RL "
+			(at 223.52 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer#" "RC0805FR-0710KL"
+			(at 223.52 100.33 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7430,7 +7551,29 @@
 				)
 			)
 		)
-		(property "JLC#" "C1590"
+		(property "JLC#" ""
+			(at 34.29 151.13 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-AC0603KR9BB104 "
+			(at 34.29 151.13 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer#" "311-3034-2-ND"
 			(at 34.29 151.13 90)
 			(hide yes)
 			(show_name no)
@@ -7533,6 +7676,17 @@
 				)
 			)
 		)
+		(property "Manufacturer#" " ERJ-P06F6041V "
+			(at 140.97 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d04de790-e679-45f0-bac4-a2cc62e39e93")
 		)
@@ -7616,6 +7770,17 @@
 			)
 		)
 		(property "Mouser#" "71-CRCW08052K00JNEA"
+			(at 95.25 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer#" " CRCW08052K00JNEA "
 			(at 95.25 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -8079,7 +8244,18 @@
 				)
 			)
 		)
-		(property "Mouser#" "755-RFU01SM4ST2R"
+		(property "Mouser#" "755-RFU01SM4ST2R "
+			(at 59.69 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer#" "RFU01SM4ST2R  "
 			(at 59.69 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -8341,6 +8517,17 @@
 				)
 			)
 		)
+		(property "Manufacturer#" " ERJ-P06F3602V  "
+			(at 68.58 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a6d8c507-d141-49a5-a231-af89bba18855")
 		)
@@ -8423,6 +8610,17 @@
 			)
 		)
 		(property "Mouser#" "667-ERJ-P06F8662V"
+			(at 95.25 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer#" " ERJ-P06F8662V  "
 			(at 95.25 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -8516,6 +8714,17 @@
 			)
 		)
 		(property "Mouser#" "667-ERJ-P06F8662V"
+			(at 78.74 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer#" " ERJ-P06F8662V  "
 			(at 78.74 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -9006,7 +9215,29 @@
 				)
 			)
 		)
-		(property "Mouser#" "689-LR8K4-G"
+		(property "Mouser#" ""
+			(at 48.26 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "LR8K4-GCT-ND "
+			(at 48.26 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer#" " LR8K4-G "
 			(at 48.26 22.86 0)
 			(hide yes)
 			(show_name no)
@@ -9177,7 +9408,29 @@
 				)
 			)
 		)
-		(property "Mouser#" "810-CAA572X6T2W225M6"
+		(property "Mouser#" ""
+			(at 26.67 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "445-CAA572X6T2W225M640LJCT-ND "
+			(at 26.67 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer#" " CAA572X6T2W225M640LJ "
 			(at 26.67 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -9303,6 +9556,28 @@
 		)
 		(property "Sim.Type" ""
 			(at 59.69 166.37 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer#" "LMC555CMX/NOPBCT-ND"
+			(at 59.69 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " LMC555CMX/NOPB  "
+			(at 59.69 166.37 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9500,7 +9775,7 @@
 				)
 			)
 		)
-		(property "Mouser#" "963-MLASG168BB5475KT"
+		(property "Mouser#" "963-MLASG168BB5475KT "
 			(at 76.2 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -9699,6 +9974,17 @@
 				)
 			)
 		)
+		(property "Manufacturer#" " ERJ-P06J105V "
+			(at 134.62 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "23f17c9b-6093-4648-823b-9c1ccb146590")
 		)
@@ -9770,6 +10056,39 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 184.15 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
+			(at 184.15 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" " 603-RC0805FR-0710KL  "
+			(at 184.15 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer#" "311-10.0KCRCT-ND"
 			(at 184.15 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -10573,7 +10892,29 @@
 				)
 			)
 		)
-		(property "JLC#" "C1592"
+		(property "JLC#" ""
+			(at 200.66 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-AC0805KKX7R9B105 "
+			(at 200.66 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer#" "13-AC0805KKX7R9BB105CT-ND"
 			(at 200.66 87.63 90)
 			(hide yes)
 			(show_name no)
@@ -10826,6 +11167,28 @@
 				)
 			)
 		)
+		(property "Manufacturer#" "LM1117DT-5.0/NOPB"
+			(at 132.08 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 926-LM1117DT50NOPB  "
+			(at 132.08 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "14379677-f348-4830-8b24-29d5859ec192")
 		)
@@ -10908,7 +11271,29 @@
 				)
 			)
 		)
-		(property "JLC#" "C91186"
+		(property "JLC#" ""
+			(at 157.48 62.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-AC0805KKX7R9B105 "
+			(at 157.48 62.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer#" "13-AC0805KKX7R9BB105CT-ND"
 			(at 157.48 62.23 90)
 			(hide yes)
 			(show_name no)
@@ -11012,6 +11397,17 @@
 				)
 			)
 		)
+		(property "Manufacturer#" "CRCW0805374KFKEA  "
+			(at 68.58 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fda39de3-7dc5-47dd-85ea-2e226c5a06e2")
 		)
@@ -11095,6 +11491,17 @@
 			)
 		)
 		(property "Mouser#" "603-RC2010JK-071M5L"
+			(at 33.02 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer#" "CRCW20101M50FKEF "
 			(at 33.02 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -11587,6 +11994,17 @@
 				)
 			)
 		)
+		(property "Manufacturer#" "RC1206FR-07100KL "
+			(at 76.2 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e823b687-c7bf-44e4-94eb-4f867808937c")
 		)
@@ -11659,6 +12077,28 @@
 			)
 		)
 		(property "Description" "Dual Low-Power, Low-Noise, Low-Distortion, Bipolar-Input SoundPlus Audio Operational Amplifiers, VSSOP-8"
+			(at 167.64 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" "OPA1662DGK"
+			(at 167.64 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer#" "OPA2172QDGKRQ1"
 			(at 167.64 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -11757,6 +12197,28 @@
 			)
 		)
 		(property "Description" "Dual Low-Power, Low-Noise, Low-Distortion, Bipolar-Input SoundPlus Audio Operational Amplifiers, VSSOP-8"
+			(at 118.11 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" "OPA1662DGK"
+			(at 118.11 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer#" "OPA2172QDGKRQ1"
 			(at 118.11 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -12017,7 +12479,29 @@
 				)
 			)
 		)
-		(property "Mouser#" "603-RC0805FR-10100KL"
+		(property "Mouser#" ""
+			(at 48.26 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "13-RC0805FR-10100KLCT-ND "
+			(at 48.26 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer#" "RC0805FR-10100KL "
 			(at 48.26 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -12122,6 +12606,17 @@
 				)
 			)
 		)
+		(property "Manufacturer#" " VOLA617A-3X001T "
+			(at 162.56 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "735bf6f6-ba07-4fa1-8a15-828b4420ddb3")
 		)
@@ -12209,6 +12704,39 @@
 				)
 			)
 		)
+		(property "Mouser#" ""
+			(at 127 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" "13-RC0805FR-10100KLCT-ND "
+			(at 127 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer#" "RC0805FR-10100KL "
+			(at 127 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7ff6cc33-8d1c-48fc-938e-3c254b54c600")
 		)
@@ -12279,6 +12807,28 @@
 			)
 		)
 		(property "Description" "Single NOR Gate, Low-Voltage CMOS"
+			(at 207.01 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 595-SN74AHC1G02DBE4 "
+			(at 207.01 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer#" " SN74AHC1G02DBVRE4 "
 			(at 207.01 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -12381,6 +12931,17 @@
 			)
 		)
 		(property "JLC#" "C25664"
+			(at 76.2 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer#" "RC1206FR-0747KL "
 			(at 76.2 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -13118,6 +13679,28 @@
 				)
 			)
 		)
+		(property "Manufacturer#" "CC0603KRX7R6BB334 "
+			(at 147.32 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-CC603KRX7R6BB334  "
+			(at 147.32 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7f9c149d-0e51-4c00-9275-8169a907b8eb")
 		)
@@ -13211,7 +13794,7 @@
 				)
 			)
 		)
-		(property "Mouser#" "78-MMSZ5240CHE3_A-08"
+		(property "Mouser#" "78-MMSZ5240CHE3_A-08 "
 			(at 78.74 114.3 90)
 			(hide yes)
 			(show_name no)
@@ -13370,6 +13953,28 @@
 			)
 		)
 		(property "Description" "Dual Low-Power, Low-Noise, Low-Distortion, Bipolar-Input SoundPlus Audio Operational Amplifiers, VSSOP-8"
+			(at 95.25 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" "OPA1662DGK"
+			(at 95.25 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer#" "OPA2172QDGKRQ1"
 			(at 95.25 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -13567,6 +14172,17 @@
 				)
 			)
 		)
+		(property "Manufacturer#" " CR0805-FX-3571ELF  "
+			(at 59.69 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f1142b98-7f53-44ec-9931-7c404a29d9f5")
 		)
@@ -13659,6 +14275,17 @@
 				)
 			)
 		)
+		(property "Manufacturer#" " ERJ-P06F1432V "
+			(at 78.74 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c5abbc53-b72f-43c9-854a-bba493acb4b6")
 		)
@@ -13738,7 +14365,7 @@
 				)
 			)
 		)
-		(property "JLC#" "C1591"
+		(property "JLC#" ""
 			(at 114.3 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -13971,6 +14598,17 @@
 		)
 		(property "Manufacturer_Part_Number" ""
 			(at 114.3 31.75 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" " 603-AC0603KR9BB104 "
+			(at 114.3 31.75 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
