@@ -14247,7 +14247,7 @@
 				)
 			)
 		)
-		(property "Value" "74AHC1G02"
+		(property "Value" ""
 			(at 0 1.8 270)
 			(layer "F.Fab")
 			(uuid "a7c542b9-9ac8-4f29-99ed-5bfd7164f8a2")
@@ -14292,7 +14292,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 595-SN74AHC1G02DBE4 "
+		(property "Mouser#" "595-SN74AHC1G02DCG4"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14305,7 +14305,7 @@
 				)
 			)
 		)
-		(property "Manufacturer#" " SN74AHC1G02DBVRE4 "
+		(property "Manufacturer#" "SN74AHC1G02DCKRG4"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")

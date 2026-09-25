@@ -12817,7 +12817,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 595-SN74AHC1G02DBE4 "
+		(property "Mouser#" "595-SN74AHC1G02DCG4"
 			(at 207.01 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -12828,7 +12828,7 @@
 				)
 			)
 		)
-		(property "Manufacturer#" " SN74AHC1G02DBVRE4 "
+		(property "Manufacturer#" " SN74AHC1G02DCKRG4"
 			(at 207.01 100.33 0)
 			(hide yes)
 			(show_name no)
