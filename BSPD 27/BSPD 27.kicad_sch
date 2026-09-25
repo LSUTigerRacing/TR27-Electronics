@@ -29584,7 +29584,7 @@
 				)
 			)
 		)
-		(property "MF#" "SN74LVC1G11DCKR  "
+		(property "MF#" "SN74LVC1G08DCKR"
 			(at 100.33 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -29606,7 +29606,7 @@
 				)
 			)
 		)
-		(property "Mouser#" "595-SN74LVC1G11DCKR "
+		(property "Mouser#" "595-SN74LVC1G08DCKR"
 			(at 100.33 182.88 0)
 			(hide yes)
 			(show_name no)
