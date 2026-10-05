@@ -10008,7 +10008,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "296-18066-1-ND"
+		(property "Digikey#" ""
 			(at 266.7 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -10490,7 +10490,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "311-226KCRCT-ND"
+		(property "Digikey#" ""
 			(at 383.54 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -10947,7 +10947,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "311-2.00KCRCT-ND"
+		(property "Digikey#" ""
 			(at 106.68 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -11371,7 +11371,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "311-3034-2-ND"
+		(property "Digikey#" ""
 			(at 34.29 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -11772,7 +11772,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-0710KL "
+		(property "Mouser#" ""
 			(at 224.79 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -12150,7 +12150,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-071KL "
+		(property "Mouser#" ""
 			(at 40.64 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -12340,7 +12340,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "296-9848-1-ND"
+		(property "Digikey#" ""
 			(at 181.61 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -13242,7 +13242,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001CT-ND"
+		(property "Digikey#" ""
 			(at 119.38 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -13657,7 +13657,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "LMC555CMX/NOPBCT-ND"
+		(property "Digikey#" ""
 			(at 367.03 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -14075,7 +14075,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-0710KL "
+		(property "Mouser#" ""
 			(at 166.37 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -14355,7 +14355,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "311-3034-2-ND"
+		(property "Digikey#" ""
 			(at 341.63 92.71 90)
 			(hide yes)
 			(show_name no)
@@ -14733,7 +14733,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "311-2.00KCRCT-ND"
+		(property "Digikey#" ""
 			(at 106.68 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -15289,7 +15289,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-0710KL "
+		(property "Mouser#" ""
 			(at 313.69 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -15770,7 +15770,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001CT-ND"
+		(property "Digikey#" ""
 			(at 234.95 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -16252,7 +16252,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-0710KL "
+		(property "Mouser#" ""
 			(at 269.24 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -17098,7 +17098,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-071KL "
+		(property "Mouser#" ""
 			(at 40.64 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -17454,7 +17454,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "311-2.00KCRCT-ND"
+		(property "Digikey#" ""
 			(at 106.68 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -17956,7 +17956,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "311-3034-2-ND"
+		(property "Digikey#" ""
 			(at 34.29 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -18262,7 +18262,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "13-AC0805KKX7R9BB105CT-ND"
+		(property "Digikey#" ""
 			(at 330.2 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -18740,7 +18740,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-0710KL "
+		(property "Mouser#" ""
 			(at 157.48 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -19142,7 +19142,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "311-3034-2-ND"
+		(property "Digikey#" ""
 			(at 273.05 101.6 90)
 			(hide yes)
 			(show_name no)
@@ -19594,7 +19594,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "311-3034-2-ND"
+		(property "Digikey#" ""
 			(at 176.53 129.54 90)
 			(hide yes)
 			(show_name no)
@@ -20306,7 +20306,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-0710KL "
+		(property "Mouser#" ""
 			(at 55.88 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -20814,7 +20814,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "311-3034-2-ND"
+		(property "Digikey#" ""
 			(at 176.53 77.47 90)
 			(hide yes)
 			(show_name no)
@@ -21189,7 +21189,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "311-3034-2-ND"
+		(property "Digikey#" ""
 			(at 176.53 25.4 90)
 			(hide yes)
 			(show_name no)
@@ -21517,7 +21517,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "641-2082-2-ND"
+		(property "Digikey#" ""
 			(at 29.21 49.53 90)
 			(hide yes)
 			(show_name no)
@@ -22138,7 +22138,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 720-Q62702P5178 "
+		(property "Mouser#" ""
 			(at 106.68 35.56 90)
 			(hide yes)
 			(show_name no)
@@ -22491,7 +22491,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "PB1981-ND"
+		(property "Digikey#" ""
 			(at 127 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -22844,7 +22844,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001CT-ND"
+		(property "Digikey#" ""
 			(at 391.16 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -23303,7 +23303,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "SW423CT-ND"
+		(property "Digikey#" ""
 			(at 220.98 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -23651,7 +23651,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001CT-ND"
+		(property "Digikey#" ""
 			(at 266.7 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -24029,7 +24029,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "311-3034-2-ND"
+		(property "Digikey#" ""
 			(at 93.98 129.54 90)
 			(hide yes)
 			(show_name no)
@@ -24454,7 +24454,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001CT-ND"
+		(property "Digikey#" ""
 			(at 279.4 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -25105,7 +25105,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-0710KL "
+		(property "Mouser#" ""
 			(at 166.37 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -25320,7 +25320,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 595-SN74LVC1G373DCKR "
+		(property "Mouser#" ""
 			(at 40.64 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -25688,7 +25688,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "2019-SG73P2BTTD2201FCT-ND"
+		(property "Digikey#" ""
 			(at 24.13 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -26770,7 +26770,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001CT-ND"
+		(property "Digikey#" ""
 			(at 298.45 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -26900,7 +26900,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 78-VOS617A-3T "
+		(property "Mouser#" ""
 			(at 48.26 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -27265,7 +27265,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001CT-ND"
+		(property "Digikey#" ""
 			(at 323.85 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -27692,7 +27692,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001CT-ND"
+		(property "Digikey#" ""
 			(at 119.38 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -27843,7 +27843,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "13-AC0805KKX7R9BB105CT-ND"
+		(property "Digikey#" ""
 			(at 383.54 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -28451,7 +28451,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "311-3034-2-ND"
+		(property "Digikey#" ""
 			(at 93.98 25.4 90)
 			(hide yes)
 			(show_name no)
@@ -29831,7 +29831,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "311-680CRCT-ND"
+		(property "Digikey#" ""
 			(at 285.75 113.03 90)
 			(hide yes)
 			(show_name no)
@@ -30230,7 +30230,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 720-Q62702P5178 "
+		(property "Mouser#" ""
 			(at 106.68 139.7 90)
 			(hide yes)
 			(show_name no)
@@ -30554,7 +30554,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "311-3034-2-ND"
+		(property "Digikey#" ""
 			(at 377.19 46.99 90)
 			(hide yes)
 			(show_name no)
@@ -30681,7 +30681,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 78-VOS617A-3T "
+		(property "Mouser#" ""
 			(at 48.26 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -31312,7 +31312,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001CT-ND"
+		(property "Digikey#" ""
 			(at 222.25 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -31474,7 +31474,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 595-SN74LVC1G373DCKR "
+		(property "Mouser#" ""
 			(at 40.64 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -31811,7 +31811,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001CT-ND"
+		(property "Digikey#" ""
 			(at 119.38 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -32031,7 +32031,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "PB1981-ND"
+		(property "Digikey#" ""
 			(at 127 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -32593,7 +32593,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-0710KL "
+		(property "Mouser#" ""
 			(at 24.13 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -33049,7 +33049,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-0710KL "
+		(property "Mouser#" ""
 			(at 59.69 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -33427,7 +33427,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-0710KL "
+		(property "Mouser#" ""
 			(at 157.48 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -33539,7 +33539,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "296-9848-1-ND"
+		(property "Digikey#" ""
 			(at 181.61 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -33895,7 +33895,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "311-3034-2-ND"
+		(property "Digikey#" ""
 			(at 34.29 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -34373,7 +34373,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-071KL "
+		(property "Mouser#" ""
 			(at 40.64 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -34985,7 +34985,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 720-Q62702P5178 "
+		(property "Mouser#" ""
 			(at 106.68 87.63 90)
 			(hide yes)
 			(show_name no)
@@ -35254,7 +35254,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "296-9848-1-ND"
+		(property "Digikey#" ""
 			(at 181.61 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -35663,7 +35663,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-0710KL "
+		(property "Mouser#" ""
 			(at 157.48 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -36206,7 +36206,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "PB1981-ND"
+		(property "Digikey#" ""
 			(at 127 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -36665,7 +36665,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "311-3034-2-ND"
+		(property "Digikey#" ""
 			(at 93.98 77.47 90)
 			(hide yes)
 			(show_name no)
@@ -36980,7 +36980,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 595-SN74LVC1G373DCKR "
+		(property "Mouser#" ""
 			(at 40.64 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -37139,7 +37139,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "641-2082-2-ND"
+		(property "Digikey#" ""
 			(at 29.21 153.67 90)
 			(hide yes)
 			(show_name no)
@@ -37476,7 +37476,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001CT-ND"
+		(property "Digikey#" ""
 			(at 311.15 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -37790,7 +37790,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "296-18066-1-ND"
+		(property "Digikey#" ""
 			(at 370.84 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -38145,7 +38145,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "311-3034-2-ND"
+		(property "Digikey#" ""
 			(at 241.3 102.87 90)
 			(hide yes)
 			(show_name no)
@@ -38272,7 +38272,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 78-VOS617A-3T "
+		(property "Mouser#" ""
 			(at 48.26 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -38664,7 +38664,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "311-3034-2-ND"
+		(property "Digikey#" ""
 			(at 215.9 154.94 90)
 			(hide yes)
 			(show_name no)
@@ -38954,7 +38954,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "296-9846-1-ND"
+		(property "Digikey#" ""
 			(at 234.95 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -39132,7 +39132,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "641-2082-2-ND"
+		(property "Digikey#" ""
 			(at 29.21 101.6 90)
 			(hide yes)
 			(show_name no)
@@ -39598,7 +39598,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-0710KL "
+		(property "Mouser#" ""
 			(at 24.13 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -40054,7 +40054,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-0710KL "
+		(property "Mouser#" ""
 			(at 59.69 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -40432,7 +40432,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-0710KL "
+		(property "Mouser#" ""
 			(at 166.37 101.6 0)
 			(hide yes)
 			(show_name no)

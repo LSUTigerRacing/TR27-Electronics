@@ -661,6 +661,18 @@
         },
         {
           "group_by": false,
+          "label": "Mouser#",
+          "name": "Mouser#",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Digikey#",
+          "name": "Digikey#",
+          "show": true
+        },
+        {
+          "group_by": false,
           "label": "MF#",
           "name": "MF#",
           "show": true
@@ -688,12 +700,6 @@
           "label": "Mouser Price/Stock",
           "name": "Mouser Price/Stock",
           "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Mouser#",
-          "name": "Mouser#",
-          "show": true
         },
         {
           "group_by": false,
@@ -787,12 +793,6 @@
         },
         {
           "group_by": false,
-          "label": "Digikey#",
-          "name": "Digikey#",
-          "show": true
-        },
-        {
-          "group_by": false,
           "label": "$/unit Mouser",
           "name": "$/unit Mouser",
           "show": true
@@ -802,6 +802,12 @@
           "label": "$/unit Digikey",
           "name": "$/unit Digikey",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Package",
+          "name": "Package",
+          "show": false
         }
       ],
       "filter_string": "",
