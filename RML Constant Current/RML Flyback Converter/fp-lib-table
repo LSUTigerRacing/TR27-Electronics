@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "KiCad") (type "KiCad") (uri "C:/Users/thoma/Downloads/LIB_LT8315IFE#PBF/LT8315IFE#PBF/KiCad.pretty") (options "") (descr ""))
+	(lib (name "LT8315IFE#PBF") (type "KiCad") (uri "C:/Users/thoma/Downloads/LIB_LT8315IFE#PBF/LT8315IFE#PBF.pretty") (options "") (descr ""))
+	(lib (name "LT8630") (type "KiCad") (uri "${KIPRJMOD}/LT8630.pretty") (options "") (descr ""))
+)

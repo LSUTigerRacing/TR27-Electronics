@@ -1,0 +1,26 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "893895a7-1c04-4f4a-8dd3-eb7700fdc3f7")
+	(paper "A4")
+	(lib_symbols)
+	(text "PRECHARGE 27\n"
+		(exclude_from_sim no)
+		(at 27.432 15.494 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "5d621e4c-24e1-4747-aff2-1bb4975ce447")
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

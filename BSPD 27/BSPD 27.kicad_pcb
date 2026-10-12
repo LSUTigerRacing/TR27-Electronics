@@ -216,12 +216,12 @@
 				)
 			)
 		)
-		(property "Digikey#" ""
+		(property "Digikey#" "  PVG5A103C03B00-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "783846e1-50fb-4891-b37c-c27456b1b4f5")
+			(uuid "e628d31e-8150-4a2f-bd44-18b4dd60628d")
 			(effects
 				(font
 					(size 1 1)
@@ -234,7 +234,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "67fae7d8-161d-4b34-b6d9-d74c544c3b6e")
+			(uuid "c802c389-a294-4476-b6fe-589869d45083")
 			(effects
 				(font
 					(size 1 1)
@@ -247,7 +247,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ae90170a-d3f0-4366-bd25-4e1b56d47551")
+			(uuid "3240f999-570f-4b27-a29e-fc675fe000f9")
 			(effects
 				(font
 					(size 1 1)
@@ -260,7 +260,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d0465411-e21a-4283-9623-058d1f7d45a8")
+			(uuid "29e84b0c-9f7d-4497-8393-660a70abc286")
 			(effects
 				(font
 					(size 1 1)
@@ -574,12 +574,12 @@
 				)
 			)
 		)
-		(property "Digikey#" ""
+		(property "Digikey#" "296-9846-1-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cf3470a3-af2e-4967-b901-198d91a8830e")
+			(uuid "6f1e2ddf-a438-4d20-aba4-1b4cfeb0af72")
 			(effects
 				(font
 					(size 1 1)
@@ -592,7 +592,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1336272f-67b7-45e2-9e7d-46d58dd48aaf")
+			(uuid "733b7609-1d84-4db3-88f9-bb1f3ce7a466")
 			(effects
 				(font
 					(size 1 1)
@@ -605,7 +605,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "57c0406a-a5df-49a1-857c-f64a121b1bdd")
+			(uuid "37435ece-73a6-4195-a175-97bf5e46fb84")
 			(effects
 				(font
 					(size 1 1)
@@ -618,7 +618,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dbb7e2ed-1d21-4152-8dab-bb9680164b0d")
+			(uuid "788ee65b-9167-4b24-9fd1-cf0892ec0bd6")
 			(effects
 				(font
 					(size 1 1)
@@ -1065,12 +1065,12 @@
 				)
 			)
 		)
-		(property "Digikey#" ""
+		(property "Digikey#" "587-MCAST168SB5104KTNA01CT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "14e31321-5166-46c5-b69f-f678e5c9d38a")
+			(uuid "82204ac0-68c6-46ca-b364-ea2267b186f0")
 			(effects
 				(font
 					(size 1 1)
@@ -1078,12 +1078,12 @@
 				)
 			)
 		)
-		(property "MF#" "311-3034-2-ND "
+		(property "MF#" "MCAST168SB5104KTNA01"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "210792a0-f418-4a23-a83e-04b80ef6cd81")
+			(uuid "0fddf646-b239-4c23-abec-857ce3ec7e1a")
 			(effects
 				(font
 					(size 1 1)
@@ -1096,7 +1096,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "682e4994-4b2c-43d6-ada6-b4448121b1c3")
+			(uuid "ba1b2983-0440-4fa7-baee-e97d9217c104")
 			(effects
 				(font
 					(size 1 1)
@@ -1104,12 +1104,12 @@
 				)
 			)
 		)
-		(property "Mouser#" "AC0603KRX7R9BB104  "
+		(property "Mouser#" "963-MCAST168SB5104KT"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "39c6e8c5-ab08-46e0-9ef9-61ed72e57c6b")
+			(uuid "7e625c60-a377-4c7f-9828-d12d3e060548")
 			(effects
 				(font
 					(size 1 1)
@@ -1528,7 +1528,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9816ef86-f7f2-43c7-bf20-d716b01d5127")
+			(uuid "d0bd3d69-d8f1-4597-9613-51be752008b2")
 			(effects
 				(font
 					(size 1 1)
@@ -1682,12 +1682,12 @@
 				)
 			)
 		)
-		(property "Digikey#" ""
+		(property "Digikey#" "  PVG5A103C03B00-ND"
 			(at 0 0 180)
 			(unlocked yes)
-			(layer "F.Fab")
+			(layer "F.Fab")       
 			(hide yes)
-			(uuid "8a59be09-8b48-490a-a932-cccc766b9f46")
+			(uuid "8ee4c09c-cb0f-45ef-87f5-d92e88d44fcd") 
 			(effects
 				(font
 					(size 1 1)
@@ -1700,7 +1700,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5f510a30-6ead-43a0-bde8-494dfdd1de26")
+			(uuid "afbed3ac-a2c4-4389-ad8f-ea72182f80f8")
 			(effects
 				(font
 					(size 1 1)
@@ -1713,7 +1713,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8164d882-b06a-464c-b312-1b3814bf8e4d")
+			(uuid "639e9003-abe1-4268-a535-67589feef19c")
 			(effects
 				(font
 					(size 1 1)
@@ -1726,7 +1726,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ba994c6e-5ec3-4ce1-854d-7e5255945f51")
+			(uuid "8c3158c4-fb8b-4fd8-a0e2-02a0e66587de")
 			(effects
 				(font
 					(size 1 1)
@@ -2079,12 +2079,12 @@
 				)
 			)
 		)
-		(property "Digikey#" "2019-RK73H2ATTD1202FCT-ND "
+		(property "Digikey#" "2019-RK73H2ATTD1202FCT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3df9651c-36ef-483e-87ef-1e3373544657")
+			(uuid "b27387c1-9124-401d-9606-8bee53984160")
 			(effects
 				(font
 					(size 1 1)
@@ -2097,7 +2097,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d6fb060c-fa92-490a-9633-b5540c374165")
+			(uuid "c19f2b53-2b81-4d3f-9481-dabde928149e")
 			(effects
 				(font
 					(size 1 1)
@@ -2110,7 +2110,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6e3f9e42-edc0-4a5d-81f2-f5d0839585ec")
+			(uuid "75e14523-6063-40de-86da-119fb23b16ef")
 			(effects
 				(font
 					(size 1 1)
@@ -2118,12 +2118,12 @@
 				)
 			)
 		)
-		(property "Mouser#" ""
+		(property "Mouser#" "660-RK73H2ATTD1202F"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "59866777-d106-4d15-90a8-2dfe1493e529")
+			(uuid "19f7e6c5-76a6-4c62-8c14-8190ab8ce969")
 			(effects
 				(font
 					(size 1 1)
@@ -2542,7 +2542,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f50b4fe9-d937-4379-84f5-a0698c189945")
+			(uuid "f0e723fd-178e-45e2-9f51-d71c4833a5d4")
 			(effects
 				(font
 					(size 1 1)
@@ -2662,7 +2662,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a2fc6f99-5b03-4247-a00d-34ac562fb58c")
+			(uuid "cd0a7fff-a328-45a5-983e-b26ae1d96e92")
 			(effects
 				(font
 					(size 1 1)
@@ -2675,7 +2675,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e473074c-5386-4e70-9798-e9e4bd2b5974")
+			(uuid "3401d996-9135-400c-a8e2-8529cf00d8e2")
 			(effects
 				(font
 					(size 1 1)
@@ -2688,7 +2688,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1a7a78a7-0720-4d41-9e40-921130358f44")
+			(uuid "6b86f808-10a0-4741-a9d8-162b4399b987")
 			(effects
 				(font
 					(size 1 1)
@@ -2696,12 +2696,12 @@
 				)
 			)
 		)
-		(property "Mouser#" ""
+		(property "Mouser#" "595-TLV9032DGKR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e768132c-b074-4bc8-bed0-86e1cf8bf749")
+			(uuid "c4c168ce-3020-43cf-8ed0-479d27da017e")
 			(effects
 				(font
 					(size 1 1)
@@ -3025,12 +3025,12 @@
 				)
 			)
 		)
-		(property "Digikey#" ""
+		(property "Digikey#" "296-9848-1-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fc499650-9022-4932-999e-6b474f3a2d21")
+			(uuid "e12ee77f-bbb6-4fb9-8cbf-d52ae0dafd9a")
 			(effects
 				(font
 					(size 1 1)
@@ -3043,7 +3043,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "565ddbc9-e3a2-4527-aae3-d8c4fbd03413")
+			(uuid "626a35c3-1b11-4eed-b183-f5100705b644")
 			(effects
 				(font
 					(size 1 1)
@@ -3056,7 +3056,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "44439138-8ccf-4859-bf72-7ece2788bf0f")
+			(uuid "b53bfbca-452b-4555-abbd-ab7a6b7f2a4e")
 			(effects
 				(font
 					(size 1 1)
@@ -3069,7 +3069,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a5aba081-6f9e-4c92-8f3d-b153ece6cb4e")
+			(uuid "c822976f-e74d-48f4-bce6-f3f38e12792c")
 			(effects
 				(font
 					(size 1 1)
@@ -3509,7 +3509,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9c78c22b-fda7-4bb6-b53b-3db59818b33f")
+			(uuid "e662e568-dfb8-4820-8b7f-07d666c56700")
 			(effects
 				(font
 					(size 1 1)
@@ -3522,7 +3522,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bb799c75-98cf-4ef2-bdfc-f3ac31e322ad")
+			(uuid "eabbb09e-fff8-4227-b894-72b08c1f3989")
 			(effects
 				(font
 					(size 1 1)
@@ -3535,7 +3535,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ff8aeef9-464b-4bec-9286-1cccd053b482")
+			(uuid "8853617c-6f96-4d63-883d-2cced5889149")
 			(effects
 				(font
 					(size 1 1)
@@ -3543,12 +3543,12 @@
 				)
 			)
 		)
-		(property "Mouser#" ""
+		(property "Mouser#" "603-AC0805FR-07340KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7ff6ad35-fc36-4cc2-8338-93e94af6f1e1")
+			(uuid "3c56a893-d469-41ad-ab73-def8c7de6184")
 			(effects
 				(font
 					(size 1 1)
@@ -3733,7 +3733,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "271b7c50-3059-41d0-baae-c1a93880ee81")
+			(uuid "7df2e366-f7dc-4882-b9b6-4c466d8271ea")
 			(effects
 				(font
 					(size 1 1)
@@ -3746,7 +3746,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7c5fe0c1-becb-44fe-95e0-0452b326e2f5")
+			(uuid "f0f4610e-7ade-473e-95ef-02c0e8e42522")
 			(effects
 				(font
 					(size 1 1)
@@ -3759,7 +3759,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "08a41a70-7229-4647-b96c-d51bf1a912a1")
+			(uuid "b2af263d-3605-4c62-abc4-8a5227df5351")
 			(effects
 				(font
 					(size 1 1)
@@ -3767,12 +3767,12 @@
 				)
 			)
 		)
-		(property "Mouser#" ""
+		(property "Mouser#" "603-RC0805FR-0710KL "
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cd14cd99-f49c-4ee6-874f-9b4b0f8b1497")
+			(uuid "11f6876d-1e64-42dc-a1a7-fae26cbc01ef")
 			(effects
 				(font
 					(size 1 1)
@@ -3970,7 +3970,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e908bf38-ac2a-4817-8606-4ae9f2ce69f4")
+			(uuid "472b57e7-519d-45fd-8797-56e5ac997f8e")
 			(effects
 				(font
 					(size 1 1)
@@ -3983,7 +3983,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f9369832-4bb5-4e5b-ad66-d0b13e270db1")
+			(uuid "0efa40b1-fbe6-4e4b-b0c3-6284658ea054")
 			(effects
 				(font
 					(size 1 1)
@@ -3996,7 +3996,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4c41189d-e464-40ab-bea4-c89444d67919")
+			(uuid "6365fbfb-0a25-49b0-9c70-ecddb06ed6da")
 			(effects
 				(font
 					(size 1 1)
@@ -4004,12 +4004,12 @@
 				)
 			)
 		)
-		(property "Mouser#" ""
+		(property "Mouser#" "603-RC0805FR-10100KL"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9cada047-a278-4edb-b3ad-3985b97d5cd5")
+			(uuid "e82725bc-5463-46dc-beb9-5efacebb06a7")
 			(effects
 				(font
 					(size 1 1)
@@ -4180,7 +4180,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1696adf8-1892-43a4-a8de-4c03e8dc6b22")
+			(uuid "23fda7de-d6ba-4225-a7ff-47b997120cf1")
 			(effects
 				(font
 					(size 1 1)
@@ -4193,7 +4193,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d85762bc-2bd1-43b1-9c48-e17a261b055a")
+			(uuid "9688f5a7-48b7-477b-a011-968e56c34ab0")
 			(effects
 				(font
 					(size 1 1)
@@ -4206,7 +4206,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3bc57926-3e91-44a9-8260-9506e96d33c4")
+			(uuid "b351b9f7-8d46-4d5d-804d-c3e9264a0bad")
 			(effects
 				(font
 					(size 1 1)
@@ -4214,12 +4214,12 @@
 				)
 			)
 		)
-		(property "Mouser#" ""
+		(property "Mouser#" "595-SN74L2G17MDCKREP"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7dcbf14f-1764-4694-9ab1-21f198083d07")
+			(uuid "545af6b8-c40b-4a83-a78c-60cbf95be759")
 			(effects
 				(font
 					(size 1 1)
@@ -4613,7 +4613,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a7d0666a-2938-4bd6-8ebf-1f6e7320fb7c")
+			(uuid "bf94a649-849c-48bf-8e39-2300767bd8cc")
 			(effects
 				(font
 					(size 1 1)
@@ -4626,7 +4626,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7508abed-f326-415b-b540-c00becf50073")
+			(uuid "bbdcdc71-b302-4c3c-9e1c-6efe51ab161d")
 			(effects
 				(font
 					(size 1 1)
@@ -4639,7 +4639,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ea93afdf-dfa0-42bf-84fb-9a955b3389f2")
+			(uuid "fe89a5ba-8867-4cc8-aa00-71209f67d7c4")
 			(effects
 				(font
 					(size 1 1)
@@ -4647,12 +4647,12 @@
 				)
 			)
 		)
-		(property "Mouser#" ""
+		(property "Mouser#" "603-RC0805FR-0710KL "
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6e6002e9-3d92-4b33-8232-a2886e95ec7a")
+			(uuid "989bab8a-810b-4122-90c7-5a8aa2b893cc")
 			(effects
 				(font
 					(size 1 1)
@@ -4857,12 +4857,12 @@
 				)
 			)
 		)
-		(property "Digikey#" ""
+		(property "Digikey#" "587-MCAST168SB5104KTNA01CT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a7dfb27e-25bf-41df-976a-d233049669d0")
+			(uuid "22c1b20c-567f-4ad1-9124-1e6a7e7a56eb")
 			(effects
 				(font
 					(size 1 1)
@@ -4870,12 +4870,12 @@
 				)
 			)
 		)
-		(property "MF#" "311-3034-2-ND "
+		(property "MF#" "MCAST168SB5104KTNA01"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "88377c69-7907-43b1-b786-d8b7f2c10e1f")
+			(uuid "6cd304e5-1a43-46cf-9122-4b6f0fdf7a50")
 			(effects
 				(font
 					(size 1 1)
@@ -4888,7 +4888,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "80e658b4-36b2-4dfc-9a86-1d0956f1b2d5")
+			(uuid "eba7b53c-69db-4c71-b8eb-e9a7b67df68d")
 			(effects
 				(font
 					(size 1 1)
@@ -4896,12 +4896,12 @@
 				)
 			)
 		)
-		(property "Mouser#" "AC0603KRX7R9BB104  "
+		(property "Mouser#" "963-MCAST168SB5104KT"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3f9755e4-7d58-493c-9dbf-47c6cacb0b66")
+			(uuid "d4f17d81-3901-4320-b176-2a17814f985e")
 			(effects
 				(font
 					(size 1 1)
@@ -5061,7 +5061,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4266eebe-e323-4ff0-a858-4c46ee9b8f72")
+			(uuid "313fe9ee-d7f7-4fa0-80fa-f4753a613882")
 			(effects
 				(font
 					(size 1 1)
@@ -5074,7 +5074,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f469fcf0-037a-47c4-be7b-83fcf6ac2ae0")
+			(uuid "24e75307-e7c0-4d91-a616-afd007d7ba29")
 			(effects
 				(font
 					(size 1 1)
@@ -5087,7 +5087,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e6f9a320-edcc-4644-910c-d0a3bbb1b269")
+			(uuid "af2f4280-f775-4c23-8e47-0ca5f5f9718f")
 			(effects
 				(font
 					(size 1 1)
@@ -5095,12 +5095,12 @@
 				)
 			)
 		)
-		(property "Mouser#" ""
+		(property "Mouser#" "595-TLV9032DGKR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d05a0f95-95dc-4013-a63a-00798f870935")
+			(uuid "48458564-9eb7-471e-91a7-3a45022fa47c")
 			(effects
 				(font
 					(size 1 1)
@@ -5459,7 +5459,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9aeb52fa-d245-4e75-8b76-09a5e79c6307")
+			(uuid "88e26e92-0fa5-4d06-88ed-3a60066b6c01")
 			(effects
 				(font
 					(size 1 1)
@@ -5616,7 +5616,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "644b2ba6-3fb0-4e62-80f7-712ed2529bfb")
+			(uuid "e3008da2-c397-4512-9348-018fb9ac54c9")
 			(effects
 				(font
 					(size 1 1)
@@ -5629,7 +5629,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4b33f991-6494-46db-a56c-a6ed23a0af19")
+			(uuid "6b5f1e80-5ba2-4925-8c25-bfbf0b3aac1f")
 			(effects
 				(font
 					(size 1 1)
@@ -5642,7 +5642,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7e0e7b59-d7cf-4a3a-98a5-15ebf20127bd")
+			(uuid "d6539aad-bd57-4b1d-baa9-35d61146bbe9")
 			(effects
 				(font
 					(size 1 1)
@@ -5650,12 +5650,12 @@
 				)
 			)
 		)
-		(property "Mouser#" ""
+		(property "Mouser#" "603-RC0805FR-10100KL"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "279064e0-a961-4159-b14b-3bf36d694e35")
+			(uuid "4d0268a8-f800-4377-9f93-f5e7741ceae7")
 			(effects
 				(font
 					(size 1 1)
@@ -5860,12 +5860,12 @@
 				)
 			)
 		)
-		(property "Digikey#" ""
+		(property "Digikey#" "587-MCAST168SB5104KTNA01CT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0b971565-53de-4cf6-acb3-586c2dd4a490")
+			(uuid "6003f7e0-d60c-4b9c-942b-20c4deb517f1")
 			(effects
 				(font
 					(size 1 1)
@@ -5873,12 +5873,12 @@
 				)
 			)
 		)
-		(property "MF#" "311-3034-2-ND "
+		(property "MF#" "MCAST168SB5104KTNA01"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5e98ec70-262b-493d-9d67-f91b40a1715e")
+			(uuid "05e620e2-9edc-4120-8f1f-0571c3d128b0")
 			(effects
 				(font
 					(size 1 1)
@@ -5891,7 +5891,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4e1b81cc-12c4-43a6-a25c-9aa60962ccc8")
+			(uuid "42979a86-78ed-47e8-b679-58c320d336fd")
 			(effects
 				(font
 					(size 1 1)
@@ -5899,12 +5899,12 @@
 				)
 			)
 		)
-		(property "Mouser#" "AC0603KRX7R9BB104  "
+		(property "Mouser#" "963-MCAST168SB5104KT"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a8809dbe-81f2-4f74-a226-e8b7741f005f")
+			(uuid "1883e529-f143-479e-b7fb-d427d14bb76a")
 			(effects
 				(font
 					(size 1 1)
@@ -6064,7 +6064,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c2076655-d4b9-4dbd-ae02-7e67349dbf77")
+			(uuid "efdb80d1-23f8-473a-a7ab-616ea09874ec")
 			(effects
 				(font
 					(size 1 1)
@@ -6077,7 +6077,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d0f44a3d-93a5-478b-b6fd-b8483c008d48")
+			(uuid "97bc3eed-3e49-4fdb-a229-2fbbb454bbc3")
 			(effects
 				(font
 					(size 1 1)
@@ -6090,7 +6090,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "101f4dab-718b-419a-8283-9625ad7b9828")
+			(uuid "8344c3ea-1fa3-4287-991d-baadaca8f590")
 			(effects
 				(font
 					(size 1 1)
@@ -6098,12 +6098,12 @@
 				)
 			)
 		)
-		(property "Mouser#" ""
+		(property "Mouser#" "595-TLV9032DGKR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0562719c-c2bc-48af-9364-91aa3bc9269a")
+			(uuid "f577b067-4cfd-4b9d-9c70-3b11cd71260d")
 			(effects
 				(font
 					(size 1 1)
@@ -6464,12 +6464,12 @@
 				)
 			)
 		)
-		(property "Digikey#" ""
+		(property "Digikey#" "296-18066-1-ND "
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1961e217-73f8-46bf-aaff-76b038ea491a")
+			(uuid "3cbf6f25-8cbf-41b3-9acd-92954648877e")
 			(effects
 				(font
 					(size 1 1)
@@ -6482,7 +6482,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "904185b2-3884-49b3-88b4-3865e2556e3b")
+			(uuid "96a721d4-aa0c-4784-b982-386927596708")
 			(effects
 				(font
 					(size 1 1)
@@ -6495,7 +6495,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "397ec32b-5957-4085-925d-e97c8856a15c")
+			(uuid "0c6055e2-5132-44eb-a622-71b330cdb567")
 			(effects
 				(font
 					(size 1 1)
@@ -6508,7 +6508,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9d41f082-9393-457b-94da-b0fd17279b43")
+			(uuid "936744eb-c649-465f-b22e-256ac135f067")
 			(effects
 				(font
 					(size 1 1)
@@ -6930,12 +6930,12 @@
 				)
 			)
 		)
-		(property "Digikey#" ""
+		(property "Digikey#" "296-18066-1-ND "
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "54a75141-28c9-49a2-897e-a4234c088cfb")
+			(uuid "fbb33080-a523-4ef5-8cb6-e63e9f29a382")
 			(effects
 				(font
 					(size 1 1)
@@ -6943,12 +6943,12 @@
 				)
 			)
 		)
-		(property "MF#" "SN74LVC1G11DCKR  "
+		(property "MF#" "SN74LVC1G08DCKR"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0e26e286-a9f3-43fb-b260-155d540673dc")
+			(uuid "086b24e4-2c3c-417d-be67-bacaa9b22441")
 			(effects
 				(font
 					(size 1 1)
@@ -6961,7 +6961,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2b640c67-ed8a-4c71-aae1-1a022ede96a4")
+			(uuid "e036ad1e-7f2d-4af3-9fca-0e25cb36b4c4")
 			(effects
 				(font
 					(size 1 1)
@@ -6969,12 +6969,12 @@
 				)
 			)
 		)
-		(property "Mouser#" "595-SN74LVC1G11DCKR "
+		(property "Mouser#" "595-SN74LVC1G08DCKR"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6472b0af-84f3-46ae-8514-a6c8e03cd607")
+			(uuid "173d6256-8a0a-43de-9551-3b1174947b5f")
 			(effects
 				(font
 					(size 1 1)
@@ -7405,7 +7405,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dd0112eb-bf93-455a-898b-089b5444b298")
+			(uuid "6b3c5c25-f8c7-412d-942d-b3a9348401d3")
 			(effects
 				(font
 					(size 1 1)
@@ -7532,7 +7532,7 @@
 				)
 			)
 		)
-		(property "Mouser#" ""
+		(property "Mouser#" "78-VOS617A-3T "
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7589,7 +7589,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1609a933-49a9-44ac-8807-861d9a38db61")
+			(uuid "982c03aa-35cf-4e0e-9b61-ec9fc057ec68")
 			(effects
 				(font
 					(size 1 1)
@@ -8206,7 +8206,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0ecfe548-44c2-4ac4-be2e-510590486f2c")
+			(uuid "66bb6aae-c6be-4dfc-9e7c-45a2333ab4f5")
 			(effects
 				(font
 					(size 1 1)
@@ -8219,7 +8219,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e6d2d255-7c6f-4ec5-80ff-8efc57376829")
+			(uuid "6f380bb5-f9d0-4df6-9745-5a3ddde50fe2")
 			(effects
 				(font
 					(size 1 1)
@@ -8232,7 +8232,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "980a84e0-a5d7-40a9-a604-09805c8e07ce")
+			(uuid "d3f6620f-1d62-4705-8147-287ddb27c0ed")
 			(effects
 				(font
 					(size 1 1)
@@ -8240,12 +8240,12 @@
 				)
 			)
 		)
-		(property "Mouser#" ""
+		(property "Mouser#" "603-RC0805FR-10100KL"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6eb24726-e348-4384-b8e9-e48223e7e450")
+			(uuid "18f3f28a-9279-442e-b09f-8cb4d68beb37")
 			(effects
 				(font
 					(size 1 1)
@@ -8742,7 +8742,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f5c31616-012d-427e-a927-d20bb72bb531")
+			(uuid "0a782ea7-523f-40a1-aeef-88ccdfd2dbf6")
 			(effects
 				(font
 					(size 1 1)
@@ -9176,7 +9176,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1dea4864-e25f-4907-ac8e-411500219173")
+			(uuid "52055710-cfb7-4082-bb68-016e31c23924")
 			(effects
 				(font
 					(size 1 1)
@@ -9189,7 +9189,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cf376d3c-cbba-499d-b8f9-6e5b0e12980b")
+			(uuid "d268bbd8-7575-400a-8443-2be74f6a038a")
 			(effects
 				(font
 					(size 1 1)
@@ -9202,7 +9202,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1b9099a4-2eb8-4e33-a60a-243f40c166da")
+			(uuid "8c6e50c7-714f-44ec-b83a-10d1a864e680")
 			(effects
 				(font
 					(size 1 1)
@@ -9210,12 +9210,12 @@
 				)
 			)
 		)
-		(property "Mouser#" ""
+		(property "Mouser#" "603-RC0805FR-071KL  "
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3ddd3084-341d-4e01-90d5-f664f71bc803")
+			(uuid "284d0130-9fc6-4dc4-9e1d-435874064836")
 			(effects
 				(font
 					(size 1 1)
@@ -9369,12 +9369,12 @@
 				)
 			)
 		)
-		(property "Digikey#" ""
+		(property "Digikey#" "296-9848-1-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5df77119-7c42-4036-86fa-698cabb7febe")
+			(uuid "bd948083-5f63-4451-8d80-be6024c0ff80")
 			(effects
 				(font
 					(size 1 1)
@@ -9387,7 +9387,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d3b1e0a3-2c52-411a-b96b-050ef42700fc")
+			(uuid "126e948d-6ef2-4398-85d5-6b1667e248c9")
 			(effects
 				(font
 					(size 1 1)
@@ -9400,7 +9400,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6d756ac4-9538-48fb-a4d3-e8f82182592d")
+			(uuid "aee15288-c31a-44a9-b760-62f50d441ec1")
 			(effects
 				(font
 					(size 1 1)
@@ -9413,7 +9413,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8da13eb9-3e89-420d-955e-5467f6b77bd8")
+			(uuid "b570b921-ff16-4a5c-be95-c2b0e5144f12")
 			(effects
 				(font
 					(size 1 1)
@@ -9868,12 +9868,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" ""
+		(property "Digikey#" "587-MCAST168SB5104KTNA01CT-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "af264c35-33b1-4228-8247-0568203810d2")
+			(uuid "1c290152-73e5-49ab-8e2d-96a47c3216dd")
 			(effects
 				(font
 					(size 1 1)
@@ -9882,12 +9882,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MF#" "311-3034-2-ND "
+		(property "MF#" "MCAST168SB5104KTNA01"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "df43b11f-2612-4e12-b364-0a3f80c670b1")
+			(uuid "c90e65df-9692-4969-ab73-828cd9f94ac2")
 			(effects
 				(font
 					(size 1 1)
@@ -9901,7 +9901,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "b8fc3d43-e4c3-409f-84fd-e65978602a98")
+			(uuid "a709da2a-8426-4072-a50b-1a8dbb3536d5")
 			(effects
 				(font
 					(size 1 1)
@@ -9910,12 +9910,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser#" "AC0603KRX7R9BB104  "
+		(property "Mouser#" "963-MCAST168SB5104KT"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "3f8910a0-5a33-4cae-ac3a-96dfd1818bea")
+			(uuid "7dde6191-af45-4f33-9e3d-7247ba1e1d9e")
 			(effects
 				(font
 					(size 1 1)
@@ -10387,12 +10387,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" ""
+		(property "Digikey#" "13-AC0805KKX7R9BB105CT-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "8fdfd4db-02b4-4578-b5d5-b4bfd2c444f3")
+			(uuid "4208105c-2567-47d1-a8b4-14ff2bd1bdd5")
 			(effects
 				(font
 					(size 1 1)
@@ -10401,12 +10401,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MF#" "13-AC0805KKX7R9BB105CT-ND "
+		(property "MF#" "AC0805KKX7R9BB105 "
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "78573832-a5ee-4520-bf62-0ed4393b3ccf")
+			(uuid "b47d6686-6d90-4ab2-8c00-266e98e2b7cb")
 			(effects
 				(font
 					(size 1 1)
@@ -10420,7 +10420,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "34f6ff78-914f-44ee-b873-d55930eef52a")
+			(uuid "ed61b347-6035-4313-934a-179d5c580125")
 			(effects
 				(font
 					(size 1 1)
@@ -10429,12 +10429,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser#" "AC0805KKX7R9BB105  "
+		(property "Mouser#" "603-AC0805KKX7R9B105 "
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "190d1629-11ca-4b46-96ae-d0bc0945754b")
+			(uuid "06f29f91-132e-4168-b433-7ce71e7a9ebc")
 			(effects
 				(font
 					(size 1 1)
@@ -11180,7 +11180,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "d0ea5cc8-adc2-486e-9801-99b8665d04c7")
+			(uuid "9f6d8cce-9fa4-473b-b52b-1dd6c60295cb")
 			(effects
 				(font
 					(size 1 1)
@@ -11194,7 +11194,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "c0506ab5-4831-4e1c-91a8-8fd6c7b9d723")
+			(uuid "b55b1f89-280c-498a-899b-96543dde1d3a")
 			(effects
 				(font
 					(size 1 1)
@@ -11208,7 +11208,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "233f67e1-989f-4933-86ff-7b55e9f49d26")
+			(uuid "79e77b19-b7fd-4485-b564-51ef0e902d5a")
 			(effects
 				(font
 					(size 1 1)
@@ -11217,12 +11217,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser#" ""
+		(property "Mouser#" "754-RR1220P-6982D-M"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "2ebce554-15ea-4c28-b4a5-a080cd64ff6d")
+			(uuid "9bc0740c-5528-4136-8287-322c10f39803")
 			(effects
 				(font
 					(size 1 1)
@@ -11386,7 +11386,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "e183b41f-dc7e-41cf-b8c2-bfe15c2fd986")
+			(uuid "e23668d5-55c3-408d-b06b-22976b052dcf")
 			(effects
 				(font
 					(size 1 1)
@@ -11400,7 +11400,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "46490ebc-98f3-4f1b-8d2c-583d4c1cdd36")
+			(uuid "c37a1aac-92e0-457d-adda-8826b211c0d9")
 			(effects
 				(font
 					(size 1 1)
@@ -11414,7 +11414,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "376ddbeb-7550-4c82-b573-0e2ed7c1f03b")
+			(uuid "592e999a-6869-4825-a6ce-6024ac94e136")
 			(effects
 				(font
 					(size 1 1)
@@ -11428,7 +11428,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "99143cf1-cfea-49f5-9db7-fc60b42f1e6a")
+			(uuid "bb5bad07-1d93-4718-8561-d0b9d1a99c9c")
 			(effects
 				(font
 					(size 1 1)
@@ -11792,12 +11792,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" ""
+		(property "Digikey#" "587-MCAST168SB5104KTNA01CT-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "e210c6f2-0043-4ca2-8506-30e6318ebfbd")
+			(uuid "17595452-746c-4d6b-8cb2-af88e5866731")
 			(effects
 				(font
 					(size 1 1)
@@ -11806,12 +11806,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MF#" "311-3034-2-ND "
+		(property "MF#" "MCAST168SB5104KTNA01"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "8b7ab2ec-aced-442d-82bb-4ef9d462a5ce")
+			(uuid "bf327dd6-254e-4e9a-acbb-7c3686758ce7")
 			(effects
 				(font
 					(size 1 1)
@@ -11825,7 +11825,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "ccbcefc0-5172-4e6f-a89c-3dda9b509c43")
+			(uuid "5cc4d51e-5cc0-45b2-aa9b-b37c09d2fb4c")
 			(effects
 				(font
 					(size 1 1)
@@ -11834,12 +11834,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser#" "AC0603KRX7R9BB104  "
+		(property "Mouser#" "963-MCAST168SB5104KT"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "bdd361c8-0f9b-42ce-b0f1-92440393efad")
+			(uuid "e2471965-166d-4575-9d27-00a755b7ce34")
 			(effects
 				(font
 					(size 1 1)
@@ -12054,12 +12054,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" ""
+		(property "Digikey#" "13-AC0805KKX7R9BB105CT-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "aec7be4e-cf57-4c47-a54e-814cefda6aca")
+			(uuid "3c29e12f-a9bd-4588-99f0-f455952e9207")
 			(effects
 				(font
 					(size 1 1)
@@ -12068,12 +12068,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MF#" "13-AC0805KKX7R9BB105CT-ND "
+		(property "MF#" "AC0805KKX7R9BB105 "
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "fcf00ec8-f5be-4b6e-aec9-b3b6d1f6bbc5")
+			(uuid "dcdcc729-869d-4fc9-ac0c-4487bbe2e431")
 			(effects
 				(font
 					(size 1 1)
@@ -12087,7 +12087,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "1a15ef60-f20e-4ecb-91e2-84e1087af8b6")
+			(uuid "8656abab-dcfe-4d61-9aa2-addafcd22578")
 			(effects
 				(font
 					(size 1 1)
@@ -12096,12 +12096,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser#" "AC0805KKX7R9BB105  "
+		(property "Mouser#" "603-AC0805KKX7R9B105 "
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "e80f243b-ab71-4e42-a657-79c06fd33cd9")
+			(uuid "dccd7177-e69c-434e-b9ba-02fc4816d9ce")
 			(effects
 				(font
 					(size 1 1)
@@ -12280,7 +12280,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "5f3a81ab-ded3-404f-a223-15cb2ba7d6df")
+			(uuid "7ab573d0-6043-492b-8afb-6562d710603c")
 			(effects
 				(font
 					(size 1 1)
@@ -12294,7 +12294,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "7b378879-aa76-40fd-90be-6af06be8ad22")
+			(uuid "43c09f44-fc73-4a7a-9c64-9972e94db203")
 			(effects
 				(font
 					(size 1 1)
@@ -12308,7 +12308,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "d8cb3fe3-b7c2-474c-b748-014a5aaea32d")
+			(uuid "dc62f497-6d4b-4bf9-a375-328a96ad69ea")
 			(effects
 				(font
 					(size 1 1)
@@ -12317,12 +12317,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser#" ""
+		(property "Mouser#" "603-RC0805FR-071KL  "
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "3a34078e-bc00-4a9e-9767-cca62acad826")
+			(uuid "b8db41e1-d463-4351-93e2-d94a512ec879")
 			(effects
 				(font
 					(size 1 1)
@@ -12537,12 +12537,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" ""
+		(property "Digikey#" "587-MCAST168SB5104KTNA01CT-ND"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "74a20b4b-4fe5-45e3-b0e2-ed11d0872bdf")
+			(uuid "bcd6f2fe-0e59-4bf7-b595-90191e043695")
 			(effects
 				(font
 					(size 1 1)
@@ -12551,12 +12551,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MF#" "311-3034-2-ND "
+		(property "MF#" "MCAST168SB5104KTNA01"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "e6420109-33ce-43c5-b8fc-3ff18db81d1d")
+			(uuid "d63df838-219e-454c-b3f5-425c0f904ba5")
 			(effects
 				(font
 					(size 1 1)
@@ -12570,7 +12570,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "6a7fe9db-9cdd-4916-bd58-0f50021442ba")
+			(uuid "934172a5-c9c4-47e7-bb4c-319058fad957")
 			(effects
 				(font
 					(size 1 1)
@@ -12579,12 +12579,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser#" "AC0603KRX7R9BB104  "
+		(property "Mouser#" "963-MCAST168SB5104KT"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "177726ae-a022-441d-abca-3f4e302106e5")
+			(uuid "f127bc31-1cbf-4c28-870f-c32f35fc6826")
 			(effects
 				(font
 					(size 1 1)
@@ -12799,12 +12799,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" ""
+		(property "Digikey#" "587-MCAST168SB5104KTNA01CT-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "7754541e-3ae1-4fa5-9414-754db87ce956")
+			(uuid "6de77f86-bbad-40d8-9a97-2f14367aa7bd")
 			(effects
 				(font
 					(size 1 1)
@@ -12813,12 +12813,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MF#" "311-3034-2-ND "
+		(property "MF#" "MCAST168SB5104KTNA01"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "74848668-5207-4ee6-989b-aec96e75c438")
+			(uuid "3fbe6faa-dde2-405d-bd09-f7375d82e810")
 			(effects
 				(font
 					(size 1 1)
@@ -12832,7 +12832,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "aa29f235-8803-4e25-b113-05d69562e3c6")
+			(uuid "d64a4888-540d-43f0-8165-1aea265ab234")
 			(effects
 				(font
 					(size 1 1)
@@ -12841,12 +12841,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser#" "AC0603KRX7R9BB104  "
+		(property "Mouser#" "963-MCAST168SB5104KT"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "45bf5e48-65ce-4aef-a9fe-7aab5e4810c4")
+			(uuid "a21337fb-df02-43c0-8647-94ffeb855cf2")
 			(effects
 				(font
 					(size 1 1)
@@ -13061,12 +13061,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" ""
+		(property "Digikey#" "587-MCAST168SB5104KTNA01CT-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "93c708c4-f41f-48ae-8c39-edb497e7a83f")
+			(uuid "17feee0d-ea98-4668-bc48-7b33c9a2c53c")
 			(effects
 				(font
 					(size 1 1)
@@ -13075,12 +13075,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MF#" "311-3034-2-ND "
+		(property "MF#" "MCAST168SB5104KTNA01"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "d18b6f0c-d4d3-4888-9d6f-b55ffc4534ff")
+			(uuid "7e52fd09-ff83-4ea0-b924-dcf2a17f86c3")
 			(effects
 				(font
 					(size 1 1)
@@ -13094,7 +13094,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "f1077d85-5190-4e9a-ace7-d71c13d963bd")
+			(uuid "edcac5cd-9789-4734-8360-752840bbb6f9")
 			(effects
 				(font
 					(size 1 1)
@@ -13103,12 +13103,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser#" "AC0603KRX7R9BB104  "
+		(property "Mouser#" "963-MCAST168SB5104KT"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "33d24643-c809-4999-ad59-6381d2e811d6")
+			(uuid "00b30aa0-ebf6-4741-9dfc-d48e5d04c0d0")
 			(effects
 				(font
 					(size 1 1)
@@ -13323,12 +13323,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" ""
+		(property "Digikey#" "587-MCAST168SB5104KTNA01CT-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "235d2c05-199c-4c84-811d-49401ad2b09c")
+			(uuid "14954b90-92b4-4006-ad56-417d30e4bd75")
 			(effects
 				(font
 					(size 1 1)
@@ -13337,12 +13337,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MF#" "311-3034-2-ND "
+		(property "MF#" "MCAST168SB5104KTNA01"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "80b02075-5110-46b3-9f5c-01b68331cad4")
+			(uuid "4ba2df74-b038-40ee-8ae2-2256d478da84")
 			(effects
 				(font
 					(size 1 1)
@@ -13356,7 +13356,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "c0632740-3083-4fbb-be1c-951be45d788d")
+			(uuid "9ab93709-6520-4971-a212-2978833bd1c7")
 			(effects
 				(font
 					(size 1 1)
@@ -13365,12 +13365,12 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser#" "AC0603KRX7R9BB104  "
+		(property "Mouser#" "963-MCAST168SB5104KT"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "faea13d5-4f5b-41cc-8459-357772d9a14d")
+			(uuid "95e054ba-edc3-419c-984d-629d99c04d21")
 			(effects
 				(font
 					(size 1 1)
@@ -13534,7 +13534,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "1a623f29-9e45-490c-b350-c023fef544ac")
+			(uuid "f287ee13-6f7d-4a68-9ef9-bda57e42db69")
 			(effects
 				(font
 					(size 1 1)
@@ -13548,7 +13548,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "3291f38f-018f-4a21-b71b-d5518925f46f")
+			(uuid "34b184ba-f2fa-4a44-9c2e-6eba7ceae50a")
 			(effects
 				(font
 					(size 1 1)
@@ -13562,7 +13562,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "67ff2203-045e-4088-ad69-6f05146281ca")
+			(uuid "a8fbcf89-b404-4536-819c-7b31ad61d2cf")
 			(effects
 				(font
 					(size 1 1)
@@ -13576,7 +13576,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "adc84e96-0d52-46e7-bd02-9e6b333a8a93")
+			(uuid "692ee9f9-0641-47c7-85f3-a984ce9a5d97")
 			(effects
 				(font
 					(size 1 1)
