@@ -514,7 +514,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "296-18066-1-ND"
+		(property "Digikey#" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1447,7 +1447,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "311-680CRCT-ND"
+		(property "Digikey#" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1931,7 +1931,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "311-3034-2-ND"
+		(property "Digikey#" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2454,7 +2454,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "311-2.00KCRCT-ND"
+		(property "Digikey#" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2938,7 +2938,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001CT-ND"
+		(property "Digikey#" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3385,7 +3385,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "13-AC0805KKX7R9BB105CT-ND"
+		(property "Digikey#" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3951,7 +3951,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "PB1981-ND"
+		(property "Digikey#" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4611,7 +4611,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 720-Q62702P5178 "
+		(property "Mouser#" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5189,7 +5189,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 78-VOS617A-3T "
+		(property "Mouser#" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6170,7 +6170,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 720-Q62702P5178 "
+		(property "Mouser#" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6419,7 +6419,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "311-226KCRCT-ND"
+		(property "Digikey#" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6682,7 +6682,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "LMC555CMX/NOPBCT-ND"
+		(property "Digikey#" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7119,7 +7119,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "311-3034-2-ND"
+		(property "Digikey#" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7603,7 +7603,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "311-3034-2-ND"
+		(property "Digikey#" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13274,7 +13274,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "PB1981-ND"
+		(property "Digikey#" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13908,7 +13908,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "311-2.00KCRCT-ND"
+		(property "Digikey#" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14560,7 +14560,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "311-3034-2-ND"
+		(property "Digikey#" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14939,7 +14939,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "296-9846-1-ND"
+		(property "Digikey#" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15730,7 +15730,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-071KL "
+		(property "Mouser#" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16358,7 +16358,7 @@
 			(size 1.025 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.243902)
-			(net "LVBat+")
+			(net "LV+")
 			(pintype "passive")
 			(uuid "7a3ea522-a6a8-40a1-8660-45991bb5a91e")
 		)
@@ -16632,7 +16632,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "13-AC0805KKX7R9BB105CT-ND"
+		(property "Digikey#" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17116,7 +17116,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "311-3034-2-ND"
+		(property "Digikey#" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17643,7 +17643,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "SW423CT-ND"
+		(property "Digikey#" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18502,7 +18502,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "311-3034-2-ND"
+		(property "Digikey#" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19051,7 +19051,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 720-Q62702P5178 "
+		(property "Mouser#" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19953,7 +19953,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "311-2.00KCRCT-ND"
+		(property "Digikey#" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20519,7 +20519,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "PB1981-ND"
+		(property "Digikey#" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20829,7 +20829,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 78-VOS617A-3T "
+		(property "Mouser#" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21437,7 +21437,7 @@
 				)
 			)
 		)
-		(property "Mouser#" " 78-VOS617A-3T "
+		(property "Mouser#" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22074,7 +22074,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" "296-9848-1-ND"
+		(property "Digikey#" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -22583,7 +22583,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" "641-2082-2-ND"
+		(property "Digikey#" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -23284,7 +23284,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-0710KL "
+		(property "Mouser#" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -23771,7 +23771,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001CT-ND"
+		(property "Digikey#" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -24579,7 +24579,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-0710KL "
+		(property "Mouser#" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -25136,7 +25136,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-0710KL "
+		(property "Mouser#" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -25693,7 +25693,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-0710KL "
+		(property "Mouser#" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -26180,7 +26180,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001CT-ND"
+		(property "Digikey#" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -26856,7 +26856,7 @@
 			(drill 1.02)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "LVBat+")
+			(net "LV+")
 			(pinfunction "Pin_6_06")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
@@ -27293,7 +27293,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" "311-3034-2-ND"
+		(property "Digikey#" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -28111,7 +28111,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" "311-3034-2-ND"
+		(property "Digikey#" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -28626,7 +28626,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" "311-3034-2-ND"
+		(property "Digikey#" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -29141,7 +29141,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001CT-ND"
+		(property "Digikey#" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -29879,7 +29879,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001CT-ND"
+		(property "Digikey#" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -30323,7 +30323,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" "296-9848-1-ND"
+		(property "Digikey#" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -31076,7 +31076,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser#" " 595-SN74LVC1G373DCKR "
+		(property "Mouser#" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -32222,7 +32222,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-0710KL "
+		(property "Mouser#" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -32461,7 +32461,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" "641-2082-2-ND"
+		(property "Digikey#" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -33092,7 +33092,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001CT-ND"
+		(property "Digikey#" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -33872,7 +33872,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" "311-3034-2-ND"
+		(property "Digikey#" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -34457,7 +34457,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-071KL "
+		(property "Mouser#" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -34944,7 +34944,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001CT-ND"
+		(property "Digikey#" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -35752,7 +35752,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-0710KL "
+		(property "Mouser#" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -37026,7 +37026,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001CT-ND"
+		(property "Digikey#" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -37806,7 +37806,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" "311-3034-2-ND"
+		(property "Digikey#" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -38438,7 +38438,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser#" " 595-SN74LVC1G373DCKR "
+		(property "Mouser#" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -39458,7 +39458,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-0710KL "
+		(property "Mouser#" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -40015,7 +40015,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-0710KL "
+		(property "Mouser#" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -40236,7 +40236,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" "296-18066-1-ND"
+		(property "Digikey#" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -41396,7 +41396,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-071KL "
+		(property "Mouser#" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -41953,7 +41953,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-0710KL "
+		(property "Mouser#" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -42510,7 +42510,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-0710KL "
+		(property "Mouser#" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -43067,7 +43067,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-0710KL "
+		(property "Mouser#" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -43689,7 +43689,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" "641-2082-2-ND"
+		(property "Digikey#" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -44390,7 +44390,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-0710KL "
+		(property "Mouser#" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -44919,7 +44919,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" "2019-SG73P2BTTD2201FCT-ND"
+		(property "Digikey#" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -45476,7 +45476,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" "311-3034-2-ND"
+		(property "Digikey#" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -45991,7 +45991,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001CT-ND"
+		(property "Digikey#" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -46771,7 +46771,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" "311-3034-2-ND"
+		(property "Digikey#" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -47286,7 +47286,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001CT-ND"
+		(property "Digikey#" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -48094,7 +48094,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-0710KL "
+		(property "Mouser#" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -48287,7 +48287,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" "296-9848-1-ND"
+		(property "Digikey#" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -49114,7 +49114,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser#" " 603-RC0805FR-0710KL "
+		(property "Mouser#" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -49643,7 +49643,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" "311-3034-2-ND"
+		(property "Digikey#" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -50715,7 +50715,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001CT-ND"
+		(property "Digikey#" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -51187,7 +51187,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser#" " 595-SN74LVC1G373DCKR "
+		(property "Mouser#" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -56768,22 +56768,6 @@
 		(uuid "d8431dca-cc24-466c-912d-0c5760f84a4a")
 	)
 	(segment
-		(start 118.3975 67.9704)
-		(end 116.1171 67.9704)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "LVBat+")
-		(uuid "1dcb5fd5-2865-40b9-aeeb-4b7d6dcbaf49")
-	)
-	(segment
-		(start 116.1171 67.9704)
-		(end 116.1125 67.975)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "LVBat+")
-		(uuid "dc058285-6f39-40ae-81f1-a7bfd2e3eb58")
-	)
-	(segment
 		(start 131.9359 74.8651)
 		(end 129.9786 72.9078)
 		(width 0.15)
@@ -57694,6 +57678,22 @@
 		(layer "B.Cu")
 		(net "Net-(Q3-G)")
 		(uuid "ff4b9b22-105b-4456-84c5-f497f91d7f9c")
+	)
+	(segment
+		(start 118.3975 67.9704)
+		(end 116.1171 67.9704)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "LV+")
+		(uuid "1dcb5fd5-2865-40b9-aeeb-4b7d6dcbaf49")
+	)
+	(segment
+		(start 116.1171 67.9704)
+		(end 116.1125 67.975)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "LV+")
+		(uuid "dc058285-6f39-40ae-81f1-a7bfd2e3eb58")
 	)
 	(zone
 		(net "GND")
@@ -62469,7 +62469,7 @@
 		(net "/Shutdown_IN")
 		(layer "B.Cu")
 		(hatch none 0.1)
-		(priority 30001)
+		(priority 30000)
 		(attr
 			(teardrop
 				(type padvia)
@@ -62491,10 +62491,8 @@
 		(filled_polygon
 			(layer "B.Cu")
 			(pts
-				(xy 121.589882 70.316369) (xy 121.595975 70.322931) (xy 121.596314 70.323996) (xy 121.859396 71.312708)
-				(xy 121.858211 71.321585) (xy 121.856362 71.32399) (xy 121.163952 72.0164) (xy 121.155679 72.019827)
-				(xy 121.147406 72.0164) (xy 121.146049 72.014771) (xy 120.412052 70.95085) (xy 120.410174 70.942094)
-				(xy 120.411379 70.938662) (xy 120.536042 70.707216) (xy 120.542266 70.701799) (xy 121.580935 70.316037)
+				(xy 121.154023 72.02633) (xy 121.86113 71.319223) (xy 121.593004 70.311555) (xy 120.538134 70.703334)
+				(xy 120.407988 70.944959)
 			)
 		)
 	)

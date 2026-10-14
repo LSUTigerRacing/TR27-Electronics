@@ -1685,9 +1685,9 @@
 		(property "Digikey#" "  PVG5A103C03B00-ND"
 			(at 0 0 180)
 			(unlocked yes)
-			(layer "F.Fab")
+			(layer "F.Fab")       
 			(hide yes)
-			(uuid "8ee4c09c-cb0f-45ef-87f5-d92e88d44fcd")
+			(uuid "8ee4c09c-cb0f-45ef-87f5-d92e88d44fcd") 
 			(effects
 				(font
 					(size 1 1)
@@ -7545,7 +7545,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "VOS617A-3TTR-ND"
+		(property "Digikey#" " 78-VOS617A-3T "
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8698,7 +8698,7 @@
 				)
 			)
 		)
-		(property "Digikey#" "4878-MMFTN6001TR-ND"
+		(property "Digikey#" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
