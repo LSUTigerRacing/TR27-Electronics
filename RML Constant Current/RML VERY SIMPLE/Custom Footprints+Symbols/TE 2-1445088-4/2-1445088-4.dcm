@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2-1445088-4
+D Configuration Features: Number of Rows 1 | Number of Positions 4 | PCB Mount Orientation Right Angle | Number of Power Positions 4 | Contact Features: Multiple Contact Types Without | Contact Current Rating (Max) 5 AMP | PCB Contact Termination Area Plating Material Thickness 2.54 MICM | Contact Mating Area Plating Material Thickness .38 MICM | Contact Mating Area Plating Material Thickness 15 MICIN | Contact Retention Within Housing Without | Contact Type Pin | Contact Layout Inline | PCB Contact Terminati
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=micro-mate-n-lok-connector-qrg&DocType=Data%20Sheet&DocLang=English&PartCntxt=2-1445088-4&DocFormat=pdf
+$ENDCMP
+#
+#End Doc Library
