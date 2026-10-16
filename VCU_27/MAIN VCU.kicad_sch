@@ -10055,6 +10055,288 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "TCAN1057AVDRQ1:TCAN1057AVDRQ1"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "IC"
+				(at 26.67 7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "TCAN1057AVDRQ1"
+				(at 26.67 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "SOIC127P600X175-8N"
+				(at 26.67 -94.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Datasheet" "https://pdf1.alldatasheet.com/datasheet-pdf/view/1287247/TI/TCAN1057AV-Q1.html"
+				(at 26.67 -194.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Description" "TCAN1057A-Q1 And TCAN1057AV-Q1 Automotive Fault-Protected CAN FD Transceiver"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Height" "1.75"
+				(at 26.67 -394.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Mouser Part Number" "595-TCAN1057AVDRQ1"
+				(at 26.67 -494.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TCAN1057AVDRQ1?qs=Rp5uXu7WBW8Rm%2Fa7xw2cKg%3D%3D"
+				(at 26.67 -594.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Manufacturer_Name" "Texas Instruments"
+				(at 26.67 -694.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Manufacturer_Part_Number" "TCAN1057AVDRQ1"
+				(at 26.67 -794.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(symbol "TCAN1057AVDRQ1_1_1"
+				(rectangle
+					(start 5.08 2.54)
+					(end 25.4 -10.16)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "TXD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 0)
+					(length 5.08)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -7.62 0)
+					(length 5.08)
+					(name "RXD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -7.62 180)
+					(length 5.08)
+					(name "NCVIO"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -5.08 180)
+					(length 5.08)
+					(name "CANL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 -2.54 180)
+					(length 5.08)
+					(name "CANH"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 0 180)
+					(length 5.08)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:+12V"
 			(power global)
 			(pin_numbers
@@ -11036,6 +11318,12 @@
 		(uuid "40d8e1cd-6f71-41e4-8eb5-40faee349aed")
 	)
 	(junction
+		(at 274.32 219.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "419f078f-2d0f-467a-af8c-7099b57aca6a")
+	)
+	(junction
 		(at 742.95 506.73)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11234,6 +11522,12 @@
 		(uuid "916e672e-9fed-4c3d-91a1-6787158e2e5b")
 	)
 	(junction
+		(at 318.77 217.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "933d3b3e-2782-4cc8-b4fb-4d248ffa2c53")
+	)
+	(junction
 		(at 438.15 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11378,6 +11672,12 @@
 		(uuid "bd51bbc4-e059-43e2-a213-d83978b85e94")
 	)
 	(junction
+		(at 331.47 214.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bff50488-c101-42c9-823c-540c9519da9c")
+	)
+	(junction
 		(at 400.05 515.62)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11496,6 +11796,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e2f163bf-eec7-4dac-bd40-a89776878e51")
+	)
+	(junction
+		(at 278.13 212.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e3e41c14-004c-4a76-9d0d-ff760cef174b")
 	)
 	(junction
 		(at 709.93 351.79)
@@ -11787,6 +12093,16 @@
 	)
 	(wire
 		(pts
+			(xy 345.44 214.63) (xy 361.95 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ba461e8-21a4-4946-92b0-60ad3df94c5d")
+	)
+	(wire
+		(pts
 			(xy 721.36 480.06) (xy 739.14 480.06)
 		)
 		(stroke
@@ -11794,6 +12110,16 @@
 			(type default)
 		)
 		(uuid "0d1aff71-943d-4213-9258-e8fda358c21a")
+	)
+	(wire
+		(pts
+			(xy 265.43 212.09) (xy 278.13 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0dcf9cb7-c442-4fbd-8b56-68a64b3d0a5f")
 	)
 	(wire
 		(pts
@@ -12067,6 +12393,16 @@
 	)
 	(wire
 		(pts
+			(xy 318.77 222.25) (xy 331.47 222.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2460e1d9-85b6-4595-88da-d5a81fdf66f3")
+	)
+	(wire
+		(pts
 			(xy 585.47 396.24) (xy 572.77 396.24)
 		)
 		(stroke
@@ -12264,6 +12600,16 @@
 			(type default)
 		)
 		(uuid "3196a8a7-83ac-4c3a-b9bc-360e754f065a")
+	)
+	(wire
+		(pts
+			(xy 313.69 214.63) (xy 331.47 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31c045eb-67fe-4a53-9273-13a5e2de8f8b")
 	)
 	(wire
 		(pts
@@ -13007,6 +13353,16 @@
 	)
 	(wire
 		(pts
+			(xy 259.08 219.71) (xy 274.32 219.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e70d2d6-e1b9-47b6-83bb-283c48722f1f")
+	)
+	(wire
+		(pts
 			(xy 327.66 60.96) (xy 339.09 60.96)
 		)
 		(stroke
@@ -13177,6 +13533,16 @@
 	)
 	(wire
 		(pts
+			(xy 318.77 217.17) (xy 318.77 222.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7dbe2c1c-f533-44be-8264-ce5b46d1cd7c")
+	)
+	(wire
+		(pts
 			(xy 260.35 373.38) (xy 260.35 374.65)
 		)
 		(stroke
@@ -13214,6 +13580,16 @@
 			(type default)
 		)
 		(uuid "7ec5435a-e72c-458a-bf71-f2dc06b1aed4")
+	)
+	(wire
+		(pts
+			(xy 331.47 214.63) (xy 336.55 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8044a5d7-d085-45b1-a987-7438cfb564df")
 	)
 	(wire
 		(pts
@@ -13537,6 +13913,16 @@
 	)
 	(wire
 		(pts
+			(xy 345.44 219.71) (xy 345.44 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9deebfd5-0877-4458-80f6-3c5bf596f7bb")
+	)
+	(wire
+		(pts
 			(xy 741.68 439.42) (xy 741.68 436.88)
 		)
 		(stroke
@@ -13557,6 +13943,16 @@
 	)
 	(wire
 		(pts
+			(xy 278.13 212.09) (xy 283.21 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a28e9d36-e1a8-48c1-ab1f-783609dabdcb")
+	)
+	(wire
+		(pts
 			(xy 82.55 347.98) (xy 82.55 356.87)
 		)
 		(stroke
@@ -13574,6 +13970,16 @@
 			(type default)
 		)
 		(uuid "a3d2a462-24eb-4764-98d9-4090d28d3ca1")
+	)
+	(wire
+		(pts
+			(xy 318.77 217.17) (xy 313.69 217.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a48658b2-51af-458a-9abd-8cb0a1a9aff3")
 	)
 	(wire
 		(pts
@@ -13614,6 +14020,16 @@
 			(type default)
 		)
 		(uuid "a8884d53-db1d-4368-91cb-0ab523fa1b70")
+	)
+	(wire
+		(pts
+			(xy 321.31 217.17) (xy 318.77 217.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a88c1a52-ba22-4bce-bb1a-6e789686cd53")
 	)
 	(wire
 		(pts
@@ -13717,6 +14133,16 @@
 	)
 	(wire
 		(pts
+			(xy 274.32 219.71) (xy 283.21 219.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae98c0ff-d969-46a9-9d21-9c057e7a7fdb")
+	)
+	(wire
+		(pts
 			(xy 361.95 130.81) (xy 313.69 130.81)
 		)
 		(stroke
@@ -13747,6 +14173,16 @@
 	)
 	(wire
 		(pts
+			(xy 313.69 219.71) (xy 345.44 219.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af37c040-12cd-4f10-b343-7ea901f3455b")
+	)
+	(wire
+		(pts
 			(xy 72.39 434.34) (xy 88.9 434.34)
 		)
 		(stroke
@@ -13764,6 +14200,16 @@
 			(type default)
 		)
 		(uuid "b1164cbd-48b2-4d35-b4c4-bd941be8d981")
+	)
+	(wire
+		(pts
+			(xy 313.69 212.09) (xy 361.95 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b24d4c7c-9b7d-4ed1-aa96-b902903a2f5c")
 	)
 	(wire
 		(pts
@@ -14550,30 +14996,6 @@
 		(uuid "0daec90b-7eaa-4593-9f73-5e4835d4a0e8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 670.7197 510.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "FDCAN3_RX"
-		(shape input)
-		(at 361.95 212.09 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "144439e9-c94f-4253-9365-bbce0e0a51e9")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 348.2605 212.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15953,6 +16375,30 @@
 			)
 		)
 	)
+	(global_label "CANH_OUTPUT"
+		(shape input)
+		(at 283.21 217.17 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "87726cf1-90ba-48de-913d-1f5f9c6b67e3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 267.0409 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "Digin_8"
 		(shape input)
 		(at 193.04 378.46 180)
@@ -16134,30 +16580,6 @@
 		(uuid "8ee01927-2395-491e-88cc-9e6825a82905")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 352.0101 140.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "FDCAN3_TX"
-		(shape input)
-		(at 361.95 214.63 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "91de93a8-1416-4ee6-a5ad-5c6cdef01114")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 348.5629 214.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16670,6 +17092,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "CANL_OUTPUT"
+		(shape input)
+		(at 283.21 214.63 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bf54301c-d2a6-4bd8-a761-7586e279237f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 267.3433 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
@@ -17321,6 +17767,30 @@
 			)
 		)
 	)
+	(global_label "STM32_DIGIN"
+		(shape input)
+		(at 259.08 219.71 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f508a3ac-6d59-47e2-9399-5c9814db8ebf")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 243.9996 219.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "SDMMC_D3"
 		(shape input)
 		(at 422.91 229.87 0)
@@ -17414,6 +17884,88 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 278.13 208.28 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "000865d5-b69a-46ca-8d0e-007e90100d51")
+		(property "Reference" "C34"
+			(at 281.94 207.0099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 281.94 209.5499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 279.0952 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 278.13 208.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 278.13 208.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "253254b8-77f4-492b-86ce-4430b0ecf65a")
+		)
+		(pin "1"
+			(uuid "2554c9b9-350f-4bad-a46b-71bac017e7e3")
+		)
+		(instances
+			(project "MAIN VCU"
+				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9"
+					(reference "C34")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -24456,6 +25008,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3V")
+		(at 274.32 227.33 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5ac62e7e-9b2b-483d-a3d7-15521362fd09")
+		(property "Reference" "#PWR0109"
+			(at 274.32 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 274.32 232.41 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 274.32 227.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 274.32 227.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 274.32 227.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "32cb51f9-22fe-4f21-999b-bbe016a59874")
+		)
+		(instances
+			(project "MAIN VCU"
+				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9"
+					(reference "#PWR0109")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 615.95 161.29 0)
 		(unit 1)
@@ -28236,6 +28866,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 278.13 204.47 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "81d62f51-3435-4eef-b005-5cfcfbefb9b1")
+		(property "Reference" "#PWR0108"
+			(at 278.13 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 278.13 199.39 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 278.13 204.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 278.13 204.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 278.13 204.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4c157719-2693-43d6-9958-10197e773dad")
+		)
+		(instances
+			(project "MAIN VCU"
+				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9"
+					(reference "#PWR0108")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 81.28 466.09 0)
 		(unit 1)
@@ -29590,6 +30298,166 @@
 		)
 	)
 	(symbol
+		(lib_id "TCAN1057AVDRQ1:TCAN1057AVDRQ1")
+		(at 313.69 219.71 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9793632e-c98c-4a85-8b88-a3214efeea5e")
+		(property "Reference" "IC4"
+			(at 298.45 204.47 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TCAN1057AVDRQ1"
+			(at 298.45 207.01 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SOIC127P600X175-8N"
+			(at 287.02 124.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" "https://pdf1.alldatasheet.com/datasheet-pdf/view/1287247/TI/TCAN1057AV-Q1.html"
+			(at 287.02 24.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "TCAN1057A-Q1 And TCAN1057AV-Q1 Automotive Fault-Protected CAN FD Transceiver"
+			(at 313.69 219.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" "1.75"
+			(at 287.02 -175.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Part Number" "595-TCAN1057AVDRQ1"
+			(at 287.02 -275.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TCAN1057AVDRQ1?qs=Rp5uXu7WBW8Rm%2Fa7xw2cKg%3D%3D"
+			(at 287.02 -375.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 287.02 -475.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TCAN1057AVDRQ1"
+			(at 287.02 -575.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "3"
+			(uuid "470f3e24-c683-4a86-95c7-b304f014b3b7")
+		)
+		(pin "1"
+			(uuid "5696b6f8-1344-404c-a8d9-ad1e6f0da93a")
+		)
+		(pin "2"
+			(uuid "586b9ff1-e2cc-44e6-a5df-ddf34ed682c7")
+		)
+		(pin "5"
+			(uuid "1d6dd4f7-7a7d-434c-a655-081226d2e680")
+		)
+		(pin "7"
+			(uuid "247e3f12-3a2b-431f-995d-8c54511f5ccb")
+		)
+		(pin "8"
+			(uuid "ed5daea7-dbc6-44a4-8ec0-7568de31bce4")
+		)
+		(pin "6"
+			(uuid "e19e8039-9f1f-40a2-bd92-97481b776a73")
+		)
+		(pin "4"
+			(uuid "42b3e6c8-c03d-4b63-af7b-a60f62d121bd")
+		)
+		(instances
+			(project "MAIN VCU"
+				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9"
+					(reference "IC4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:SMF15A")
 		(at 346.71 370.84 90)
 		(unit 1)
@@ -30860,6 +31728,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 274.32 223.52 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a443fce1-95b0-4d00-9c22-77365846ad98")
+		(property "Reference" "R55"
+			(at 276.86 222.2499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 276.86 224.7899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 272.542 223.52 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 274.32 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 274.32 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "97f151d7-ad9c-4d67-9dc0-8a21be1be360")
+		)
+		(pin "2"
+			(uuid "054c8b25-3e67-4a7a-a8eb-61e67b636238")
+		)
+		(instances
+			(project "MAIN VCU"
+				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9"
+					(reference "R55")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 72.39 438.15 0)
 		(unit 1)
@@ -31333,6 +32283,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 331.47 218.44 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ab7c1168-fdd2-4fd3-b4a1-20c97f2dc7c6")
+		(property "Reference" "C33"
+			(at 335.28 217.1699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 335.28 219.7099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 332.4352 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 331.47 218.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 331.47 218.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "53b01594-9bf5-4dc6-b6b7-645ef60a3e53")
+		)
+		(pin "2"
+			(uuid "abd87b3f-4567-4918-b2a2-7ec01550d549")
+		)
+		(instances
+			(project "MAIN VCU"
+				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9"
+					(reference "C33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 156.21 127 0)
 		(unit 1)
@@ -31409,6 +32441,85 @@
 			(project "MAIN VCU"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9"
 					(reference "R20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 321.31 217.17 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ad577504-4c95-42d3-b1a1-85089cdf87f0")
+		(property "Reference" "#PWR0105"
+			(at 327.66 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 325.12 217.1699 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 321.31 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 321.31 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 321.31 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "750bdd49-944a-4c28-b318-e3e7123e7dc4")
+		)
+		(instances
+			(project "MAIN VCU"
+				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9"
+					(reference "#PWR0105")
 					(unit 1)
 				)
 			)
@@ -32036,6 +33147,85 @@
 			(project "MAIN VCU"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9"
 					(reference "#PWR017")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 265.43 212.09 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b75965e1-f48a-41e0-88dd-af045f3c9eac")
+		(property "Reference" "#PWR0107"
+			(at 269.24 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 261.62 212.0899 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 265.43 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 265.43 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 265.43 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "46d17988-f0ae-4310-9450-7ddce7435c0f")
+		)
+		(instances
+			(project "MAIN VCU"
+				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9"
+					(reference "#PWR0107")
 					(unit 1)
 				)
 			)
@@ -33389,6 +34579,85 @@
 			(project "MAIN VCU"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9"
 					(reference "#PWR092")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 336.55 214.63 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cb9844f5-e0b9-41ef-9ce5-9eccbc04a595")
+		(property "Reference" "#PWR0106"
+			(at 332.74 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 340.36 214.6299 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 336.55 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 336.55 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 336.55 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5316b6f1-2653-4e7b-8dae-caa675e80670")
+		)
+		(instances
+			(project "MAIN VCU"
+				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9"
+					(reference "#PWR0106")
 					(unit 1)
 				)
 			)
