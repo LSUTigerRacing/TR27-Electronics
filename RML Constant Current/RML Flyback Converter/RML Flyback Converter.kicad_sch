@@ -3822,6 +3822,12 @@
 		(uuid "44b68904-306c-4a9a-a8be-6ad201797296")
 	)
 	(junction
+		(at 127 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "536c12d8-0623-4bd3-815a-879902aacd18")
+	)
+	(junction
 		(at 111.76 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3892,12 +3898,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a3a13b69-8886-45c3-902b-52f5233f3ad1")
-	)
-	(junction
-		(at 127 128.27)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a7c50b34-6cd6-4210-bbb5-689e1b6a139c")
 	)
 	(junction
 		(at 228.6 104.14)
@@ -4203,16 +4203,6 @@
 	)
 	(wire
 		(pts
-			(xy 127 99.06) (xy 127 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "26dcc671-1ff1-4cbf-ae84-819f6bb488e1")
-	)
-	(wire
-		(pts
 			(xy 228.6 109.22) (xy 228.6 116.84)
 		)
 		(stroke
@@ -4503,6 +4493,16 @@
 	)
 	(wire
 		(pts
+			(xy 127 128.27) (xy 130.81 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "703cbf8c-1dde-4d7c-99da-7c4266f66a0e")
+	)
+	(wire
+		(pts
 			(xy 111.76 127) (xy 111.76 128.27)
 		)
 		(stroke
@@ -4660,6 +4660,16 @@
 			(type default)
 		)
 		(uuid "95391b17-58b7-49cb-8fd6-a41de3d3f6c6")
+	)
+	(wire
+		(pts
+			(xy 127 113.03) (xy 127 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98a7f88b-8396-4fbf-b206-b23c80d25c14")
 	)
 	(wire
 		(pts
@@ -4963,16 +4973,6 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 128.27) (xy 127 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d6cfdca6-8a20-4d1c-b8a5-e13a3ee78a1e")
-	)
-	(wire
-		(pts
 			(xy 111.76 139.7) (xy 143.51 139.7)
 		)
 		(stroke
@@ -4980,6 +4980,16 @@
 			(type default)
 		)
 		(uuid "d8e6471a-2afe-4951-a1b2-dd095c041f48")
+	)
+	(wire
+		(pts
+			(xy 127 99.06) (xy 127 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9182625-b6a0-4325-b5f7-156a37c318c3")
 	)
 	(wire
 		(pts
@@ -9459,6 +9469,85 @@
 			(project "RML Flyback Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 127 109.22 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f9163d5a-a99d-4ea8-9255-dbb3f68396bd")
+		(property "Reference" "C12"
+			(at 121.92 110.49 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.33uF"
+			(at 121.92 107.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 126.0348 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 127 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 127 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "64e14b38-cf52-4ad2-9a77-4794f320378e")
+		)
+		(pin "2"
+			(uuid "6fccfee1-1051-4d70-89c5-0779f9ff8b7e")
+		)
+		(instances
+			(project "RML Flyback Converter"
+				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
+					(reference "C12")
 					(unit 1)
 				)
 			)
