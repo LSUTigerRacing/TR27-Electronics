@@ -12461,10 +12461,6 @@
 		(uuid "59bfdb38-ca43-4067-9390-146c640db0aa")
 	)
 	(no_connect
-		(at 361.95 176.53)
-		(uuid "64952de1-6408-4a86-a4ee-00cd9a678d8c")
-	)
-	(no_connect
 		(at 361.95 204.47)
 		(uuid "72084f30-6164-4826-b10b-f702125115d1")
 	)
@@ -16110,6 +16106,30 @@
 			)
 		)
 	)
+	(global_label "Flow_Rate_Sensor"
+		(shape input)
+		(at 234.95 477.52 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "05da6207-4e41-4f52-9f59-17ec81e54386")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 215.1526 477.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "TIM2_CH4"
 		(shape input)
 		(at 422.91 186.69 0)
@@ -16203,6 +16223,30 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "REGEN_INDICATOR"
+		(shape input)
+		(at 260.35 447.04 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0df27a30-8ae1-4256-af04-a806f28a22ee")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 280.2081 447.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -16302,7 +16346,7 @@
 			)
 		)
 	)
-	(global_label "STM32_TIM"
+	(global_label "TIM1_CH4"
 		(shape input)
 		(at 31.75 304.8 180)
 		(fields_autoplaced yes)
@@ -16314,7 +16358,7 @@
 		)
 		(uuid "1f4e1927-87ca-4b68-b0d6-20b8dd623b08")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 18.7259 304.8 0)
+			(at 19.7539 304.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16374,7 +16418,7 @@
 			)
 		)
 	)
-	(global_label "Connector_pin"
+	(global_label "LAMP_CHECK"
 		(shape input)
 		(at 518.16 427.99 180)
 		(fields_autoplaced yes)
@@ -16386,7 +16430,7 @@
 		)
 		(uuid "22469de4-2d3b-4692-99de-d789c9c18b21")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 501.7493 427.99 0)
+			(at 503.0796 427.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16398,7 +16442,7 @@
 			)
 		)
 	)
-	(global_label "STM32_digin"
+	(global_label "DIGIOUT1"
 		(shape input)
 		(at 585.47 396.24 0)
 		(fields_autoplaced yes)
@@ -16410,7 +16454,7 @@
 		)
 		(uuid "224b4408-1ba8-4dfd-b0c3-f90e17019f44")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 600.1269 396.24 0)
+			(at 597.0429 396.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16518,7 +16562,31 @@
 			)
 		)
 	)
-	(global_label "STM32_digin"
+	(global_label "Water_Pump_PWM"
+		(shape input)
+		(at 260.35 429.26 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "328ea447-bf0e-42c8-917f-ce9b8d4827a0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 279.9054 429.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "DIGIOUT2"
 		(shape input)
 		(at 588.01 427.99 0)
 		(fields_autoplaced yes)
@@ -16530,7 +16598,7 @@
 		)
 		(uuid "340c2a33-5589-4f81-8384-dcbf6d1bcc15")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 602.6669 427.99 0)
+			(at 599.5829 427.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16734,6 +16802,30 @@
 			)
 		)
 	)
+	(global_label "Wheel_Speed_Rear_Right"
+		(shape input)
+		(at 260.35 370.84 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "42f5cfa4-0369-4fc3-bc57-4a5eca646e48")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 286.5578 370.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "Digin_10"
 		(shape input)
 		(at 161.29 474.98 180)
@@ -16843,6 +16935,30 @@
 		(uuid "4d807078-2bed-44f7-88ef-6acc11274ed0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 225.0101 373.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "TIM1_CH5"
+		(shape input)
+		(at 361.95 176.53 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4e83e1e1-43c7-4354-b8f1-df55e03f2a7a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 349.9539 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17094,7 +17210,7 @@
 			)
 		)
 	)
-	(global_label "STM32_TIM"
+	(global_label "TIM1_CH1"
 		(shape input)
 		(at 34.29 196.85 180)
 		(fields_autoplaced yes)
@@ -17106,7 +17222,7 @@
 		)
 		(uuid "5de3a45a-7653-49fb-9cf7-3d77532aca23")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 21.2659 196.85 0)
+			(at 22.2939 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17166,7 +17282,7 @@
 			)
 		)
 	)
-	(global_label "Connector"
+	(global_label "Wheel_Speed_Front_Right"
 		(shape input)
 		(at 118.11 232.41 0)
 		(fields_autoplaced yes)
@@ -17178,7 +17294,7 @@
 		)
 		(uuid "622c9cd3-3464-4eef-b55b-0d04f98bef56")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 130.6503 232.41 0)
+			(at 144.9225 232.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17235,6 +17351,30 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "RTD"
+		(shape input)
+		(at 260.35 431.8 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "69bdea62-6829-4dfc-841e-bb58999b930b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 266.8428 431.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -17646,7 +17786,7 @@
 			)
 		)
 	)
-	(global_label "Connector"
+	(global_label "Flow_Rate_Sensor"
 		(shape input)
 		(at 115.57 267.97 0)
 		(fields_autoplaced yes)
@@ -17658,7 +17798,7 @@
 		)
 		(uuid "88d9e20c-5b5f-4576-80c8-e84b71e27098")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 128.1103 267.97 0)
+			(at 135.3674 267.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17718,7 +17858,7 @@
 			)
 		)
 	)
-	(global_label "Connector_pin"
+	(global_label "RTD"
 		(shape input)
 		(at 515.62 396.24 180)
 		(fields_autoplaced yes)
@@ -17730,7 +17870,7 @@
 		)
 		(uuid "8bc27bbc-9652-49df-9bf6-55c66f7d9754")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 499.2093 396.24 0)
+			(at 509.1272 396.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18102,7 +18242,7 @@
 			)
 		)
 	)
-	(global_label "STM32_digin"
+	(global_label "DIGIOUT3"
 		(shape input)
 		(at 590.55 457.2 0)
 		(fields_autoplaced yes)
@@ -18114,7 +18254,7 @@
 		)
 		(uuid "a3edb45c-1b61-4178-96bb-de96991af176")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 605.2069 457.2 0)
+			(at 602.1229 457.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18126,7 +18266,7 @@
 			)
 		)
 	)
-	(global_label "STM32_TIM"
+	(global_label "TIM1_CH3"
 		(shape input)
 		(at 30.48 267.97 180)
 		(fields_autoplaced yes)
@@ -18138,7 +18278,7 @@
 		)
 		(uuid "a4cf5744-6c8d-428e-bf40-e469b184f2f6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 17.4559 267.97 0)
+			(at 18.4839 267.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18174,7 +18314,7 @@
 			)
 		)
 	)
-	(global_label "Connector"
+	(global_label "Wheel_Speed_Rear_Left"
 		(shape input)
 		(at 116.84 304.8 0)
 		(fields_autoplaced yes)
@@ -18186,7 +18326,7 @@
 		)
 		(uuid "a7250d4f-e211-4913-bceb-32799f63d7d4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 129.3803 304.8 0)
+			(at 141.7174 304.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18294,7 +18434,7 @@
 			)
 		)
 	)
-	(global_label "Connector"
+	(global_label "Wheel_Speed_Front_Left"
 		(shape input)
 		(at 119.38 196.85 0)
 		(fields_autoplaced yes)
@@ -18306,7 +18446,7 @@
 		)
 		(uuid "bd0e3ae5-82dc-4858-9029-564716781dce")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 131.9203 196.85 0)
+			(at 144.8621 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18411,6 +18551,30 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "LAMP_CHECK"
+		(shape input)
+		(at 260.35 444.5 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ca9d0576-8fd2-4bd1-bd62-d53dbde7db2f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 275.4304 444.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -18558,6 +18722,30 @@
 			)
 		)
 	)
+	(global_label "Wheel_Speed_Rear_Left"
+		(shape input)
+		(at 260.35 365.76 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d45ee3d3-1624-418a-b4db-bb733724873c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 285.2274 365.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "Digin_8"
 		(shape input)
 		(at 187.96 424.18 180)
@@ -18582,7 +18770,7 @@
 			)
 		)
 	)
-	(global_label "STM32_TIM"
+	(global_label "TIM1_CH5"
 		(shape input)
 		(at 35.56 347.98 180)
 		(fields_autoplaced yes)
@@ -18594,7 +18782,7 @@
 		)
 		(uuid "d62a53af-7411-4ee2-adfe-ab274938ee16")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 22.5359 347.98 0)
+			(at 23.5639 347.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18675,6 +18863,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "Wheel_Speed_Front_Left"
+		(shape input)
+		(at 234.95 386.08 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "da05fb4c-abf9-4736-bcc2-40c461418694")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 209.4679 386.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
@@ -18774,7 +18986,31 @@
 			)
 		)
 	)
-	(global_label "Connector_pin"
+	(global_label "Wheel_Speed_Front_Right"
+		(shape input)
+		(at 234.95 434.34 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "df6d2427-0411-456b-809d-c1567f393f63")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 208.1375 434.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "REGEN_INDICATOR"
 		(shape input)
 		(at 520.7 457.2 180)
 		(fields_autoplaced yes)
@@ -18786,7 +19022,7 @@
 		)
 		(uuid "e02ecf53-e0ca-48f5-ace8-cce791d1df1a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 504.2893 457.2 0)
+			(at 500.8419 457.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18870,7 +19106,7 @@
 			)
 		)
 	)
-	(global_label "STM32_TIM"
+	(global_label "TIM1_CH2"
 		(shape input)
 		(at 33.02 232.41 180)
 		(fields_autoplaced yes)
@@ -18882,7 +19118,7 @@
 		)
 		(uuid "e2f4ce80-7dc4-4fbc-8b4c-d2dd2ec7cb5f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 19.9959 232.41 0)
+			(at 21.0239 232.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19254,7 +19490,7 @@
 			)
 		)
 	)
-	(global_label "Connector"
+	(global_label "Wheel_Speed_Rear_Right"
 		(shape input)
 		(at 120.65 347.98 0)
 		(fields_autoplaced yes)
@@ -19266,7 +19502,7 @@
 		)
 		(uuid "ff694353-1206-4286-acba-71b83c17435f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 133.1903 347.98 0)
+			(at 146.8578 347.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
