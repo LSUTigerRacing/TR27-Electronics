@@ -16386,7 +16386,7 @@
 			)
 		)
 	)
-	(global_label "STM32_DIGIN"
+	(global_label "DIGOUT2"
 		(shape input)
 		(at 361.95 180.34 0)
 		(fields_autoplaced yes)
@@ -16398,7 +16398,7 @@
 		)
 		(uuid "4e48d9b9-1b6a-41c5-af11-757bd993c088")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 377.0304 180.34 0)
+			(at 372.9181 180.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16818,7 +16818,7 @@
 			)
 		)
 	)
-	(global_label "STM32_DIGIN"
+	(global_label "DIGOUT1"
 		(shape input)
 		(at 331.47 114.3 0)
 		(fields_autoplaced yes)
@@ -16830,7 +16830,7 @@
 		)
 		(uuid "694fe6a8-6e5b-47d9-a8b8-f9656a66cfc3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 346.5504 114.3 0)
+			(at 342.4381 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19266,7 +19266,7 @@
 			)
 		)
 	)
-	(global_label "STM32_DIGIN"
+	(global_label "DIGOUT3"
 		(shape input)
 		(at 48.26 194.31 180)
 		(fields_autoplaced yes)
@@ -19278,7 +19278,7 @@
 		)
 		(uuid "f508a3ac-6d59-47e2-9399-5c9814db8ebf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 33.1796 194.31 0)
+			(at 37.2919 194.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
