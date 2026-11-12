@@ -5003,6 +5003,16 @@
 	)
 	(wire
 		(pts
+			(xy 214.63 135.89) (xy 214.63 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc2e1243-f35c-49ec-b2b8-059c0485683c")
+	)
+	(wire
+		(pts
 			(xy 251.46 118.11) (xy 251.46 116.84)
 		)
 		(stroke
@@ -5183,6 +5193,16 @@
 			(justify left bottom)
 		)
 		(uuid "75b39e79-fc47-4826-b8e0-74cb76b76642")
+	)
+	(label "RML+"
+		(at 214.63 138.43 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "80cfa26b-cd77-4936-ab1b-cb24179cda7c")
 	)
 	(label "HVIL-"
 		(at 73.66 44.45 0)
