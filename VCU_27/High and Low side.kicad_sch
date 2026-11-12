@@ -6768,6 +6768,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "U29")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6842,6 +6848,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0106")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0106")
 					(unit 1)
 				)
@@ -6925,6 +6937,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "C60")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7000,6 +7018,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "R68")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "R68")
 					(unit 1)
 				)
@@ -7086,6 +7110,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "D21")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7161,6 +7191,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "R72")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "R72")
 					(unit 1)
 				)
@@ -7244,6 +7280,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "C67")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7319,6 +7361,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0124")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0124")
 					(unit 1)
 				)
@@ -7401,6 +7449,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "#PWR0141")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7475,6 +7529,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0136")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0136")
 					(unit 1)
 				)
@@ -7558,6 +7618,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "R78")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7633,6 +7699,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "R77")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "R77")
 					(unit 1)
 				)
@@ -7718,6 +7790,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "RSense14")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7797,6 +7875,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "#PWR0109")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7871,6 +7955,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0117")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0117")
 					(unit 1)
 				)
@@ -7954,6 +8044,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "#PWR0155")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8031,6 +8127,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "RSense8")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "RSense8")
 					(unit 1)
 				)
@@ -8220,6 +8322,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "U16")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8373,6 +8481,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "U28")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8454,6 +8568,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "CSense9")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8528,6 +8648,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0113")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0113")
 					(unit 1)
 				)
@@ -8620,6 +8746,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "Q7")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8699,6 +8831,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "#PWR0134")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8773,6 +8911,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0127")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0127")
 					(unit 1)
 				)
@@ -8856,6 +9000,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "R79")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8935,6 +9085,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "R75")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9010,6 +9166,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "R70")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "R70")
 					(unit 1)
 				)
@@ -9096,6 +9258,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "D22")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9170,6 +9338,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0116")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0116")
 					(unit 1)
 				)
@@ -9249,6 +9423,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0126")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0126")
 					(unit 1)
 				)
@@ -9335,6 +9515,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "D26")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9412,6 +9598,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "CSense10")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "CSense10")
 					(unit 1)
 				)
@@ -9494,6 +9686,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "#PWR0120")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9569,6 +9767,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "C70")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "C70")
 					(unit 1)
 				)
@@ -9655,6 +9859,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "D19")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9729,6 +9939,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0140")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0140")
 					(unit 1)
 				)
@@ -9811,6 +10027,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "#PWR0115")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9886,6 +10108,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "R84")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "R84")
 					(unit 1)
 				)
@@ -9971,6 +10199,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "CSense8")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10049,6 +10283,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "#PWR0114")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10123,6 +10363,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0112")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0112")
 					(unit 1)
 				)
@@ -10206,6 +10452,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "R73")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10285,6 +10537,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "#PWR0148")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10359,6 +10617,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0146")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0146")
 					(unit 1)
 				)
@@ -10516,6 +10780,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "U22")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10591,6 +10861,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "R81")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "R81")
 					(unit 1)
 				)
@@ -10674,6 +10950,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "C71")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10749,6 +11031,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "R74")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "R74")
 					(unit 1)
 				)
@@ -10832,6 +11120,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "#PWR0133")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -10907,6 +11201,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "C61")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "C61")
 					(unit 1)
 				)
@@ -10990,6 +11290,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "R86")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11065,6 +11371,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "R64")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "R64")
 					(unit 1)
 				)
@@ -11148,6 +11460,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "R58")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11223,6 +11541,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0108")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0108")
 					(unit 1)
 				)
@@ -11306,6 +11630,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "R83")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11381,6 +11711,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "C73")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "C73")
 					(unit 1)
 				)
@@ -11466,6 +11802,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "CSense11")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11545,6 +11887,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "R80")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11620,6 +11968,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "C68")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "C68")
 					(unit 1)
 				)
@@ -11705,6 +12059,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "RSense9")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11780,6 +12140,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "R76")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "R76")
 					(unit 1)
 				)
@@ -11937,6 +12303,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "U23")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -12011,6 +12383,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0121")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0121")
 					(unit 1)
 				)
@@ -12094,6 +12472,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "R62")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -12173,6 +12557,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "R57")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -12248,6 +12638,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0150")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0150")
 					(unit 1)
 				)
@@ -12333,6 +12729,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "CSense12")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -12410,6 +12812,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "CSense15")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "CSense15")
 					(unit 1)
 				)
@@ -12567,6 +12975,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "U24")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -12648,6 +13062,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "RSense10")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -12722,6 +13142,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0122")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0122")
 					(unit 1)
 				)
@@ -12814,6 +13240,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "Q5")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -12893,6 +13325,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "#PWR0132")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -12967,6 +13405,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0129")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0129")
 					(unit 1)
 				)
@@ -13050,6 +13494,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "C63")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -13124,6 +13574,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0151")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0151")
 					(unit 1)
 				)
@@ -13207,6 +13663,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "C72")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -13282,6 +13744,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0123")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0123")
 					(unit 1)
 				)
@@ -13365,6 +13833,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "C66")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -13440,6 +13914,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "C62")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "C62")
 					(unit 1)
 				)
@@ -13523,6 +14003,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "R65")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -13598,6 +14084,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "R63")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "R63")
 					(unit 1)
 				)
@@ -13755,6 +14247,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "U27")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -13843,6 +14341,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "Q6")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -13917,6 +14421,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0119")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0119")
 					(unit 1)
 				)
@@ -14009,6 +14519,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "Q8")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -14083,6 +14599,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0135")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0135")
 					(unit 1)
 				)
@@ -14166,6 +14688,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "#PWR0158")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -14240,6 +14768,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0144")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0144")
 					(unit 1)
 				)
@@ -14326,6 +14860,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "D20")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -14401,6 +14941,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "C64")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "C64")
 					(unit 1)
 				)
@@ -14483,6 +15029,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "#PWR0153")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -14558,6 +15110,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0110")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0110")
 					(unit 1)
 				)
@@ -14715,6 +15273,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "U26")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -14792,6 +15356,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "RSense11")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "RSense11")
 					(unit 1)
 				)
@@ -14875,6 +15445,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "R60")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -14949,6 +15525,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0154")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0154")
 					(unit 1)
 				)
@@ -15031,6 +15613,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "#PWR0111")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -15105,6 +15693,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0145")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0145")
 					(unit 1)
 				)
@@ -15184,6 +15778,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "C74")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "C74")
 					(unit 1)
 				)
@@ -15270,6 +15870,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "D23")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -15344,6 +15950,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0107")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0107")
 					(unit 1)
 				)
@@ -15423,6 +16035,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "C65")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "C65")
 					(unit 1)
 				)
@@ -15508,6 +16126,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "CSense13")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -15589,6 +16213,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "CSense14")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -15663,6 +16293,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0139")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0139")
 					(unit 1)
 				)
@@ -15746,6 +16382,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "R71")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -15820,6 +16462,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0138")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0138")
 					(unit 1)
 				)
@@ -15906,6 +16554,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "D24")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -15981,6 +16635,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0131")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0131")
 					(unit 1)
 				)
@@ -16063,6 +16723,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "#PWR0142")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -16138,6 +16804,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "C59")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "C59")
 					(unit 1)
 				)
@@ -16223,6 +16895,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "RSense15")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -16297,6 +16975,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0137")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0137")
 					(unit 1)
 				)
@@ -16379,6 +17063,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "#PWR0105")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -16452,6 +17142,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0104")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0104")
 					(unit 1)
 				)
@@ -16535,6 +17231,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "#PWR0147")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -16614,6 +17316,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "R69")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -16688,6 +17396,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0157")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0157")
 					(unit 1)
 				)
@@ -16771,6 +17485,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "R82")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -16846,6 +17566,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "R67")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "R67")
 					(unit 1)
 				)
@@ -16929,6 +17655,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "#PWR0152")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -17004,6 +17736,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "C57")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "C57")
 					(unit 1)
 				)
@@ -17085,6 +17823,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "RSense13")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "RSense13")
 					(unit 1)
 				)
@@ -17242,6 +17986,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "U25")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -17317,6 +18067,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "R87")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "R87")
 					(unit 1)
 				)
@@ -17400,6 +18156,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "C69")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -17475,6 +18237,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "R59")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "R59")
 					(unit 1)
 				)
@@ -17558,6 +18326,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "R85")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -17637,6 +18411,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "C58")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -17712,6 +18492,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0125")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0125")
 					(unit 1)
 				)
@@ -17797,6 +18583,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "RSense12")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -17875,6 +18667,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "#PWR0130")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -17949,6 +18747,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0118")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0118")
 					(unit 1)
 				)
@@ -18032,6 +18836,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "R88")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -18106,6 +18916,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "#PWR0143")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "#PWR0143")
 					(unit 1)
 				)
@@ -18189,6 +19005,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "#PWR0156")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -18264,6 +19086,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "R66")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "R66")
 					(unit 1)
 				)
@@ -18346,6 +19174,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "#PWR0128")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -18421,6 +19255,12 @@
 		(instances
 			(project "VCU_Power"
 				(path "/4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9/b5fa9533-a9f1-44be-a9c5-92f9c68a8a7f"
+					(reference "R61")
+					(unit 1)
+				)
+			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
 					(reference "R61")
 					(unit 1)
 				)
@@ -18507,6 +19347,12 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "D25")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -18586,6 +19432,18 @@
 					(unit 1)
 				)
 			)
+			(project "High and Low side"
+				(path "/dd3bcd97-2597-47db-a0ec-06d76f014d16"
+					(reference "#PWR0149")
+					(unit 1)
+				)
+			)
 		)
 	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
 )
