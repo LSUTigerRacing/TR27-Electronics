@@ -3840,18 +3840,6 @@
 		(uuid "5637251a-4651-4cd5-9cb0-dc44c5cb24b6")
 	)
 	(junction
-		(at 107.95 80.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5c36627a-d490-4be6-a7da-2a862a7b6bdf")
-	)
-	(junction
-		(at 111.76 72.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5c4100d6-5c01-4fd0-ad0e-0960916c5cac")
-	)
-	(junction
 		(at 151.13 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4190,16 +4178,6 @@
 			(type default)
 		)
 		(uuid "21b3570b-d854-4294-ad7f-52c54e738264")
-	)
-	(wire
-		(pts
-			(xy 111.76 72.39) (xy 116.84 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "250e545f-4fa7-4907-b64e-1768af185bb9")
 	)
 	(wire
 		(pts
@@ -4753,16 +4731,6 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 80.01) (xy 111.76 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "acf6d885-83c2-4ecf-89ca-bf6daf0fe4e5")
-	)
-	(wire
-		(pts
 			(xy 124.46 96.52) (xy 130.81 96.52)
 		)
 		(stroke
@@ -4843,7 +4811,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 72.39) (xy 111.76 72.39)
+			(xy 107.95 72.39) (xy 116.84 72.39)
 		)
 		(stroke
 			(width 0)
@@ -5301,6 +5269,39 @@
 				)
 			)
 		)
+		(property "Digikey#" ""
+			(at 111.76 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 111.76 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
+			(at 111.76 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "8"
 			(uuid "5b5796c6-eb6e-4ee6-951e-286a86f4774b")
 		)
@@ -5506,6 +5507,39 @@
 				)
 			)
 		)
+		(property "Digikey#" ""
+			(at 125.73 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 125.73 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
+			(at 125.73 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1a326f0e-cdae-4cce-8806-36279264ff16")
 		)
@@ -5578,6 +5612,39 @@
 			)
 		)
 		(property "Description" "N-MOSFET transistor"
+			(at 212.09 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" ""
+			(at 212.09 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 212.09 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
 			(at 212.09 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -5662,6 +5729,39 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 139.7 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" ""
+			(at 139.7 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 139.7 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
+			(at 139.7 93.98 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5819,6 +5919,39 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 151.13 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" ""
+			(at 151.13 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 151.13 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
 			(at 151.13 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -6009,6 +6142,39 @@
 				)
 			)
 		)
+		(property "Digikey#" ""
+			(at 31.75 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 31.75 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
+			(at 31.75 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "eaf0a483-8e2c-4a23-b16b-8e6e65eeb419")
 		)
@@ -6168,6 +6334,39 @@
 				)
 			)
 		)
+		(property "Digikey#" ""
+			(at 111.76 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 111.76 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
+			(at 111.76 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0c99701e-2f19-44e1-ae2e-c0ccbb8b13dd")
 		)
@@ -6248,6 +6447,39 @@
 				)
 			)
 		)
+		(property "Digikey#" ""
+			(at 138.43 128.27 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 138.43 128.27 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
+			(at 138.43 128.27 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1175dfc4-9a0a-4389-bdca-1c5893f6ccd5")
 		)
@@ -6319,6 +6551,39 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 247.65 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" ""
+			(at 247.65 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 247.65 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
+			(at 247.65 133.35 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6509,6 +6774,39 @@
 				)
 			)
 		)
+		(property "Digikey#" ""
+			(at 143.51 106.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 143.51 106.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
+			(at 143.51 106.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b5e383d4-a2f9-4d72-9c29-576b57a7b03a")
 		)
@@ -6666,6 +6964,39 @@
 				)
 			)
 		)
+		(property "Digikey#" ""
+			(at 232.41 104.14 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 232.41 104.14 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
+			(at 232.41 104.14 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "63a29506-ad9b-4a65-ad00-095b5895874b")
 		)
@@ -6738,6 +7069,39 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 134.62 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" ""
+			(at 134.62 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 134.62 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
 			(at 134.62 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -6928,6 +7292,39 @@
 				)
 			)
 		)
+		(property "Digikey#" ""
+			(at 147.32 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 147.32 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
+			(at 147.32 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8c6d5c55-8b68-4f6a-98fa-64d9942dd208")
 		)
@@ -7089,6 +7486,39 @@
 				)
 			)
 		)
+		(property "Digikey#" ""
+			(at 38.1 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 38.1 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
+			(at 38.1 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "72516813-df23-4216-92d9-a7b176639ad6")
 		)
@@ -7164,6 +7594,39 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 153.67 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" ""
+			(at 153.67 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 153.67 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
 			(at 153.67 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -7321,6 +7784,39 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 143.51 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" ""
+			(at 143.51 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 143.51 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
 			(at 143.51 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -7489,6 +7985,39 @@
 				)
 			)
 		)
+		(property "Digikey#" ""
+			(at 232.41 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 232.41 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
+			(at 232.41 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "147a1c97-09d1-4559-84fb-cc6a9bc7909d")
 		)
@@ -7558,6 +8087,39 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 125.73 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" ""
+			(at 125.73 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 125.73 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
 			(at 125.73 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -7648,6 +8210,39 @@
 				)
 			)
 		)
+		(property "Digikey#" ""
+			(at 243.84 137.16 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 243.84 137.16 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
+			(at 243.84 137.16 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6a0b2ec0-f7b7-4421-85c3-e58cd7843f39")
 		)
@@ -7685,7 +8280,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "25K"
 			(at 110.49 77.4699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7719,6 +8314,39 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 107.95 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" ""
+			(at 107.95 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 107.95 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
 			(at 107.95 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -7801,6 +8429,39 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 214.63 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" ""
+			(at 214.63 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 214.63 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
 			(at 214.63 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -7915,6 +8576,39 @@
 				)
 			)
 		)
+		(property "Digikey#" ""
+			(at 96.52 132.08 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 96.52 132.08 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
+			(at 96.52 132.08 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ab5a60ed-fc63-40c9-b70d-929b42d3d1da")
 		)
@@ -7988,6 +8682,39 @@
 			)
 		)
 		(property "Description" ""
+			(at 73.66 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" ""
+			(at 73.66 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 73.66 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
 			(at 73.66 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -8164,6 +8891,39 @@
 				)
 			)
 		)
+		(property "Digikey#" ""
+			(at 165.1 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 165.1 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
+			(at 165.1 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "de9e5e80-2e36-4bac-be6b-23cfc529d9cf")
 		)
@@ -8235,6 +8995,39 @@
 			)
 		)
 		(property "Description" "capacitor, US symbol"
+			(at 35.56 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" ""
+			(at 35.56 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" "865061457001"
+			(at 35.56 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" "710-865061457001"
 			(at 35.56 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -8327,6 +9120,39 @@
 				)
 			)
 		)
+		(property "Digikey#" ""
+			(at 43.18 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 43.18 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
+			(at 43.18 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a0470ff2-92a4-4892-9ba7-dd292d5c5543")
 		)
@@ -8399,6 +9225,39 @@
 			)
 		)
 		(property "Description" ""
+			(at 100.33 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" ""
+			(at 100.33 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 100.33 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
 			(at 100.33 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -8653,6 +9512,39 @@
 				)
 			)
 		)
+		(property "Digikey#" ""
+			(at 251.46 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 251.46 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
+			(at 251.46 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a8ae54eb-5148-4173-9915-98c3067070d2")
 		)
@@ -8663,87 +9555,6 @@
 			(project "RML Flyback Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "R9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Zener")
-		(at 111.76 76.2 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "bb330b96-9faa-4dad-8862-c79e83e70b46")
-		(property "Reference" "D6"
-			(at 114.3 67.818 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "D_Zener"
-			(at 112.014 70.358 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 111.76 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 111.76 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Zener diode"
-			(at 111.76 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4bf35ec5-1c9e-4b51-a9ff-0e5d0a45bf65")
-		)
-		(pin "2"
-			(uuid "579dc53d-963e-48de-bf51-9508f0850169")
-		)
-		(instances
-			(project "RML Flyback Converter"
-				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
-					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -8806,6 +9617,39 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 118.11 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" ""
+			(at 118.11 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 118.11 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
 			(at 118.11 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -8965,6 +9809,39 @@
 		)
 		(property "Description" "Timer, 555 compatible, SOIC-8"
 			(at 231.14 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" ""
+			(at 231.14 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 231.14 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
+			(at 231.14 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9153,6 +10030,39 @@
 				)
 			)
 		)
+		(property "Digikey#" ""
+			(at 198.12 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 198.12 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
+			(at 198.12 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "308fd60d-8783-4af0-80ca-635573cb09a3")
 		)
@@ -9238,6 +10148,39 @@
 				)
 			)
 		)
+		(property "Digikey#" ""
+			(at 111.76 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 111.76 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
+			(at 111.76 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c519a106-3150-4b07-9f43-c8aa573d752c")
 		)
@@ -9275,7 +10218,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "1M"
 			(at 110.49 69.8499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9309,6 +10252,39 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 107.95 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" ""
+			(at 107.95 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 107.95 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
 			(at 107.95 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -9400,6 +10376,39 @@
 				)
 			)
 		)
+		(property "Digikey#" ""
+			(at 205.74 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 205.74 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
+			(at 205.74 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "02b9fa5b-3255-4d04-87be-5e71da028bd6")
 		)
@@ -9479,6 +10488,39 @@
 				)
 			)
 		)
+		(property "Digikey#" ""
+			(at 120.65 96.52 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 120.65 96.52 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
+			(at 120.65 96.52 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0ea7fc64-fe8d-4038-aa24-1a7dd13b0322")
 		)
@@ -9548,6 +10590,39 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 127 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey#" ""
+			(at 127 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" ""
+			(at 127 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" ""
 			(at 127 109.22 0)
 			(hide yes)
 			(show_name no)
