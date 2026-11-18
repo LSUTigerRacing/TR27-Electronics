@@ -490,7 +490,7 @@
     ]
   },
   "meta": {
-    "filename": "RML Flyback Converter.kicad_pro",
+    "filename": "RML Switching Converter.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -582,31 +582,31 @@
           "show": true
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "DNP",
           "name": "${DNP}",
-          "show": true
+          "show": false
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "Exclude from BOM",
           "name": "${EXCLUDE_FROM_BOM}",
           "show": false
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "Exclude from Board",
           "name": "${EXCLUDE_FROM_BOARD}",
           "show": false
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "Exclude from Simulation",
           "name": "${EXCLUDE_FROM_SIM}",
           "show": false
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "Exclude from Position Files",
           "name": "${EXCLUDE_FROM_POS_FILES}",
           "show": false
@@ -709,8 +709,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "RML Flyback Converter.kicad_sch",
-        "name": "Root",
+        "filename": "RML Switching Converter.kicad_sch",
+        "name": "RML Switching Converter",
         "uuid": "3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
       }
     ],
@@ -720,7 +720,7 @@
   "sheets": [
     [
       "3fe68f58-dcb1-40f3-881d-2a06abdc71f5",
-      "Root"
+      "RML Switching Converter"
     ]
   ],
   "text_variables": {},

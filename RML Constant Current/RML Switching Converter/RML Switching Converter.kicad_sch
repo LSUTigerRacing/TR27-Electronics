@@ -4571,6 +4571,16 @@
 	)
 	(wire
 		(pts
+			(xy 78.74 41.91) (xy 73.66 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8350eb22-3a74-4496-b08d-49fca567aa6e")
+	)
+	(wire
+		(pts
 			(xy 153.67 86.36) (xy 153.67 93.98)
 		)
 		(stroke
@@ -4708,6 +4718,16 @@
 			(type default)
 		)
 		(uuid "a3b4381a-b670-42e9-a944-85102c253eda")
+	)
+	(wire
+		(pts
+			(xy 78.74 44.45) (xy 73.66 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a48a5878-a38d-49b2-8e41-c8e4ca11c48a")
 	)
 	(wire
 		(pts
@@ -5123,7 +5143,7 @@
 		(uuid "2aecd11d-2669-42ce-94c2-b8c95030ac48")
 	)
 	(label "HVIL+"
-		(at 73.66 41.91 0)
+		(at 78.74 41.91 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5173,7 +5193,7 @@
 		(uuid "80cfa26b-cd77-4936-ab1b-cb24179cda7c")
 	)
 	(label "HVIL-"
-		(at 73.66 44.45 0)
+		(at 78.74 44.45 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5354,7 +5374,7 @@
 			(uuid "b2ec3d14-0f76-4040-bd92-d5ad7d417ce2")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "U1")
 					(unit 1)
@@ -5432,7 +5452,7 @@
 			(uuid "9cdfd9b6-a169-4d41-b62c-2fa655285daa")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "#PWR08")
 					(unit 1)
@@ -5547,7 +5567,7 @@
 			(uuid "4b99abd9-c4e7-43f7-8705-3c0a9b1dae5d")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "R1")
 					(unit 1)
@@ -5665,7 +5685,7 @@
 			(uuid "bd2656d9-b5e0-4d1e-924d-2537ab7ce2b4")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "Q1")
 					(unit 1)
@@ -5778,7 +5798,7 @@
 			(uuid "8c5caf73-b626-444b-8120-535509a6c644")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "R4")
 					(unit 1)
@@ -5856,7 +5876,7 @@
 			(uuid "dcc6d866-ca3c-4ef6-9a2b-a21299f92fce")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "#PWR010")
 					(unit 1)
@@ -5969,7 +5989,7 @@
 			(uuid "0983c11c-beb3-4b2c-bc35-3beab52f90db")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "C8")
 					(unit 1)
@@ -6047,7 +6067,7 @@
 			(uuid "69b870b5-4311-4dbb-af5c-b67b7d424691")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "#PWR02")
 					(unit 1)
@@ -6087,7 +6107,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 31.75 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -6153,7 +6173,7 @@
 				)
 			)
 		)
-		(property "MFG#" ""
+		(property "MFG#" "M7"
 			(at 31.75 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -6164,7 +6184,7 @@
 				)
 			)
 		)
-		(property "Mouser#" ""
+		(property "Mouser#" "637-M7 "
 			(at 31.75 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -6182,7 +6202,7 @@
 			(uuid "6975d90b-41a6-4755-ac63-cf0fa6b89ae4")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "D1")
 					(unit 1)
@@ -6260,7 +6280,7 @@
 			(uuid "fe4d0a8e-6012-49eb-b4ff-0d77c9475dd1")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "#PWR013")
 					(unit 1)
@@ -6374,7 +6394,7 @@
 			(uuid "769ca022-1736-4aea-83cc-bacaa3375f7b")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "R3")
 					(unit 1)
@@ -6487,7 +6507,7 @@
 			(uuid "dd1487c9-62ac-4e15-a1a0-53a0357d69bb")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "L1")
 					(unit 1)
@@ -6600,7 +6620,7 @@
 			(uuid "208bacaa-5627-4074-aa37-1188a80902c9")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "R8")
 					(unit 1)
@@ -6677,7 +6697,7 @@
 			(uuid "13cb81d6-4187-420b-98ca-5f0704b99e7e")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "#PWR07")
 					(unit 1)
@@ -6814,7 +6834,7 @@
 			(uuid "19e185fb-e802-4710-99d5-5583d15387b9")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "D3")
 					(unit 1)
@@ -6891,7 +6911,7 @@
 			(uuid "73974f6d-f992-471f-a224-41cb9a678028")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "#PWR05")
 					(unit 1)
@@ -7004,7 +7024,7 @@
 			(uuid "19737216-129b-4897-be1e-be3d33add81c")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "C9")
 					(unit 1)
@@ -7119,7 +7139,7 @@
 			(uuid "67b18a3e-40cd-43a9-9f07-f70b976897d0")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "R5")
 					(unit 1)
@@ -7197,7 +7217,7 @@
 			(uuid "a58c690b-1015-489f-9d80-905677bfca0f")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "#PWR01")
 					(unit 1)
@@ -7332,7 +7352,7 @@
 			(uuid "9cba397c-fc0b-477f-b6d5-ce9d6fa4e776")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "D2")
 					(unit 1)
@@ -7410,7 +7430,7 @@
 			(uuid "aee88c2f-5179-45cf-b571-eeaa7b22d544")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "#PWR015")
 					(unit 1)
@@ -7532,7 +7552,7 @@
 			(uuid "92dce2ca-1148-4e5b-91c0-8d8f70ec950d")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "J1")
 					(unit 1)
@@ -7644,7 +7664,7 @@
 			(uuid "e4587a8f-a6d6-413d-b684-c75f612af187")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "C6")
 					(unit 1)
@@ -7722,7 +7742,7 @@
 			(uuid "eb5be4c2-bde6-4d0d-84b3-f8e4232224b6")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "#PWR014")
 					(unit 1)
@@ -7834,7 +7854,7 @@
 			(uuid "6cbb9862-95e9-46e6-9108-e411c898bceb")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "C7")
 					(unit 1)
@@ -7912,7 +7932,7 @@
 			(uuid "186eadaa-b2ae-4b38-b5a0-d40f657af98a")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "#PWR04")
 					(unit 1)
@@ -8025,7 +8045,7 @@
 			(uuid "1d196eb6-0385-43ea-98a8-c0d455607adf")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "C10")
 					(unit 1)
@@ -8137,7 +8157,7 @@
 			(uuid "5dc670de-eece-442b-b909-4f74f89d4c30")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "C3")
 					(unit 1)
@@ -8250,7 +8270,7 @@
 			(uuid "319eadb8-5c41-4202-97a2-7a37114d2768")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "C11")
 					(unit 1)
@@ -8364,7 +8384,7 @@
 			(uuid "52f1a19c-af5e-48b1-899e-432da3d9330f")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "R7")
 					(unit 1)
@@ -8479,7 +8499,7 @@
 			(uuid "e05f179e-d6a6-4dcc-9763-83cdce3eeaf5")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "R10")
 					(unit 1)
@@ -8616,7 +8636,7 @@
 			(uuid "67e08027-e38b-4032-8095-d817b021e781")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "D4")
 					(unit 1)
@@ -8738,7 +8758,7 @@
 			(uuid "bf122deb-6c55-449a-82f1-c271051a9d02")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "J2")
 					(unit 1)
@@ -8816,7 +8836,7 @@
 			(uuid "93cad021-9e0e-4c41-9ee2-664d751dc639")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "#PWR03")
 					(unit 1)
@@ -8931,7 +8951,7 @@
 			(uuid "260cb3c0-91d8-4784-81f3-5a09f4174d0c")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "D5")
 					(unit 1)
@@ -9045,7 +9065,7 @@
 			(uuid "49ed3eea-6e90-43c6-a19b-00ab1d997230")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "C1")
 					(unit 1)
@@ -9087,7 +9107,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1812_4532Metric"
 			(at 44.1452 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -9131,7 +9151,7 @@
 				)
 			)
 		)
-		(property "MFG#" ""
+		(property "MFG#" "C4532X7T2W474M230KA"
 			(at 43.18 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -9142,7 +9162,7 @@
 				)
 			)
 		)
-		(property "Mouser#" ""
+		(property "Mouser#" "810-C4532X7T2W474MKA"
 			(at 43.18 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -9160,7 +9180,7 @@
 			(uuid "7a43c547-520e-43b0-9602-5f42f5ae1084")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "C2")
 					(unit 1)
@@ -9281,7 +9301,7 @@
 			(uuid "e9f43de2-dd71-4488-9f5c-ccf1e5306e88")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "J3")
 					(unit 1)
@@ -9359,7 +9379,7 @@
 			(uuid "b31d75a5-8694-4fbc-816a-ab45dca3a969")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "#PWR09")
 					(unit 1)
@@ -9437,7 +9457,7 @@
 			(uuid "0e35aa57-0c40-44a4-af4c-e95260550741")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "#PWR012")
 					(unit 1)
@@ -9552,7 +9572,7 @@
 			(uuid "ecf219f9-bc6b-4980-9795-713bf61974c8")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "R9")
 					(unit 1)
@@ -9667,7 +9687,7 @@
 			(uuid "0a7c9721-8899-4e9c-970c-d299070f539a")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "R2")
 					(unit 1)
@@ -9745,7 +9765,7 @@
 			(uuid "cea04973-9666-4a59-a2c1-e56b19dcb628")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "#PWR011")
 					(unit 1)
@@ -9876,7 +9896,7 @@
 			(uuid "4d8ed0f8-b6d6-4700-896e-1abc72cc3d56")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "U3")
 					(unit 1)
@@ -9954,7 +9974,7 @@
 			(uuid "0e1e099f-189c-421f-93db-92ed0613c0ce")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "#PWR06")
 					(unit 1)
@@ -10076,7 +10096,7 @@
 			(uuid "84732dd0-3722-4e05-8268-f7e1f423e84c")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "U2")
 					(unit 1)
@@ -10188,7 +10208,7 @@
 			(uuid "8f0904b0-fa18-452e-87b0-5debe52c33d9")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "C4")
 					(unit 1)
@@ -10302,7 +10322,7 @@
 			(uuid "bb5910ca-d07f-4731-969d-485cb155b169")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "R6")
 					(unit 1)
@@ -10416,7 +10436,7 @@
 			(uuid "31993f1b-8800-4afc-80a1-cb584a0abf03")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "R11")
 					(unit 1)
@@ -10528,7 +10548,7 @@
 			(uuid "edc989ca-3a46-40dc-abb5-4fcd921de659")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "C5")
 					(unit 1)
@@ -10640,7 +10660,7 @@
 			(uuid "6fccfee1-1051-4d70-89c5-0779f9ff8b7e")
 		)
 		(instances
-			(project "RML Flyback Converter"
+			(project "RML Switching Converter"
 				(path "/3fe68f58-dcb1-40f3-881d-2a06abdc71f5"
 					(reference "C12")
 					(unit 1)
