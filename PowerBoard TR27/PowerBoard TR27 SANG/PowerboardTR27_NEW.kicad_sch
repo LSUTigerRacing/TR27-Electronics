@@ -18899,7 +18899,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.195 186.69) (xy 42.545 186.69)
+			(xy 36.195 186.69) (xy 43.815 186.69)
 		)
 		(stroke
 			(width 0)
@@ -21247,6 +21247,16 @@
 		)
 		(uuid "7435e940-15b4-440e-96ec-a88197d84df3")
 	)
+	(label "FL+"
+		(at 52.705 204.47 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "75832d7d-6058-434e-84aa-5c27f734370f")
+	)
 	(label "Shutdown_IN"
 		(at 47.625 179.07 180)
 		(effects
@@ -21356,16 +21366,6 @@
 			(justify right bottom)
 		)
 		(uuid "cfc9d34f-4754-4f94-93d3-bc12ceca5cf1")
-	)
-	(label "FL+"
-		(at 42.545 186.69 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "d4cbebb1-aa64-47a8-95f3-9591f1547fae")
 	)
 	(label "BSE_2"
 		(at 155.575 191.77 180)
@@ -27847,6 +27847,86 @@
 			(project "PowerboardTR27_NEW"
 				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
 					(reference "#PWR054")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "+5V_1")
+		(lib_id "power:+5V")
+		(at 43.815 186.69 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1c33be45-be9d-4c03-82a0-64dbc577e7ff")
+		(property "Reference" "#PWR04"
+			(at 40.005 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 46.99 186.6899 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 43.815 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 43.815 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 43.815 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8e9bcc0c-b5ba-49d1-9338-1c637f613d20")
+		)
+		(instances
+			(project "PowerboardTR27_NEW"
+				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -41804,14 +41884,15 @@
 				)
 			)
 		)
-		(property "Value" "LV+"
-			(at 474.98 31.75 0)
+		(property "Value" "+5V"
+			(at 477.52 35.5599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -51130,85 +51211,6 @@
 			(project "PowerboardTR27_NEW"
 				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
 					(reference "C13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_name "+5V_1")
-		(lib_id "power:+5V")
-		(at 52.705 204.47 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ce9b361a-e7b4-47b9-a52e-57bd3ab50c08")
-		(property "Reference" "#PWR04"
-			(at 52.705 208.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+5V"
-			(at 52.705 199.39 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 52.705 204.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 52.705 204.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 52.705 204.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "0a5c1268-aa75-41f6-9f9c-8dd2e8f37f24")
-		)
-		(instances
-			(project "PowerboardTR27_NEW"
-				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
-					(reference "#PWR04")
 					(unit 1)
 				)
 			)

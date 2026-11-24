@@ -429,7 +429,7 @@
         "uuid": "e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
       }
     ],
-    "used_designators": "R_FBT1,#FLG1,R1-96,J1-31,Y2,R_FBB1,R_ENT1,L2,F1,R_ENB1,Q1-3,#PWR1-193,D1-29,U1-11,C1-59,FB1,SW2-3,CR1-2,IC1,CL1-3,P1,REXT1",
+    "used_designators": "R_FBT1,R1-96,J1-31,Y2,#PWR1-193,D1-29,R_ENT1,L2,F1,R_ENB1,SW2-3,FB1,C1-59,U1-11,Q1-3,CL1-3,CR1-2,IC1,R_FBB1,#FLG1,P1,REXT1",
     "variants": []
   },
   "sheets": [
