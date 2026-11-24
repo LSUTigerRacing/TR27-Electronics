@@ -12986,12 +12986,6 @@
 		(uuid "f7e7efd4-0dab-43ba-80ab-aa0d889009ef")
 	)
 	(junction
-		(at 678.18 146.05)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0006348f-1cbe-4e0b-83d8-8041ec202da8")
-	)
-	(junction
 		(at 85.09 351.79)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13124,16 +13118,16 @@
 		(uuid "2365add0-7a61-4bbb-9dbb-279a7a0d8e37")
 	)
 	(junction
+		(at 754.38 398.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "23cf8e12-cf3e-46ff-b096-1146e27df2ea")
+	)
+	(junction
 		(at 88.9 131.445)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "250da213-9113-4a68-a603-57e8c6aec1a7")
-	)
-	(junction
-		(at 670.56 269.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "26d0feac-0303-489b-9bb1-f5654081f5bc")
 	)
 	(junction
 		(at 349.25 104.14)
@@ -13152,6 +13146,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "293b6550-17cb-4774-bf5a-f51b73c72fe9")
+	)
+	(junction
+		(at 678.18 207.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2a551c8f-949a-4308-a7e7-cb8cc60e7a2c")
 	)
 	(junction
 		(at 744.22 317.5)
@@ -13184,6 +13184,18 @@
 		(uuid "321c8325-7def-47dc-8a1e-2e09654149fe")
 	)
 	(junction
+		(at 666.75 82.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "32d7f6d2-6dc8-4f6d-bec8-0b4d0ef98e76")
+	)
+	(junction
+		(at 669.29 146.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "34818183-2c33-4020-bdfd-3bc369176a6a")
+	)
+	(junction
 		(at 304.8 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13206,6 +13218,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "37735f3a-3e92-4cf4-862e-64b5f836b1f6")
+	)
+	(junction
+		(at 669.29 217.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "37827b9c-af42-4298-9bb8-f9d29b8ab186")
 	)
 	(junction
 		(at 391.795 123.825)
@@ -13268,6 +13286,12 @@
 		(uuid "42fc257c-2192-446c-b9bd-069305cbf51a")
 	)
 	(junction
+		(at 678.18 146.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4377f5aa-a696-4119-831f-612025b2fc59")
+	)
+	(junction
 		(at 125.095 233.045)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13322,12 +13346,6 @@
 		(uuid "4cd11e01-1694-47db-b38f-88e18582aebe")
 	)
 	(junction
-		(at 675.64 82.55)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4d07f5bf-0098-4099-b096-3716f7cb65f0")
-	)
-	(junction
 		(at 63.5 527.05)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13338,12 +13356,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4efc0a14-ef28-4522-807c-3fc25649e96e")
-	)
-	(junction
-		(at 754.38 398.78)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4f3bcb00-f333-43c3-b568-fd62574d59f1")
 	)
 	(junction
 		(at 741.68 328.93)
@@ -13388,22 +13400,10 @@
 		(uuid "635d3781-b07a-42ae-9d39-998a9e74b962")
 	)
 	(junction
-		(at 669.29 146.05)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "657f392a-2cc1-415b-bccb-c5f0416b02a9")
-	)
-	(junction
 		(at 177.8 410.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "67748b07-980f-4522-a0a8-5d3a0de03f9b")
-	)
-	(junction
-		(at 675.64 92.71)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6d27f6f6-457a-4e97-b5e9-eb8eff9ebbb3")
 	)
 	(junction
 		(at 124.46 339.09)
@@ -13416,18 +13416,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6fb8ba10-0631-4d4b-9597-27c2d467c233")
-	)
-	(junction
-		(at 670.56 279.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "70393542-ff1b-46a9-b6d4-17b96e362f3c")
-	)
-	(junction
-		(at 666.75 82.55)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "70493e47-7a70-41d7-9962-7066a652a903")
 	)
 	(junction
 		(at 99.06 320.04)
@@ -13448,16 +13436,16 @@
 		(uuid "76eadf82-6444-4466-a4b1-2e1059853911")
 	)
 	(junction
+		(at 678.18 156.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7722d41a-436b-445f-91db-42305e878172")
+	)
+	(junction
 		(at 467.36 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "78a4d113-cff2-4e96-b429-a81152d8923c")
-	)
-	(junction
-		(at 669.29 207.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "79aa5a0d-ca1b-49aa-b3af-7858c4ce49b4")
 	)
 	(junction
 		(at 292.1 78.74)
@@ -13518,12 +13506,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "834ec5c9-b0e0-457d-80d0-beb27442dc12")
-	)
-	(junction
-		(at 678.18 217.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "83f0c272-b5b3-4673-9d55-69668538feca")
 	)
 	(junction
 		(at 318.77 194.31)
@@ -13592,6 +13574,12 @@
 		(uuid "8e4ade1b-020a-4ade-aa48-f2ae928990be")
 	)
 	(junction
+		(at 670.56 279.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8ed7b140-b9fc-405e-8c8d-abd1d0d05c2e")
+	)
+	(junction
 		(at 127 339.09)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13602,6 +13590,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "913859a1-730d-467f-b50c-3ddb7bce7084")
+	)
+	(junction
+		(at 666.75 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "915844b6-223d-4a64-a932-a23be548ba10")
 	)
 	(junction
 		(at 150.495 39.37)
@@ -13638,6 +13632,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "958e8449-0318-47a4-8cbb-5fbaa5ae7a1e")
+	)
+	(junction
+		(at 669.29 207.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "97318ecb-e915-434b-9879-61de795ff013")
 	)
 	(junction
 		(at 276.86 31.115)
@@ -13688,6 +13688,12 @@
 		(uuid "a52c2f9a-3aec-45f7-b54c-c3c80c9e837f")
 	)
 	(junction
+		(at 670.56 269.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a7937ab2-a1a0-4132-ab93-3099355be9f9")
+	)
+	(junction
 		(at 680.72 306.07)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13728,6 +13734,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "adb7a867-f249-493f-86cf-2a5b64da3f77")
+	)
+	(junction
+		(at 678.18 217.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ae8c351c-5663-42ab-ba52-a11f2dae202b")
 	)
 	(junction
 		(at 41.91 532.13)
@@ -13778,12 +13790,6 @@
 		(uuid "b38d1ec6-b807-4edb-a78d-4b51798ec3d1")
 	)
 	(junction
-		(at 678.18 207.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b4283d9d-df76-4c5e-aa3c-2bb28044efd8")
-	)
-	(junction
 		(at 368.935 123.825)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13832,16 +13838,16 @@
 		(uuid "bc990bd5-6707-4c43-b91f-bf0a926a5259")
 	)
 	(junction
-		(at 669.29 217.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "beeb7f37-08a8-46a1-b95b-f0ab50564256")
-	)
-	(junction
 		(at 662.94 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bfb57db9-2b59-4b0a-b246-479ba1da1677")
+	)
+	(junction
+		(at 675.64 82.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c044547d-0545-4514-9fa8-25af51855e4f")
 	)
 	(junction
 		(at 318.77 186.69)
@@ -13916,12 +13922,6 @@
 		(uuid "cf5ae0e0-7c83-490c-8c4e-5474a3d0ca45")
 	)
 	(junction
-		(at 678.18 156.21)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cf9097f6-8ede-4601-b97d-b33c35504709")
-	)
-	(junction
 		(at 736.6 186.69)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13982,22 +13982,16 @@
 		(uuid "e82b8bd1-0511-4d31-9ea9-d34ceeac9a10")
 	)
 	(junction
+		(at 675.64 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e878cb99-3a0a-4411-853e-14aa040cb8e1")
+	)
+	(junction
 		(at 137.16 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e8c8b4e3-82e3-4bea-b42f-f6d7234f84b3")
-	)
-	(junction
-		(at 666.75 92.71)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ec9985f2-5f50-43cf-97e0-233a0730e32f")
-	)
-	(junction
-		(at 669.29 156.21)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ee376e64-2a01-404f-bf17-ac451f348901")
 	)
 	(junction
 		(at 153.67 535.94)
@@ -14040,6 +14034,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fbec022e-6045-43d5-b6fc-cd0a24e7fa90")
+	)
+	(junction
+		(at 669.29 156.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fd735c52-0ffc-49c9-9090-c20092e4c4cf")
 	)
 	(junction
 		(at 725.17 365.76)
@@ -14194,16 +14194,6 @@
 			(type default)
 		)
 		(uuid "0399d626-7ff3-42cb-8c34-18062c5fdb77")
-	)
-	(wire
-		(pts
-			(xy 764.54 308.61) (xy 770.89 308.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "03a17f2c-a440-49f9-8caa-0b0f16f1b388")
 	)
 	(wire
 		(pts
@@ -14424,6 +14414,16 @@
 			(type default)
 		)
 		(uuid "0c911010-ee5b-4e82-aa00-f68fe58e8b21")
+	)
+	(wire
+		(pts
+			(xy 754.38 398.78) (xy 756.285 398.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0cfa55de-784c-41ed-99fb-5ce753cf5243")
 	)
 	(wire
 		(pts
@@ -14747,16 +14747,6 @@
 	)
 	(wire
 		(pts
-			(xy 678.18 143.51) (xy 678.18 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1b431c9e-6211-49f3-81b0-dc7a379d4cb6")
-	)
-	(wire
-		(pts
 			(xy 176.53 314.96) (xy 172.72 314.96)
 		)
 		(stroke
@@ -14774,16 +14764,6 @@
 			(type default)
 		)
 		(uuid "1c132ba7-a02f-4ee7-a0e6-5ce49f64b3de")
-	)
-	(wire
-		(pts
-			(xy 678.18 156.21) (xy 678.18 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1e58ea33-1dc4-4ec1-895f-f20777b5bcc3")
 	)
 	(wire
 		(pts
@@ -14824,6 +14804,16 @@
 			(type default)
 		)
 		(uuid "2050a624-a08f-44cf-8fd3-2855eaefc441")
+	)
+	(wire
+		(pts
+			(xy 764.54 308.61) (xy 766.445 308.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "205c9005-0903-4de5-859f-25f9eb29debe")
 	)
 	(wire
 		(pts
@@ -14917,6 +14907,16 @@
 	)
 	(wire
 		(pts
+			(xy 678.18 143.51) (xy 678.18 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "233b8cb3-9b04-4b0a-b9ea-ec7a2108eb1d")
+	)
+	(wire
+		(pts
 			(xy 727.71 69.85) (xy 728.98 69.85)
 		)
 		(stroke
@@ -15004,6 +15004,16 @@
 			(type default)
 		)
 		(uuid "26ee6b1c-fe0d-421f-8362-1df6f28fff65")
+	)
+	(wire
+		(pts
+			(xy 669.29 207.01) (xy 678.18 207.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27032b53-cbe9-407c-9543-b519ab828557")
 	)
 	(wire
 		(pts
@@ -15217,16 +15227,6 @@
 	)
 	(wire
 		(pts
-			(xy 678.18 217.17) (xy 678.18 219.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2cfefa00-3df1-4284-b2b7-79f8e975fa8e")
-	)
-	(wire
-		(pts
 			(xy 737.87 238.76) (xy 737.87 240.03)
 		)
 		(stroke
@@ -15317,16 +15317,6 @@
 	)
 	(wire
 		(pts
-			(xy 665.48 156.21) (xy 678.18 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2f7904cc-ab64-47ae-b1ce-58435173d912")
-	)
-	(wire
-		(pts
 			(xy 51.435 233.68) (xy 51.435 234.315)
 		)
 		(stroke
@@ -15334,6 +15324,16 @@
 			(type default)
 		)
 		(uuid "31266aea-bddd-4998-8a5a-2ce58e2aacf0")
+	)
+	(wire
+		(pts
+			(xy 675.64 82.55) (xy 675.64 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31af23d5-e028-467b-9204-b9f7076317d4")
 	)
 	(wire
 		(pts
@@ -15364,6 +15364,16 @@
 			(type default)
 		)
 		(uuid "336b5f40-4bad-42da-bcd2-629bfa279801")
+	)
+	(wire
+		(pts
+			(xy 659.13 146.05) (xy 660.4 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33f6e519-eac9-4d32-adac-b814363c0fb0")
 	)
 	(wire
 		(pts
@@ -15447,16 +15457,6 @@
 	)
 	(wire
 		(pts
-			(xy 678.18 214.63) (xy 678.18 217.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "37b2ffc0-f7c2-4fe3-956e-c0d06bb0036c")
-	)
-	(wire
-		(pts
 			(xy 717.55 365.76) (xy 732.79 365.76)
 		)
 		(stroke
@@ -15464,16 +15464,6 @@
 			(type default)
 		)
 		(uuid "37be6767-1e26-40b2-81d1-d84190089f10")
-	)
-	(wire
-		(pts
-			(xy 750.57 308.61) (xy 744.22 308.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "37c61ab8-ed20-4491-a3c4-8540b537d12e")
 	)
 	(wire
 		(pts
@@ -15507,6 +15497,26 @@
 	)
 	(wire
 		(pts
+			(xy 666.75 92.71) (xy 675.64 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "386fdb2d-7e11-4be7-9d7a-872b2adee0ea")
+	)
+	(wire
+		(pts
+			(xy 659.13 207.01) (xy 660.4 207.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38bee399-7e08-49ce-9c8b-56292444f9a8")
+	)
+	(wire
+		(pts
 			(xy 344.17 182.88) (xy 356.87 182.88)
 		)
 		(stroke
@@ -15524,6 +15534,16 @@
 			(type default)
 		)
 		(uuid "39958297-489b-4670-ba8e-e72ce0e058e8")
+	)
+	(wire
+		(pts
+			(xy 669.29 217.17) (xy 678.18 217.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39d17e49-d0ac-4079-972e-5c3a5508edc7")
 	)
 	(wire
 		(pts
@@ -15614,6 +15634,16 @@
 			(type default)
 		)
 		(uuid "3ca17318-9adc-4302-8d11-b43aa20d47ac")
+	)
+	(wire
+		(pts
+			(xy 774.065 308.61) (xy 775.97 308.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d2092d3-df27-4b35-90ca-e456a30463fc")
 	)
 	(wire
 		(pts
@@ -15827,16 +15857,6 @@
 	)
 	(wire
 		(pts
-			(xy 754.38 398.78) (xy 763.27 398.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "450e476f-2973-4b93-a311-d8d525f33381")
-	)
-	(wire
-		(pts
 			(xy 725.17 209.55) (xy 746.76 209.55)
 		)
 		(stroke
@@ -15914,6 +15934,16 @@
 			(type default)
 		)
 		(uuid "470b729a-f5b3-4acf-b129-5d119c68775b")
+	)
+	(wire
+		(pts
+			(xy 669.29 146.05) (xy 678.18 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "470f6d1a-c682-47e3-9170-3a69545a0a9c")
 	)
 	(wire
 		(pts
@@ -16107,16 +16137,6 @@
 	)
 	(wire
 		(pts
-			(xy 665.48 207.01) (xy 678.18 207.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4f0a1468-7e32-477e-a387-387408a07024")
-	)
-	(wire
-		(pts
 			(xy 158.75 492.76) (xy 165.1 492.76)
 		)
 		(stroke
@@ -16187,6 +16207,16 @@
 	)
 	(wire
 		(pts
+			(xy 668.02 217.17) (xy 669.29 217.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "513095fd-d589-4e2e-9410-19511338e4dd")
+	)
+	(wire
+		(pts
 			(xy 57.785 32.385) (xy 113.03 32.385)
 		)
 		(stroke
@@ -16204,6 +16234,16 @@
 			(type default)
 		)
 		(uuid "51b9216b-815a-4b87-be13-d7f97f509786")
+	)
+	(wire
+		(pts
+			(xy 678.18 207.01) (xy 678.18 209.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51dd9081-e485-409d-9b80-ec307d9bb37b")
 	)
 	(wire
 		(pts
@@ -16314,6 +16354,16 @@
 			(type default)
 		)
 		(uuid "561a3d47-3198-4dd9-8984-1a81232babc4")
+	)
+	(wire
+		(pts
+			(xy 675.64 80.01) (xy 675.64 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5643a9d7-3c17-4234-9677-4c3759e8c0dd")
 	)
 	(wire
 		(pts
@@ -16757,16 +16807,6 @@
 	)
 	(wire
 		(pts
-			(xy 675.64 90.17) (xy 675.64 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "666bf498-d746-4fca-b33d-0437b045d9c1")
-	)
-	(wire
-		(pts
 			(xy 727.71 160.02) (xy 718.82 158.75)
 		)
 		(stroke
@@ -16897,6 +16937,16 @@
 	)
 	(wire
 		(pts
+			(xy 659.13 156.21) (xy 660.4 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6abdbe84-adeb-41d9-8d2e-670f781c1ac5")
+	)
+	(wire
+		(pts
 			(xy 149.225 39.37) (xy 152.4 39.37)
 		)
 		(stroke
@@ -16927,16 +16977,6 @@
 	)
 	(wire
 		(pts
-			(xy 675.64 80.01) (xy 675.64 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6b91a4dc-f884-4e61-8ab6-81b21b342310")
-	)
-	(wire
-		(pts
 			(xy 720.09 281.94) (xy 730.25 281.94)
 		)
 		(stroke
@@ -16957,6 +16997,16 @@
 	)
 	(wire
 		(pts
+			(xy 678.18 153.67) (xy 678.18 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c154043-16c0-4d47-bf36-b465e7c796a7")
+	)
+	(wire
+		(pts
 			(xy 678.18 326.39) (xy 681.99 326.39)
 		)
 		(stroke
@@ -16964,6 +17014,16 @@
 			(type default)
 		)
 		(uuid "6c7dc21e-a53e-4939-936a-6fb3cda9d1fe")
+	)
+	(wire
+		(pts
+			(xy 678.18 214.63) (xy 678.18 217.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6cadca36-c955-438a-bdc0-ef60aa4b4cb7")
 	)
 	(wire
 		(pts
@@ -17124,16 +17184,6 @@
 			(type default)
 		)
 		(uuid "7292b7b1-4eb0-40d1-9967-a27122508925")
-	)
-	(wire
-		(pts
-			(xy 678.18 153.67) (xy 678.18 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "73d09d95-db95-4814-9446-dc925474ce29")
 	)
 	(wire
 		(pts
@@ -17397,6 +17447,16 @@
 	)
 	(wire
 		(pts
+			(xy 678.18 156.21) (xy 678.18 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b96f7e5-5f77-4fd2-ba5d-7327bb88bee8")
+	)
+	(wire
+		(pts
 			(xy 675.64 410.21) (xy 679.45 410.21)
 		)
 		(stroke
@@ -17527,13 +17587,13 @@
 	)
 	(wire
 		(pts
-			(xy 662.94 92.71) (xy 675.64 92.71)
+			(xy 678.18 146.05) (xy 678.18 148.59)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "809d9ca2-b00e-4baa-83fe-521c7532276a")
+		(uuid "81607663-48c9-402a-80fc-cf70ee57d69d")
 	)
 	(wire
 		(pts
@@ -17587,16 +17647,6 @@
 	)
 	(wire
 		(pts
-			(xy 666.75 269.24) (xy 679.45 269.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8303e3c9-9f6b-4252-b22b-a0b5562f9fd5")
-	)
-	(wire
-		(pts
 			(xy 304.8 113.03) (xy 304.8 123.19)
 		)
 		(stroke
@@ -17604,16 +17654,6 @@
 			(type default)
 		)
 		(uuid "8358f4f8-5a07-49fb-b49f-fea2abf16760")
-	)
-	(wire
-		(pts
-			(xy 678.18 146.05) (xy 678.18 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "83aa3e86-f7bd-406e-887f-41b49e70bb41")
 	)
 	(wire
 		(pts
@@ -17947,6 +17987,16 @@
 	)
 	(wire
 		(pts
+			(xy 669.29 269.24) (xy 670.56 269.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8cf9edbd-c82e-4b91-8965-91e1d60f1d53")
+	)
+	(wire
+		(pts
 			(xy 736.6 265.43) (xy 744.22 265.43)
 		)
 		(stroke
@@ -17974,6 +18024,16 @@
 			(type default)
 		)
 		(uuid "8e1bcc2e-b76f-4de5-82a5-6017570a3679")
+	)
+	(wire
+		(pts
+			(xy 660.4 279.4) (xy 661.67 279.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ecc4e1d-2f1d-468f-a7e7-d474a1d82dac")
 	)
 	(wire
 		(pts
@@ -18074,6 +18134,16 @@
 			(type default)
 		)
 		(uuid "91bf79e3-ad54-4dc1-a49b-c61af525288e")
+	)
+	(wire
+		(pts
+			(xy 656.59 92.71) (xy 657.86 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91fc07f7-f1fd-4749-833c-e58d24273c5e")
 	)
 	(wire
 		(pts
@@ -18217,6 +18287,16 @@
 	)
 	(wire
 		(pts
+			(xy 668.02 156.21) (xy 669.29 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95f61353-7e79-4cff-9763-bfe3fc62847c")
+	)
+	(wire
+		(pts
 			(xy 727.71 160.02) (xy 751.84 160.02)
 		)
 		(stroke
@@ -18277,6 +18357,16 @@
 	)
 	(wire
 		(pts
+			(xy 656.59 82.55) (xy 657.86 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98ae4f26-44e8-4b5a-ae36-b58566d5545f")
+	)
+	(wire
+		(pts
 			(xy 655.32 62.23) (xy 662.94 62.23)
 		)
 		(stroke
@@ -18304,16 +18394,6 @@
 			(type default)
 		)
 		(uuid "9b034ea7-02be-4842-8d2a-c2a36de58651")
-	)
-	(wire
-		(pts
-			(xy 675.64 92.71) (xy 675.64 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9bab457a-8447-4dff-8888-cfb405d90e29")
 	)
 	(wire
 		(pts
@@ -18637,6 +18717,16 @@
 	)
 	(wire
 		(pts
+			(xy 744.22 308.61) (xy 746.76 308.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6a884ac-f6b2-44bb-b3d6-696810fe49ea")
+	)
+	(wire
+		(pts
 			(xy 154.94 525.78) (xy 154.94 530.86)
 		)
 		(stroke
@@ -18644,6 +18734,16 @@
 			(type default)
 		)
 		(uuid "a6c9c1c9-d12b-4899-9067-bd5251910f30")
+	)
+	(wire
+		(pts
+			(xy 669.29 156.21) (xy 678.18 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6cff593-0ae0-47a9-b5ff-e9ac5006eb55")
 	)
 	(wire
 		(pts
@@ -18727,6 +18827,16 @@
 	)
 	(wire
 		(pts
+			(xy 675.64 90.17) (xy 675.64 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9850ad7-c06a-43fb-84e0-577346e09c54")
+	)
+	(wire
+		(pts
 			(xy 295.91 31.115) (xy 295.91 40.64)
 		)
 		(stroke
@@ -18734,6 +18844,16 @@
 			(type default)
 		)
 		(uuid "a9c16314-8952-4bbe-8a45-49770849f937")
+	)
+	(wire
+		(pts
+			(xy 670.56 269.24) (xy 679.45 269.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa84497f-935f-4ef0-99d0-5a5772479409")
 	)
 	(wire
 		(pts
@@ -18924,6 +19044,16 @@
 			(type default)
 		)
 		(uuid "af19be54-4a2f-4676-bd3a-ee05693aecfa")
+	)
+	(wire
+		(pts
+			(xy 665.48 82.55) (xy 666.75 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af22a35c-3646-491f-8eca-c77133657763")
 	)
 	(wire
 		(pts
@@ -19177,16 +19307,6 @@
 	)
 	(wire
 		(pts
-			(xy 666.75 279.4) (xy 679.45 279.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ba3e40a8-a144-4fae-a2f8-7b7ddeca4965")
-	)
-	(wire
-		(pts
 			(xy 73.66 236.855) (xy 76.835 236.855)
 		)
 		(stroke
@@ -19207,16 +19327,6 @@
 	)
 	(wire
 		(pts
-			(xy 675.64 82.55) (xy 675.64 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bb5f6b5f-50a8-424a-88bd-a1fa93a6a5d0")
-	)
-	(wire
-		(pts
 			(xy 111.76 243.205) (xy 111.76 242.57)
 		)
 		(stroke
@@ -19224,16 +19334,6 @@
 			(type default)
 		)
 		(uuid "bca121bc-cd30-49cf-9e29-5fd704e6f7c5")
-	)
-	(wire
-		(pts
-			(xy 665.48 146.05) (xy 678.18 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bcc70fac-38b4-4674-aa70-c1c57eafad3e")
 	)
 	(wire
 		(pts
@@ -19287,6 +19387,16 @@
 	)
 	(wire
 		(pts
+			(xy 678.18 204.47) (xy 678.18 207.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c05d190d-d674-4136-bd2d-19baf3598c93")
+	)
+	(wire
+		(pts
 			(xy 53.975 80.01) (xy 59.69 80.01)
 		)
 		(stroke
@@ -19337,6 +19447,16 @@
 	)
 	(wire
 		(pts
+			(xy 666.75 82.55) (xy 675.64 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3d0d2e3-0eae-4425-8a73-59b63cac0fb6")
+	)
+	(wire
+		(pts
 			(xy 285.75 31.115) (xy 285.75 34.29)
 		)
 		(stroke
@@ -19384,6 +19504,16 @@
 			(type default)
 		)
 		(uuid "c6a0dc7f-cc23-41e9-8abc-dcbfe05a40cd")
+	)
+	(wire
+		(pts
+			(xy 668.02 146.05) (xy 669.29 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6a0fa92-2a51-4957-b70b-d1ce9ba3f568")
 	)
 	(wire
 		(pts
@@ -19484,16 +19614,6 @@
 			(type default)
 		)
 		(uuid "c896cb67-731c-4696-b62d-ec99c9aacebc")
-	)
-	(wire
-		(pts
-			(xy 665.48 217.17) (xy 678.18 217.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c91be212-ff92-4523-8de4-2037a980c995")
 	)
 	(wire
 		(pts
@@ -19687,6 +19807,16 @@
 	)
 	(wire
 		(pts
+			(xy 675.64 92.71) (xy 675.64 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0ec740d-3951-473c-a701-d73319b52e4d")
+	)
+	(wire
+		(pts
 			(xy 389.89 104.14) (xy 399.415 104.14)
 		)
 		(stroke
@@ -19724,16 +19854,6 @@
 			(type default)
 		)
 		(uuid "d1b6b97a-7f94-4710-8f9f-0c0e23a52b15")
-	)
-	(wire
-		(pts
-			(xy 678.18 207.01) (xy 678.18 209.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d2412fa8-9739-4c20-b934-89007f163acd")
 	)
 	(wire
 		(pts
@@ -19867,6 +19987,16 @@
 	)
 	(wire
 		(pts
+			(xy 668.02 207.01) (xy 669.29 207.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8134648-0b3e-4e9d-9d49-8540fd01d1fa")
+	)
+	(wire
+		(pts
 			(xy 152.4 87.63) (xy 154.305 87.63)
 		)
 		(stroke
@@ -19914,6 +20044,16 @@
 			(type default)
 		)
 		(uuid "d8faf46f-e0ce-44af-bd38-6f6c62c5f7b9")
+	)
+	(wire
+		(pts
+			(xy 678.18 217.17) (xy 678.18 219.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d92553b2-58c8-4a0f-aa0e-8ebb5a0e282f")
 	)
 	(wire
 		(pts
@@ -20147,6 +20287,16 @@
 	)
 	(wire
 		(pts
+			(xy 763.905 398.78) (xy 768.35 398.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df55b14c-0563-49ce-9a39-00d5b9afdce7")
+	)
+	(wire
+		(pts
 			(xy 59.69 71.755) (xy 59.69 72.39)
 		)
 		(stroke
@@ -20307,6 +20457,16 @@
 	)
 	(wire
 		(pts
+			(xy 660.4 269.24) (xy 661.67 269.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3a6af4e-dcd7-492c-8c03-38a451368697")
+	)
+	(wire
+		(pts
 			(xy 680.72 306.07) (xy 680.72 308.61)
 		)
 		(stroke
@@ -20384,6 +20544,16 @@
 			(type default)
 		)
 		(uuid "e5e57a5e-15bf-4c3d-9742-52be096cab6c")
+	)
+	(wire
+		(pts
+			(xy 669.29 279.4) (xy 670.56 279.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5ea9607-4e03-4488-b1b4-0299d2d0b21e")
 	)
 	(wire
 		(pts
@@ -20487,16 +20657,6 @@
 	)
 	(wire
 		(pts
-			(xy 678.18 204.47) (xy 678.18 207.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eb8b9d71-c2bb-4bc1-a0fe-276939b71032")
-	)
-	(wire
-		(pts
 			(xy 349.25 123.825) (xy 349.25 114.3)
 		)
 		(stroke
@@ -20534,6 +20694,16 @@
 			(type default)
 		)
 		(uuid "ee5d1b07-b148-424b-93fd-8c9696cbce35")
+	)
+	(wire
+		(pts
+			(xy 665.48 92.71) (xy 666.75 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee66161e-b62d-4874-aa23-f061939872bb")
 	)
 	(wire
 		(pts
@@ -20687,6 +20857,16 @@
 	)
 	(wire
 		(pts
+			(xy 670.56 279.4) (xy 679.45 279.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f29251b3-f78b-4e84-a2aa-b449303e35f6")
+	)
+	(wire
+		(pts
 			(xy 139.7 250.19) (xy 139.7 251.46)
 		)
 		(stroke
@@ -20714,16 +20894,6 @@
 			(type default)
 		)
 		(uuid "f3cdffbc-e98f-46ba-8159-7e1ab19629cd")
-	)
-	(wire
-		(pts
-			(xy 662.94 82.55) (xy 675.64 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f3e7f1a7-2ed5-45ef-a937-3f7dcf9bb785")
 	)
 	(wire
 		(pts
@@ -20914,6 +21084,16 @@
 			(type default)
 		)
 		(uuid "fb82c430-3e95-410a-8b77-fa866312a308")
+	)
+	(wire
+		(pts
+			(xy 659.13 217.17) (xy 660.4 217.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fba218cb-754e-40b3-893f-a51262db7c38")
 	)
 	(wire
 		(pts
@@ -21575,6 +21755,30 @@
 			)
 		)
 	)
+	(global_label "POUT_5"
+		(shape input)
+		(at 659.13 217.17 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "19bcb039-083e-4d0e-9b63-c85d23c7d50b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 649.0691 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "GPIO_INPUT_1"
 		(shape input)
 		(at 109.22 364.49 180)
@@ -21804,6 +22008,30 @@
 		(uuid "2fb2e692-dc84-4ea1-a5ae-fab32138b88a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 97.2843 377.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "POUT_6"
+		(shape input)
+		(at 659.13 207.01 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "32b5a069-f8a3-47d6-bd18-9d791a05f8c4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 649.0691 207.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22129,7 +22357,7 @@
 	)
 	(global_label "POUT_10"
 		(shape input)
-		(at 770.89 308.61 0)
+		(at 775.97 308.61 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -22139,7 +22367,7 @@
 		)
 		(uuid "4d44564e-7a1c-44fa-b23e-02819187779c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 782.1604 308.61 0)
+			(at 787.2404 308.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22148,6 +22376,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "POUT_2"
+		(shape input)
+		(at 656.59 82.55 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4d723df3-35f5-42a6-a782-25e42a78a50c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 646.5291 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
@@ -22391,33 +22643,9 @@
 			)
 		)
 	)
-	(global_label "POUT_5"
-		(shape input)
-		(at 665.48 217.17 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "6d56aa62-08de-4217-9d11-a22cefb0e53b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 655.4191 217.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "POUT_8"
 		(shape input)
-		(at 666.75 269.24 180)
+		(at 660.4 269.24 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -22427,7 +22655,7 @@
 		)
 		(uuid "6db5ac4c-44ad-4855-9326-80aca661809e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 656.6891 269.24 0)
+			(at 650.3391 269.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23111,6 +23339,30 @@
 			)
 		)
 	)
+	(global_label "POUT_4"
+		(shape input)
+		(at 659.13 146.05 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ab0a1bd3-5019-4fe6-904e-7a3cc94e8589")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 649.0691 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "GPIO_OUTPUT_12"
 		(shape input)
 		(at 656.59 320.04 180)
@@ -23204,30 +23456,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-	)
-	(global_label "POUT_1"
-		(shape input)
-		(at 662.94 92.71 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "b37f0b4c-7cc6-4f39-8f14-83228cf830c5")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 652.8791 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 			)
 		)
 	)
@@ -23399,30 +23627,6 @@
 			)
 		)
 	)
-	(global_label "POUT_2"
-		(shape input)
-		(at 662.94 82.55 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "bde867f6-af7f-4cc1-923b-b6a81bd299fe")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 652.8791 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "GPIO_OUTPUT_11"
 		(shape input)
 		(at 675.64 298.45 180)
@@ -23521,7 +23725,7 @@
 	)
 	(global_label "POUT_7"
 		(shape input)
-		(at 666.75 279.4 180)
+		(at 660.4 279.4 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -23531,7 +23735,7 @@
 		)
 		(uuid "c9641f4b-5102-4941-9a30-ebe0c9361fad")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 656.6891 279.4 0)
+			(at 650.3391 279.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23567,30 +23771,6 @@
 			)
 		)
 	)
-	(global_label "POUT_6"
-		(shape input)
-		(at 665.48 207.01 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "d00f9e30-1b5f-4d62-99b9-9ed2eaca6b56")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 655.4191 207.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "USB_D-"
 		(shape input)
 		(at 144.78 374.65 0)
@@ -23612,54 +23792,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-	)
-	(global_label "POUT_3"
-		(shape input)
-		(at 665.48 156.21 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "d44d83a9-b0a7-4d25-9d0c-8ae22e1834bc")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 655.4191 156.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "POUT_4"
-		(shape input)
-		(at 665.48 146.05 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "d65e4e5e-6b3e-4a3a-b29a-50683819ba09")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 655.4191 146.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 			)
 		)
 	)
@@ -23737,7 +23869,7 @@
 	)
 	(global_label "POUT_9"
 		(shape input)
-		(at 750.57 308.61 0)
+		(at 754.38 308.61 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -23747,7 +23879,7 @@
 		)
 		(uuid "e04e9b3b-d35c-4e98-beb1-d213af059ec3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 760.6309 308.61 0)
+			(at 764.4409 308.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23857,7 +23989,7 @@
 	)
 	(global_label "PUMP_OUT"
 		(shape input)
-		(at 763.27 398.78 0)
+		(at 768.35 398.78 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -23867,7 +23999,7 @@
 		)
 		(uuid "e7c97967-dfe8-43c0-a599-a0c0a5f070fb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 776.1733 398.78 0)
+			(at 781.2533 398.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24143,6 +24275,30 @@
 			)
 		)
 	)
+	(global_label "POUT_3"
+		(shape input)
+		(at 659.13 156.21 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "fa9f4e81-d9ef-4173-8ed1-40cd434e3ae0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 649.0691 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "ADC3_IN12"
 		(shape input)
 		(at 144.78 389.89 0)
@@ -24212,6 +24368,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "POUT_1"
+		(shape input)
+		(at 656.59 92.71 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ff197a3a-ea60-44c9-b53f-fc54cfe32e29")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 646.5291 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
@@ -24394,83 +24574,6 @@
 			(project "PowerboardTR27_NEW"
 				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
 					(reference "C39")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 669.29 222.25 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "00a70fa8-b394-4f20-8dd0-64ba482dd29f")
-		(property "Reference" "#PWR094"
-			(at 669.29 228.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MGND"
-			(at 673.1 224.028 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 669.29 222.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 669.29 222.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 669.29 222.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "48ec45a5-0e6b-43cb-93da-71aea5caa1f6")
-		)
-		(instances
-			(project "PowerboardTR27_NEW"
-				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
-					(reference "#PWR094")
 					(unit 1)
 				)
 			)
@@ -24713,88 +24816,6 @@
 			(project "PowerboardTR27_NEW"
 				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
 					(reference "R4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small_US")
-		(at 666.75 95.25 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "031aeef9-6afa-4750-aade-d63e104bae6f")
-		(property "Reference" "C30"
-			(at 669.29 94.1069 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "220nF"
-			(at 669.29 96.6469 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 666.75 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 666.75 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "capacitor, small US symbol"
-			(at 666.75 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "b4ae3542-b967-45ba-b286-d8611bad408a")
-		)
-		(pin "1"
-			(uuid "9ac908cd-5f0f-4c7a-bf26-0ea831806dec")
-		)
-		(instances
-			(project "PowerboardTR27_NEW"
-				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
-					(reference "C30")
 					(unit 1)
 				)
 			)
@@ -25370,83 +25391,6 @@
 			(project "PowerboardTR27_NEW"
 				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
 					(reference "#PWR010")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 669.29 161.29 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "06610cb4-f5ab-44e7-a054-36cdbc6dddee")
-		(property "Reference" "#PWR091"
-			(at 669.29 167.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MGND"
-			(at 673.1 163.068 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 669.29 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 669.29 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 669.29 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5c4a06d4-89fe-44c9-9425-9a72258fd229")
-		)
-		(instances
-			(project "PowerboardTR27_NEW"
-				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
-					(reference "#PWR091")
 					(unit 1)
 				)
 			)
@@ -28736,88 +28680,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small_US")
-		(at 669.29 209.55 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "26502f9b-0126-4d67-a67c-13699b3101c0")
-		(property "Reference" "C33"
-			(at 671.83 208.4069 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "220nF"
-			(at 671.83 210.9469 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 669.29 209.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 669.29 209.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "capacitor, small US symbol"
-			(at 669.29 209.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "f69a662f-e9d9-4680-a5a1-024f1319cc35")
-		)
-		(pin "1"
-			(uuid "cb0fc1e4-aa93-4f18-8738-6c8aa281b225")
-		)
-		(instances
-			(project "PowerboardTR27_NEW"
-				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
-					(reference "C33")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 186.055 196.85 0)
 		(unit 1)
@@ -30240,88 +30102,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small_US")
-		(at 669.29 148.59 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2a7dbe4f-578e-4750-9d96-b0b728f04cdc")
-		(property "Reference" "C31"
-			(at 671.83 147.4469 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "220nF"
-			(at 671.83 149.9869 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 669.29 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 669.29 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "capacitor, small US symbol"
-			(at 669.29 148.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "b6816cf6-f408-4820-8568-63bbf884caa7")
-		)
-		(pin "1"
-			(uuid "f1781c59-ab71-4b96-b69e-f966652b8550")
-		)
-		(instances
-			(project "PowerboardTR27_NEW"
-				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
-					(reference "C31")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 147.32 321.31 0)
 		(unit 1)
@@ -31497,6 +31277,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:Fuse")
+		(at 664.21 146.05 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "34195116-0dc8-4368-b977-c7ca77e5e6e3")
+		(property "Reference" "F9"
+			(at 664.21 139.7 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5A"
+			(at 664.21 142.24 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Fuse:Fuseholder_Blade_Mini_Keystone_3568"
+			(at 664.21 147.828 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.littelfuse.com/assetdocs/littelfuse-datasheet-299-maxi32v?assetguid=68B8BBE8-3E51-4C7B-BBDA-3C71667F75F3"
+			(at 664.21 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Fuse"
+			(at 664.21 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "dda2f026-9ea4-44ab-b5a6-188319b54dcc")
+		)
+		(pin "1"
+			(uuid "f06ca41b-a97c-4010-9c36-2a933e76a322")
+		)
+		(instances
+			(project "PowerboardTR27_NEW"
+				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
+					(reference "F9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:USB_C_Plug_USB2.0")
 		(at 81.28 529.59 180)
 		(unit 1)
@@ -31917,6 +31777,86 @@
 			(project "PowerboardTR27_NEW"
 				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
 					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Fuse")
+		(at 760.095 398.78 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "38a97b96-b7cd-46ce-94da-69a45a1b9a96")
+		(property "Reference" "F13"
+			(at 760.095 392.43 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10A"
+			(at 760.095 394.97 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Fuse:Fuseholder_Blade_Mini_Keystone_3568"
+			(at 760.095 400.558 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.littelfuse.com/assetdocs/littelfuse-datasheet-299-maxi32v?assetguid=68B8BBE8-3E51-4C7B-BBDA-3C71667F75F3"
+			(at 760.095 398.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Fuse"
+			(at 760.095 398.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "0c54e035-3d3f-4daa-a24a-6b320e0cda89")
+		)
+		(pin "1"
+			(uuid "3a9d8843-1883-4e8d-8b3d-735f8546aad7")
+		)
+		(instances
+			(project "PowerboardTR27_NEW"
+				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
+					(reference "F13")
 					(unit 1)
 				)
 			)
@@ -33406,6 +33346,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small_US")
+		(at 666.75 95.25 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "42edec10-14a3-4ca4-9f28-0d3b5a0036a6")
+		(property "Reference" "C63"
+			(at 669.29 94.1069 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220nF"
+			(at 669.29 96.6469 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+			(at 666.75 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 666.75 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "capacitor, small US symbol"
+			(at 666.75 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "82fb397d-a4f6-46c8-896f-8f9cd064b096")
+		)
+		(pin "1"
+			(uuid "fcbf0f46-616e-468d-94da-116eb8449a5c")
+		)
+		(instances
+			(project "PowerboardTR27_NEW"
+				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
+					(reference "C63")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 276.86 42.545 0)
 		(unit 1)
@@ -33564,6 +33586,166 @@
 			(project "PowerboardTR27_NEW"
 				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
 					(reference "C53")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Fuse")
+		(at 750.57 308.61 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4689ad57-d085-4c2f-9176-9068bbd8d8c7")
+		(property "Reference" "F3"
+			(at 750.57 302.26 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10A"
+			(at 750.57 304.8 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Fuse:Fuseholder_Blade_Mini_Keystone_3568"
+			(at 750.57 310.388 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.littelfuse.com/assetdocs/littelfuse-datasheet-299-maxi32v?assetguid=68B8BBE8-3E51-4C7B-BBDA-3C71667F75F3"
+			(at 750.57 308.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Fuse"
+			(at 750.57 308.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "fbd127d6-7cba-4883-bc7a-0374158b7b31")
+		)
+		(pin "1"
+			(uuid "93826cc9-0364-4856-8d97-a8bdf9a2adad")
+		)
+		(instances
+			(project "PowerboardTR27_NEW"
+				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
+					(reference "F3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Fuse")
+		(at 665.48 269.24 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "46a8b887-ff17-4d39-bcb6-3c1e519ffa89")
+		(property "Reference" "F5"
+			(at 665.48 262.89 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5A"
+			(at 665.48 265.43 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Fuse:Fuseholder_Blade_Mini_Keystone_3568"
+			(at 665.48 271.018 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.littelfuse.com/assetdocs/littelfuse-datasheet-299-maxi32v?assetguid=68B8BBE8-3E51-4C7B-BBDA-3C71667F75F3"
+			(at 665.48 269.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Fuse"
+			(at 665.48 269.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "c8c4405e-d035-4596-9f58-6429361d9510")
+		)
+		(pin "1"
+			(uuid "d968a909-7d76-4a5e-96dd-b18d41b4f600")
+		)
+		(instances
+			(project "PowerboardTR27_NEW"
+				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
+					(reference "F5")
 					(unit 1)
 				)
 			)
@@ -33802,88 +33984,6 @@
 			(project "PowerboardTR27_NEW"
 				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
 					(reference "#PWR037")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small_US")
-		(at 666.75 85.09 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "48d758e8-4a00-40c5-ae65-afdf8fcc2b88")
-		(property "Reference" "C29"
-			(at 669.29 83.9469 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "220nF"
-			(at 669.29 86.4869 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 666.75 85.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 666.75 85.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "capacitor, small US symbol"
-			(at 666.75 85.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "576938e1-e221-495d-890f-bbc29cb7f6ea")
-		)
-		(pin "1"
-			(uuid "c5f45b5d-742a-40b5-ad2a-3b2327310862")
-		)
-		(instances
-			(project "PowerboardTR27_NEW"
-				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
-					(reference "C29")
 					(unit 1)
 				)
 			)
@@ -34748,6 +34848,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:Fuse")
+		(at 661.67 82.55 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5221b0e5-b35b-4ecc-9c27-c745e580175d")
+		(property "Reference" "F11"
+			(at 661.67 76.2 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5A"
+			(at 661.67 78.74 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Fuse:Fuseholder_Blade_Mini_Keystone_3568"
+			(at 661.67 84.328 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.littelfuse.com/assetdocs/littelfuse-datasheet-299-maxi32v?assetguid=68B8BBE8-3E51-4C7B-BBDA-3C71667F75F3"
+			(at 661.67 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Fuse"
+			(at 661.67 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "a3520d64-907c-4ab9-b475-8cdb75b2c8f8")
+		)
+		(pin "1"
+			(uuid "0a63ca73-c94b-4b8e-9def-bea16c077893")
+		)
+		(instances
+			(project "PowerboardTR27_NEW"
+				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
+					(reference "F11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GNDPWR")
 		(at 24.765 41.275 0)
 		(mirror y)
@@ -34900,6 +35080,83 @@
 			(project "PowerboardTR27_NEW"
 				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
 					(reference "R31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 666.75 97.79 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "52b68d7b-2244-4223-beae-21733bcf057b")
+		(property "Reference" "#PWR0182"
+			(at 666.75 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MGND"
+			(at 670.56 99.568 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 666.75 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 666.75 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 666.75 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7831183c-5f78-45e8-99bd-e190341584db")
+		)
+		(instances
+			(project "PowerboardTR27_NEW"
+				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
+					(reference "#PWR0182")
 					(unit 1)
 				)
 			)
@@ -35062,6 +35319,86 @@
 			(project "PowerboardTR27_NEW"
 				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
 					(reference "C6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Fuse")
+		(at 770.255 308.61 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "550c00f5-1bf1-4d6e-b7a6-2c58f055757c")
+		(property "Reference" "F4"
+			(at 770.255 302.26 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10A"
+			(at 770.255 304.8 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Fuse:Fuseholder_Blade_Mini_Keystone_3568"
+			(at 770.255 310.388 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.littelfuse.com/assetdocs/littelfuse-datasheet-299-maxi32v?assetguid=68B8BBE8-3E51-4C7B-BBDA-3C71667F75F3"
+			(at 770.255 308.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Fuse"
+			(at 770.255 308.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "2626d134-0ef4-46bb-a222-a0d2997ffbd8")
+		)
+		(pin "1"
+			(uuid "ee64843c-5ca5-4fa1-b6c1-6c0ddc472c48")
+		)
+		(instances
+			(project "PowerboardTR27_NEW"
+				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
+					(reference "F4")
 					(unit 1)
 				)
 			)
@@ -39145,6 +39482,88 @@
 			(project "PowerboardTR27_NEW"
 				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
 					(reference "C26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small_US")
+		(at 669.29 209.55 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7301de3e-914e-4e2f-804b-36985e6b3e10")
+		(property "Reference" "C58"
+			(at 671.83 208.4069 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220nF"
+			(at 671.83 210.9469 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+			(at 669.29 209.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 669.29 209.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "capacitor, small US symbol"
+			(at 669.29 209.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "71c842e7-df19-4d4b-9306-69104f24a2d1")
+		)
+		(pin "1"
+			(uuid "91d50d69-a7bd-49c0-9f17-124b86449141")
+		)
+		(instances
+			(project "PowerboardTR27_NEW"
+				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
+					(reference "C58")
 					(unit 1)
 				)
 			)
@@ -43789,6 +44208,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:Fuse")
+		(at 664.21 207.01 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "902c12e5-b791-4cd3-81a1-db9fcebb7c2e")
+		(property "Reference" "F7"
+			(at 664.21 200.66 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5A"
+			(at 664.21 203.2 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Fuse:Fuseholder_Blade_Mini_Keystone_3568"
+			(at 664.21 208.788 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.littelfuse.com/assetdocs/littelfuse-datasheet-299-maxi32v?assetguid=68B8BBE8-3E51-4C7B-BBDA-3C71667F75F3"
+			(at 664.21 207.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Fuse"
+			(at 664.21 207.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "b70fffe2-c05d-488c-8bd4-4faf89f5f817")
+		)
+		(pin "1"
+			(uuid "d4cb6135-68e3-4b42-8800-e3d159a07b3e")
+		)
+		(instances
+			(project "PowerboardTR27_NEW"
+				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
+					(reference "F7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GNDPWR")
 		(at 161.925 199.39 0)
 		(unit 1)
@@ -44628,88 +45127,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small_US")
-		(at 669.29 219.71 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "971fa959-287e-4f7d-8f99-3759ebe4929b")
-		(property "Reference" "C34"
-			(at 671.83 218.5669 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "220nF"
-			(at 671.83 221.1069 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 669.29 219.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 669.29 219.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "capacitor, small US symbol"
-			(at 669.29 219.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "1ffe4bc3-4eff-48b5-ba67-7761e527fe69")
-		)
-		(pin "1"
-			(uuid "90cb932e-a7af-4ff2-9e0c-bdf6c7a4481e")
-		)
-		(instances
-			(project "PowerboardTR27_NEW"
-				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
-					(reference "C34")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 755.65 83.82 270)
 		(unit 1)
@@ -45416,83 +45833,6 @@
 			(project "PowerboardTR27_NEW"
 				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
 					(reference "#PWR0108")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 669.29 212.09 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "9bbbab6a-15c4-474a-a4bf-b61fb2085804")
-		(property "Reference" "#PWR093"
-			(at 669.29 218.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MGND"
-			(at 673.1 213.868 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 669.29 212.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 669.29 212.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 669.29 212.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "2a8b4010-8473-43ef-993e-ff74d72ff017")
-		)
-		(instances
-			(project "PowerboardTR27_NEW"
-				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
-					(reference "#PWR093")
 					(unit 1)
 				)
 			)
@@ -46463,83 +46803,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 666.75 87.63 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "a788e8e4-0f12-436b-8160-202919da747a")
-		(property "Reference" "#PWR088"
-			(at 666.75 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MGND"
-			(at 670.56 89.408 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 666.75 87.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 666.75 87.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 666.75 87.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5485142b-e347-401e-b0b5-dbb1d46854af")
-		)
-		(instances
-			(project "PowerboardTR27_NEW"
-				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
-					(reference "#PWR088")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 318.77 198.12 0)
 		(unit 1)
@@ -47104,6 +47367,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small_US")
+		(at 666.75 85.09 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "aaae7d37-3f9c-4fd6-9450-ed6496dd46d3")
+		(property "Reference" "C62"
+			(at 669.29 83.9469 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220nF"
+			(at 669.29 86.4869 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+			(at 666.75 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 666.75 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "capacitor, small US symbol"
+			(at 666.75 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "3068542b-6435-4717-bac1-62d3837a252b")
+		)
+		(pin "1"
+			(uuid "cf7100d0-8d62-460f-b573-17020cf5e569")
+		)
+		(instances
+			(project "PowerboardTR27_NEW"
+				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
+					(reference "C62")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+5V")
 		(at 167.005 196.85 0)
 		(unit 1)
@@ -47175,6 +47520,83 @@
 			(project "PowerboardTR27_NEW"
 				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
 					(reference "#PWR039")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 669.29 212.09 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ab0e938c-c5af-4a8e-ad4a-1bd66fb55028")
+		(property "Reference" "#PWR0112"
+			(at 669.29 218.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MGND"
+			(at 673.1 213.868 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 669.29 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 669.29 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 669.29 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "555852e8-882e-4815-be5f-1c26c3ffcb5c")
+		)
+		(instances
+			(project "PowerboardTR27_NEW"
+				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
+					(reference "#PWR0112")
 					(unit 1)
 				)
 			)
@@ -47258,6 +47680,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:Fuse")
+		(at 738.505 304.8 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "abde0a99-c988-4294-80a2-90782482d6c4")
+		(property "Reference" "F2"
+			(at 738.505 298.45 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10A"
+			(at 738.505 300.99 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Fuse:Fuseholder_Blade_Mini_Keystone_3568"
+			(at 738.505 306.578 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.littelfuse.com/assetdocs/littelfuse-datasheet-299-maxi32v?assetguid=68B8BBE8-3E51-4C7B-BBDA-3C71667F75F3"
+			(at 738.505 304.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Fuse"
+			(at 738.505 304.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "512aeed3-e6e3-4412-95bd-89c3385d8524")
+		)
+		(pin "1"
+			(uuid "05dee503-77c7-4675-b499-18452d3f89d6")
+		)
+		(instances
+			(project "PowerboardTR27_NEW"
+				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
+					(reference "F2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 83.82 125.095 0)
 		(unit 1)
@@ -47334,6 +47836,88 @@
 			(project "PowerboardTR27_NEW"
 				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
 					(reference "C24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small_US")
+		(at 669.29 148.59 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ae2ee2b2-3ead-4d15-a986-1d91fecee5e9")
+		(property "Reference" "C60"
+			(at 671.83 147.4469 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220nF"
+			(at 671.83 149.9869 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+			(at 669.29 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 669.29 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "capacitor, small US symbol"
+			(at 669.29 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "cefa7bb1-7efe-47a5-9da3-44b8f089d859")
+		)
+		(pin "1"
+			(uuid "286f60b1-5bf7-44b2-b6c8-f7e3a5184460")
+		)
+		(instances
+			(project "PowerboardTR27_NEW"
+				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
+					(reference "C60")
 					(unit 1)
 				)
 			)
@@ -47898,6 +48482,88 @@
 			(project "PowerboardTR27_NEW"
 				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
 					(reference "#PWR0151")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small_US")
+		(at 669.29 219.71 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b3df3427-fd3f-4589-80e3-8711000ca4c1")
+		(property "Reference" "C59"
+			(at 671.83 218.5669 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220nF"
+			(at 671.83 221.1069 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+			(at 669.29 219.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 669.29 219.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "capacitor, small US symbol"
+			(at 669.29 219.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "8407ddd0-1e1f-4fb6-8cde-b8c3b0e4290b")
+		)
+		(pin "1"
+			(uuid "10f9eb27-5adf-4c62-a209-f8e2968b0861")
+		)
+		(instances
+			(project "PowerboardTR27_NEW"
+				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
+					(reference "C59")
 					(unit 1)
 				)
 			)
@@ -49207,83 +49873,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 669.29 151.13 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "be4a7dda-5548-4eab-a514-0732584fd6be")
-		(property "Reference" "#PWR090"
-			(at 669.29 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MGND"
-			(at 673.1 152.908 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 669.29 151.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 669.29 151.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 669.29 151.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "3941c0af-fdb0-4f16-b47d-2f4ebba906fd")
-		)
-		(instances
-			(project "PowerboardTR27_NEW"
-				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
-					(reference "#PWR090")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small_US")
 		(at 729.615 421.64 270)
 		(unit 1)
@@ -50416,6 +51005,160 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 669.29 222.25 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c8995629-08f1-4e37-a5a7-3e74ea57ee57")
+		(property "Reference" "#PWR0178"
+			(at 669.29 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MGND"
+			(at 673.1 224.028 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 669.29 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 669.29 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 669.29 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "701f706f-a22d-492a-bd1d-0d0fcfafb6fe")
+		)
+		(instances
+			(project "PowerboardTR27_NEW"
+				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
+					(reference "#PWR0178")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 666.75 87.63 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c8d8947e-93c3-4ab2-b5ff-fc7f03fb9875")
+		(property "Reference" "#PWR0180"
+			(at 666.75 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MGND"
+			(at 670.56 89.408 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 666.75 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 666.75 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 666.75 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "87884bc6-9f54-45ff-a091-150804937e4e")
+		)
+		(instances
+			(project "PowerboardTR27_NEW"
+				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
+					(reference "#PWR0180")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 158.75 500.38 270)
 		(unit 1)
@@ -50730,6 +51473,83 @@
 			(project "PowerboardTR27_NEW"
 				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
 					(reference "R83")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 669.29 161.29 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "cd7b9c7c-ee5a-4657-a3b5-752c04c2dd8c")
+		(property "Reference" "#PWR0181"
+			(at 669.29 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MGND"
+			(at 673.1 163.068 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 669.29 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 669.29 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 669.29 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5bae5e4a-30fb-4dae-8589-4970370b6ac6")
+		)
+		(instances
+			(project "PowerboardTR27_NEW"
+				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
+					(reference "#PWR0181")
 					(unit 1)
 				)
 			)
@@ -51378,6 +52198,86 @@
 			(project "PowerboardTR27_NEW"
 				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
 					(reference "R89")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Fuse")
+		(at 665.48 279.4 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d49c99cd-d98c-4628-a054-ffb34ad406e3")
+		(property "Reference" "F6"
+			(at 665.48 273.05 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5A"
+			(at 665.48 275.59 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Fuse:Fuseholder_Blade_Mini_Keystone_3568"
+			(at 665.48 281.178 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.littelfuse.com/assetdocs/littelfuse-datasheet-299-maxi32v?assetguid=68B8BBE8-3E51-4C7B-BBDA-3C71667F75F3"
+			(at 665.48 279.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Fuse"
+			(at 665.48 279.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "83eb511e-bd68-4ac5-be83-56fdd2255c63")
+		)
+		(pin "1"
+			(uuid "398e1f2c-0a05-48a0-bf0b-6868c25d75a8")
+		)
+		(instances
+			(project "PowerboardTR27_NEW"
+				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
+					(reference "F6")
 					(unit 1)
 				)
 			)
@@ -54255,83 +55155,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 666.75 97.79 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "e8e4e081-3363-4268-a4f3-e9c747717335")
-		(property "Reference" "#PWR089"
-			(at 666.75 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MGND"
-			(at 670.56 99.568 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 666.75 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 666.75 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 666.75 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "bc3dd16b-41ca-45e9-bc10-043fa9cd915c")
-		)
-		(instances
-			(project "PowerboardTR27_NEW"
-				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
-					(reference "#PWR089")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GNDPWR")
 		(at 88.9 132.715 0)
 		(mirror y)
@@ -54563,6 +55386,86 @@
 			(project "PowerboardTR27_NEW"
 				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
 					(reference "#PWR099")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Fuse")
+		(at 661.67 92.71 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ea40e59a-1a3e-41de-a8a5-6af9540e866f")
+		(property "Reference" "F12"
+			(at 661.67 86.36 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5A"
+			(at 661.67 88.9 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Fuse:Fuseholder_Blade_Mini_Keystone_3568"
+			(at 661.67 94.488 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.littelfuse.com/assetdocs/littelfuse-datasheet-299-maxi32v?assetguid=68B8BBE8-3E51-4C7B-BBDA-3C71667F75F3"
+			(at 661.67 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Fuse"
+			(at 661.67 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "2ff746fd-8bd2-480f-be57-88ef92ddf0db")
+		)
+		(pin "1"
+			(uuid "8c57bfe4-c6f6-4af0-89af-28ce8d3df344")
+		)
+		(instances
+			(project "PowerboardTR27_NEW"
+				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
+					(reference "F12")
 					(unit 1)
 				)
 			)
@@ -55995,6 +56898,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:Fuse")
+		(at 664.21 217.17 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f429853e-dd30-4192-b652-9295cd9663e7")
+		(property "Reference" "F8"
+			(at 664.21 210.82 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5A"
+			(at 664.21 213.36 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Fuse:Fuseholder_Blade_Mini_Keystone_3568"
+			(at 664.21 218.948 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.littelfuse.com/assetdocs/littelfuse-datasheet-299-maxi32v?assetguid=68B8BBE8-3E51-4C7B-BBDA-3C71667F75F3"
+			(at 664.21 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Fuse"
+			(at 664.21 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "5f028309-bbd4-433a-90c9-4e77ee18969d")
+		)
+		(pin "1"
+			(uuid "410fb2d3-40fe-4e38-bd4e-0acef7612022")
+		)
+		(instances
+			(project "PowerboardTR27_NEW"
+				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
+					(reference "F8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 358.775 69.85 180)
 		(unit 1)
@@ -56309,6 +57292,86 @@
 			(project "PowerboardTR27_NEW"
 				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
 					(reference "#PWR068")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Fuse")
+		(at 664.21 156.21 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f6ea93eb-1371-47b1-879f-5f7120104c4f")
+		(property "Reference" "F10"
+			(at 664.21 149.86 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5A"
+			(at 664.21 152.4 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Fuse:Fuseholder_Blade_Mini_Keystone_3568"
+			(at 664.21 157.988 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.littelfuse.com/assetdocs/littelfuse-datasheet-299-maxi32v?assetguid=68B8BBE8-3E51-4C7B-BBDA-3C71667F75F3"
+			(at 664.21 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Fuse"
+			(at 664.21 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "9f19e43e-e0d8-4ef1-a6a7-9d6c6f7269ed")
+		)
+		(pin "1"
+			(uuid "2ac354fb-70e5-4059-9868-93228d074067")
+		)
+		(instances
+			(project "PowerboardTR27_NEW"
+				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
+					(reference "F10")
 					(unit 1)
 				)
 			)
@@ -56756,6 +57819,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small_US")
+		(at 669.29 158.75 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f8ee9925-6489-41c0-b7ef-7b9b226fa971")
+		(property "Reference" "C61"
+			(at 671.83 157.6069 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220nF"
+			(at 671.83 160.1469 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+			(at 669.29 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 669.29 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "capacitor, small US symbol"
+			(at 669.29 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "f7927670-4ca5-4f8e-8191-8adc37591806")
+		)
+		(pin "1"
+			(uuid "63269123-00d3-48a5-b2ee-9af3ac0d8454")
+		)
+		(instances
+			(project "PowerboardTR27_NEW"
+				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
+					(reference "C61")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 408.94 109.22 0)
 		(unit 1)
@@ -56911,88 +58056,6 @@
 			(project "PowerboardTR27_NEW"
 				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
 					(reference "#PWR083")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small_US")
-		(at 669.29 158.75 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fa5c0b18-2ff0-4158-9f95-2aefdfd7b9fa")
-		(property "Reference" "C32"
-			(at 671.83 157.6069 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "220nF"
-			(at 671.83 160.1469 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 669.29 158.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 669.29 158.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "capacitor, small US symbol"
-			(at 669.29 158.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "271cb6df-c864-4f4e-aba0-a529e716e492")
-		)
-		(pin "1"
-			(uuid "b566263a-16c4-454c-871c-5410cefd7cb9")
-		)
-		(instances
-			(project "PowerboardTR27_NEW"
-				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
-					(reference "C32")
 					(unit 1)
 				)
 			)
@@ -57888,6 +58951,83 @@
 			(project "PowerboardTR27_NEW"
 				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
 					(reference "R12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 669.29 151.13 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ffb8a850-f4b1-4892-9a35-83cf844f8fe5")
+		(property "Reference" "#PWR0179"
+			(at 669.29 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MGND"
+			(at 673.1 152.908 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 669.29 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 669.29 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 669.29 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f38ebd22-02db-4fca-be93-ebc5c602c35e")
+		)
+		(instances
+			(project "PowerboardTR27_NEW"
+				(path "/e25145ff-cb0f-4a58-9c3d-17a76abbbc76"
+					(reference "#PWR0179")
 					(unit 1)
 				)
 			)
