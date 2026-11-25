@@ -7327,6 +7327,28 @@
 				)
 			)
 		)
+		(property "MFG#" "1N4148WGW-AQ"
+			(at 60.96 172.72 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" "637-1N4148WGW-AQ"
+			(at 60.96 172.72 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1c70d9b7-c3a1-4303-a2ff-fad56e3727e7")
 		)
@@ -7936,7 +7958,7 @@
 				)
 			)
 		)
-		(property "MFG#" ""
+		(property "MFG#" "RPT109NP-152MB "
 			(at 138.43 128.27 90)
 			(hide yes)
 			(show_name no)
@@ -7947,7 +7969,7 @@
 				)
 			)
 		)
-		(property "Mouser#" ""
+		(property "Mouser#" "851-RPT109NP-152MB "
 			(at 138.43 128.27 90)
 			(hide yes)
 			(show_name no)
@@ -12693,6 +12715,28 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 60.96 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFG#" "1N4148WGW-AQ"
+			(at 60.96 180.34 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser#" "637-1N4148WGW-AQ"
+			(at 60.96 180.34 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
