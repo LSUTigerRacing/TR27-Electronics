@@ -669,13 +669,21 @@
         "uuid": "4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9"
       }
     ],
-    "used_designators": "CSense8-10,U3-5,U22-24,#PWR7,#PWR9,#PWR16-30,#PWR33-98,#PWR104-190,D1-86,Q2-8,R2-46,R55-99,#FLG2,C10,C13-30,C33-50,C59-61,C63-65,FB1,SW2-3,Y1,J2,IC1-7,H1-5,RSense8-10",
+    "used_designators": "CSense8-10,U3-8,U12-15,U22-24,T2-3,#PWR7,#PWR9,#PWR16-30,#PWR33-197,D1-86,Q2-8,R2-102,#FLG2,C10,C13-66,FB1,SW2-3,Y1,CIN1-2,J2,J4-5,IC1-7,H1-5,RSense8-10",
     "variants": []
   },
   "sheets": [
     [
       "4a4b90c0-180a-4b9c-92a1-c2b0bd17b3c9",
       "MAIN VCU"
+    ],
+    [
+      "eb532f48-6f52-40ac-8086-29858bf04b1f",
+      "Power Protection"
+    ],
+    [
+      "3fcf802d-c155-49ca-b7a8-9c1e8f4795f4",
+      "Power Conversion (Flyback & LDOs)"
     ]
   ],
   "text_variables": {},
